@@ -16,19 +16,19 @@ const repositories = [
     owner: "aws-amplify-jp",
     repos: ["aws-amplify-jp.github.io", "awesome-aws-amplify-ja"],
   },
-  // {
-  //   owner: "aws-amplify",
-  //   repos: [
-  //     "amplify-js",
-  //     "amplify-cli",
-  //     "docs",
-  //     "amplify-ios",
-  //     "amplify-android",
-  //     "amplify-flutter",
-  //     "amplify-ui",
-  //     "maplibre-gl-js-amplify",
-  //   ]
-  // },
+  {
+    owner: "aws-amplify",
+    repos: [
+      "amplify-js",
+      "amplify-cli",
+      "docs",
+      "amplify-ios",
+      "amplify-android",
+      "amplify-flutter",
+      "amplify-ui",
+      "maplibre-gl-js-amplify",
+    ]
+  },
 ];
 
 async function fetchUsers(client, contributors, users) {
