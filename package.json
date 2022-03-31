@@ -1,0 +1,16 @@
+{
+  "name": "aws-amplify-contributors",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AWS Amplifyのコントリビューターのリストを自動で更新するリポジトリ",
+  "scripts": {
+    "fetch": "node ./src/fetchContributors.mjs"
+  },
+  "dependencies": {
+    "@octokit/core": "^3.5.1",
+    "@octokit/plugin-paginate-rest": "^2.17.0",
+    "@octokit/plugin-throttling": "^3.6.1"
+  },
+  "author": "Amplify Japan User Group",
+  "license": "MIT"
+}
