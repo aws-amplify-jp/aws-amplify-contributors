@@ -3302,5 +3302,17 @@
   "NEKOYASAN": {
     "login": "NEKOYASAN",
     "location": "Japan, Hokkaido, Asahikawa"
+  },
+  "Jaykingamez": {
+    "login": "Jaykingamez",
+    "location": null
+  },
+  "serranoarevalo": {
+    "login": "serranoarevalo",
+    "location": "Seoul, S. Korea"
+  },
+  "hbuchel": {
+    "login": "hbuchel",
+    "location": "Brooklyn, NY"
   }
 }
