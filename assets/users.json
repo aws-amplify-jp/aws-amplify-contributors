@@ -3318,5 +3318,13 @@
   "daohoangson": {
     "login": "daohoangson",
     "location": "Vietnam"
+  },
+  "elisno": {
+    "login": "elisno",
+    "location": null
+  },
+  "tjmcewan": {
+    "login": "tjmcewan",
+    "location": "Australia"
   }
 }
