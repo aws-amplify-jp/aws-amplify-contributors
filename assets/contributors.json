@@ -7684,7 +7684,7 @@
         "received_events_url": "https://api.github.com/users/danielleadams/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 43
+        "contributions": 44
       },
       {
         "login": "jordanranz",
@@ -12100,7 +12100,7 @@
         "received_events_url": "https://api.github.com/users/swaminator/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 116
+        "contributions": 117
       },
       {
         "login": "haverchuck",
@@ -12985,27 +12985,6 @@
         "contributions": 29
       },
       {
-        "login": "amhinson",
-        "id": 17091790,
-        "node_id": "MDQ6VXNlcjE3MDkxNzkw",
-        "avatar_url": "https://avatars.githubusercontent.com/u/17091790?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/amhinson",
-        "html_url": "https://github.com/amhinson",
-        "followers_url": "https://api.github.com/users/amhinson/followers",
-        "following_url": "https://api.github.com/users/amhinson/following{/other_user}",
-        "gists_url": "https://api.github.com/users/amhinson/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/amhinson/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/amhinson/subscriptions",
-        "organizations_url": "https://api.github.com/users/amhinson/orgs",
-        "repos_url": "https://api.github.com/users/amhinson/repos",
-        "events_url": "https://api.github.com/users/amhinson/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/amhinson/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 26
-      },
-      {
         "login": "chintannp",
         "id": 88387035,
         "node_id": "MDQ6VXNlcjg4Mzg3MDM1",
@@ -13022,6 +13001,27 @@
         "repos_url": "https://api.github.com/users/chintannp/repos",
         "events_url": "https://api.github.com/users/chintannp/events{/privacy}",
         "received_events_url": "https://api.github.com/users/chintannp/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 28
+      },
+      {
+        "login": "amhinson",
+        "id": 17091790,
+        "node_id": "MDQ6VXNlcjE3MDkxNzkw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17091790?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/amhinson",
+        "html_url": "https://github.com/amhinson",
+        "followers_url": "https://api.github.com/users/amhinson/followers",
+        "following_url": "https://api.github.com/users/amhinson/following{/other_user}",
+        "gists_url": "https://api.github.com/users/amhinson/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/amhinson/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/amhinson/subscriptions",
+        "organizations_url": "https://api.github.com/users/amhinson/orgs",
+        "repos_url": "https://api.github.com/users/amhinson/repos",
+        "events_url": "https://api.github.com/users/amhinson/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/amhinson/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 26
@@ -13384,6 +13384,27 @@
         "contributions": 14
       },
       {
+        "login": "atierian",
+        "id": 52051793,
+        "node_id": "MDQ6VXNlcjUyMDUxNzkz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/52051793?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/atierian",
+        "html_url": "https://github.com/atierian",
+        "followers_url": "https://api.github.com/users/atierian/followers",
+        "following_url": "https://api.github.com/users/atierian/following{/other_user}",
+        "gists_url": "https://api.github.com/users/atierian/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/atierian/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/atierian/subscriptions",
+        "organizations_url": "https://api.github.com/users/atierian/orgs",
+        "repos_url": "https://api.github.com/users/atierian/repos",
+        "events_url": "https://api.github.com/users/atierian/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/atierian/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 13
+      },
+      {
         "login": "YikSanChan",
         "id": 17229109,
         "node_id": "MDQ6VXNlcjE3MjI5MTA5",
@@ -13403,27 +13424,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 13
-      },
-      {
-        "login": "atierian",
-        "id": 52051793,
-        "node_id": "MDQ6VXNlcjUyMDUxNzkz",
-        "avatar_url": "https://avatars.githubusercontent.com/u/52051793?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/atierian",
-        "html_url": "https://github.com/atierian",
-        "followers_url": "https://api.github.com/users/atierian/followers",
-        "following_url": "https://api.github.com/users/atierian/following{/other_user}",
-        "gists_url": "https://api.github.com/users/atierian/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/atierian/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/atierian/subscriptions",
-        "organizations_url": "https://api.github.com/users/atierian/orgs",
-        "repos_url": "https://api.github.com/users/atierian/repos",
-        "events_url": "https://api.github.com/users/atierian/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/atierian/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 12
       },
       {
         "login": "nikhname",
@@ -13636,6 +13636,27 @@
         "contributions": 9
       },
       {
+        "login": "chrisbonifacio",
+        "id": 16952986,
+        "node_id": "MDQ6VXNlcjE2OTUyOTg2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16952986?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/chrisbonifacio",
+        "html_url": "https://github.com/chrisbonifacio",
+        "followers_url": "https://api.github.com/users/chrisbonifacio/followers",
+        "following_url": "https://api.github.com/users/chrisbonifacio/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chrisbonifacio/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chrisbonifacio/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chrisbonifacio/subscriptions",
+        "organizations_url": "https://api.github.com/users/chrisbonifacio/orgs",
+        "repos_url": "https://api.github.com/users/chrisbonifacio/repos",
+        "events_url": "https://api.github.com/users/chrisbonifacio/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chrisbonifacio/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 8
+      },
+      {
         "login": "DavidBrear",
         "id": 1081640,
         "node_id": "MDQ6VXNlcjEwODE2NDA=",
@@ -13781,27 +13802,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 8
-      },
-      {
-        "login": "chrisbonifacio",
-        "id": 16952986,
-        "node_id": "MDQ6VXNlcjE2OTUyOTg2",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16952986?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/chrisbonifacio",
-        "html_url": "https://github.com/chrisbonifacio",
-        "followers_url": "https://api.github.com/users/chrisbonifacio/followers",
-        "following_url": "https://api.github.com/users/chrisbonifacio/following{/other_user}",
-        "gists_url": "https://api.github.com/users/chrisbonifacio/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/chrisbonifacio/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/chrisbonifacio/subscriptions",
-        "organizations_url": "https://api.github.com/users/chrisbonifacio/orgs",
-        "repos_url": "https://api.github.com/users/chrisbonifacio/repos",
-        "events_url": "https://api.github.com/users/chrisbonifacio/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/chrisbonifacio/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 7
       },
       {
         "login": "mikeparisstuff",
@@ -20980,7 +20980,7 @@
         "received_events_url": "https://api.github.com/users/dnys1/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 77
+        "contributions": 79
       },
       {
         "login": "HuiSF",
@@ -21661,27 +21661,6 @@
         "contributions": 47
       },
       {
-        "login": "eddiekeller",
-        "id": 17255334,
-        "node_id": "MDQ6VXNlcjE3MjU1MzM0",
-        "avatar_url": "https://avatars.githubusercontent.com/u/17255334?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/eddiekeller",
-        "html_url": "https://github.com/eddiekeller",
-        "followers_url": "https://api.github.com/users/eddiekeller/followers",
-        "following_url": "https://api.github.com/users/eddiekeller/following{/other_user}",
-        "gists_url": "https://api.github.com/users/eddiekeller/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/eddiekeller/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/eddiekeller/subscriptions",
-        "organizations_url": "https://api.github.com/users/eddiekeller/orgs",
-        "repos_url": "https://api.github.com/users/eddiekeller/repos",
-        "events_url": "https://api.github.com/users/eddiekeller/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/eddiekeller/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 43
-      },
-      {
         "login": "slaymance",
         "id": 26472139,
         "node_id": "MDQ6VXNlcjI2NDcyMTM5",
@@ -21698,6 +21677,27 @@
         "repos_url": "https://api.github.com/users/slaymance/repos",
         "events_url": "https://api.github.com/users/slaymance/events{/privacy}",
         "received_events_url": "https://api.github.com/users/slaymance/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 45
+      },
+      {
+        "login": "eddiekeller",
+        "id": 17255334,
+        "node_id": "MDQ6VXNlcjE3MjU1MzM0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17255334?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/eddiekeller",
+        "html_url": "https://github.com/eddiekeller",
+        "followers_url": "https://api.github.com/users/eddiekeller/followers",
+        "following_url": "https://api.github.com/users/eddiekeller/following{/other_user}",
+        "gists_url": "https://api.github.com/users/eddiekeller/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/eddiekeller/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/eddiekeller/subscriptions",
+        "organizations_url": "https://api.github.com/users/eddiekeller/orgs",
+        "repos_url": "https://api.github.com/users/eddiekeller/repos",
+        "events_url": "https://api.github.com/users/eddiekeller/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/eddiekeller/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 43
