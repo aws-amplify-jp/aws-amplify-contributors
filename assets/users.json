@@ -3386,5 +3386,9 @@
   "jaustinpage": {
     "login": "jaustinpage",
     "location": "Austin, TX"
+  },
+  "dayjournal": {
+    "login": "dayjournal",
+    "location": "Sapporo, Japan"
   }
 }
