@@ -3390,5 +3390,13 @@
   "dayjournal": {
     "login": "dayjournal",
     "location": "Sapporo, Japan"
+  },
+  "bensewell": {
+    "login": "bensewell",
+    "location": "Truro, United Kingdom"
+  },
+  "jariz": {
+    "login": "jariz",
+    "location": null
   }
 }
