@@ -835,27 +835,6 @@
         "contributions": 20
       },
       {
-        "login": "yuyokk",
-        "id": 1225343,
-        "node_id": "MDQ6VXNlcjEyMjUzNDM=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1225343?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/yuyokk",
-        "html_url": "https://github.com/yuyokk",
-        "followers_url": "https://api.github.com/users/yuyokk/followers",
-        "following_url": "https://api.github.com/users/yuyokk/following{/other_user}",
-        "gists_url": "https://api.github.com/users/yuyokk/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/yuyokk/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/yuyokk/subscriptions",
-        "organizations_url": "https://api.github.com/users/yuyokk/orgs",
-        "repos_url": "https://api.github.com/users/yuyokk/repos",
-        "events_url": "https://api.github.com/users/yuyokk/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/yuyokk/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 18
-      },
-      {
         "login": "svidgen",
         "id": 8375502,
         "node_id": "MDQ6VXNlcjgzNzU1MDI=",
@@ -872,6 +851,27 @@
         "repos_url": "https://api.github.com/users/svidgen/repos",
         "events_url": "https://api.github.com/users/svidgen/events{/privacy}",
         "received_events_url": "https://api.github.com/users/svidgen/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 19
+      },
+      {
+        "login": "yuyokk",
+        "id": 1225343,
+        "node_id": "MDQ6VXNlcjEyMjUzNDM=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1225343?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/yuyokk",
+        "html_url": "https://github.com/yuyokk",
+        "followers_url": "https://api.github.com/users/yuyokk/followers",
+        "following_url": "https://api.github.com/users/yuyokk/following{/other_user}",
+        "gists_url": "https://api.github.com/users/yuyokk/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/yuyokk/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/yuyokk/subscriptions",
+        "organizations_url": "https://api.github.com/users/yuyokk/orgs",
+        "repos_url": "https://api.github.com/users/yuyokk/repos",
+        "events_url": "https://api.github.com/users/yuyokk/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/yuyokk/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 18
@@ -7663,7 +7663,7 @@
         "received_events_url": "https://api.github.com/users/danielleadams/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 55
+        "contributions": 56
       },
       {
         "login": "mlabieniec",
@@ -14287,6 +14287,27 @@
         "contributions": 6
       },
       {
+        "login": "timngyn",
+        "id": 54393192,
+        "node_id": "MDQ6VXNlcjU0MzkzMTky",
+        "avatar_url": "https://avatars.githubusercontent.com/u/54393192?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timngyn",
+        "html_url": "https://github.com/timngyn",
+        "followers_url": "https://api.github.com/users/timngyn/followers",
+        "following_url": "https://api.github.com/users/timngyn/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timngyn/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timngyn/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timngyn/subscriptions",
+        "organizations_url": "https://api.github.com/users/timngyn/orgs",
+        "repos_url": "https://api.github.com/users/timngyn/repos",
+        "events_url": "https://api.github.com/users/timngyn/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timngyn/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 6
+      },
+      {
         "login": "danielleadams",
         "id": 6271256,
         "node_id": "MDQ6VXNlcjYyNzEyNTY=",
@@ -16130,27 +16151,6 @@
         "repos_url": "https://api.github.com/users/flozender/repos",
         "events_url": "https://api.github.com/users/flozender/events{/privacy}",
         "received_events_url": "https://api.github.com/users/flozender/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 2
-      },
-      {
-        "login": "timngyn",
-        "id": 54393192,
-        "node_id": "MDQ6VXNlcjU0MzkzMTky",
-        "avatar_url": "https://avatars.githubusercontent.com/u/54393192?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/timngyn",
-        "html_url": "https://github.com/timngyn",
-        "followers_url": "https://api.github.com/users/timngyn/followers",
-        "following_url": "https://api.github.com/users/timngyn/following{/other_user}",
-        "gists_url": "https://api.github.com/users/timngyn/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/timngyn/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/timngyn/subscriptions",
-        "organizations_url": "https://api.github.com/users/timngyn/orgs",
-        "repos_url": "https://api.github.com/users/timngyn/repos",
-        "events_url": "https://api.github.com/users/timngyn/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/timngyn/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 2
@@ -21742,7 +21742,7 @@
         "received_events_url": "https://api.github.com/users/ErikCH/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 133
+        "contributions": 134
       },
       {
         "login": "ericclemmons",
@@ -21805,7 +21805,7 @@
         "received_events_url": "https://api.github.com/users/dbanksdesign/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 87
+        "contributions": 88
       },
       {
         "login": "slaymance",
@@ -21889,7 +21889,7 @@
         "received_events_url": "https://api.github.com/users/jacoblogan/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 52
+        "contributions": 53
       },
       {
         "login": "hvergara",
