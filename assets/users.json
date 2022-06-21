@@ -3414,5 +3414,13 @@
   "evankirkiles": {
     "login": "evankirkiles",
     "location": "New York, New York"
+  },
+  "yeung-wah": {
+    "login": "yeung-wah",
+    "location": null
+  },
+  "is2ei": {
+    "login": "is2ei",
+    "location": "Tokyo, Japan"
   }
 }
