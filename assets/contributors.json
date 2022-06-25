@@ -12520,7 +12520,7 @@
         "received_events_url": "https://api.github.com/users/josefaidt/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 65
+        "contributions": 67
       },
       {
         "login": "abdallahshaban557",
@@ -12541,7 +12541,7 @@
         "received_events_url": "https://api.github.com/users/abdallahshaban557/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 61
+        "contributions": 62
       },
       {
         "login": "drochetti",
@@ -15211,6 +15211,27 @@
         "contributions": 3
       },
       {
+        "login": "Equartey",
+        "id": 6456935,
+        "node_id": "MDQ6VXNlcjY0NTY5MzU=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6456935?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Equartey",
+        "html_url": "https://github.com/Equartey",
+        "followers_url": "https://api.github.com/users/Equartey/followers",
+        "following_url": "https://api.github.com/users/Equartey/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Equartey/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Equartey/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Equartey/subscriptions",
+        "organizations_url": "https://api.github.com/users/Equartey/orgs",
+        "repos_url": "https://api.github.com/users/Equartey/repos",
+        "events_url": "https://api.github.com/users/Equartey/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Equartey/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 3
+      },
+      {
         "login": "evankirkiles",
         "id": 30581915,
         "node_id": "MDQ6VXNlcjMwNTgxOTE1",
@@ -16109,6 +16130,27 @@
         "repos_url": "https://api.github.com/users/mohammedzamakhan/repos",
         "events_url": "https://api.github.com/users/mohammedzamakhan/events{/privacy}",
         "received_events_url": "https://api.github.com/users/mohammedzamakhan/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 2
+      },
+      {
+        "login": "banji180",
+        "id": 3630212,
+        "node_id": "MDQ6VXNlcjM2MzAyMTI=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3630212?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/banji180",
+        "html_url": "https://github.com/banji180",
+        "followers_url": "https://api.github.com/users/banji180/followers",
+        "following_url": "https://api.github.com/users/banji180/following{/other_user}",
+        "gists_url": "https://api.github.com/users/banji180/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/banji180/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/banji180/subscriptions",
+        "organizations_url": "https://api.github.com/users/banji180/orgs",
+        "repos_url": "https://api.github.com/users/banji180/repos",
+        "events_url": "https://api.github.com/users/banji180/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/banji180/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 2
@@ -19325,69 +19367,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 1
-      },
-      {
-        "login": "qucode1",
-        "id": 28145834,
-        "node_id": "MDQ6VXNlcjI4MTQ1ODM0",
-        "avatar_url": "https://avatars.githubusercontent.com/u/28145834?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/qucode1",
-        "html_url": "https://github.com/qucode1",
-        "followers_url": "https://api.github.com/users/qucode1/followers",
-        "following_url": "https://api.github.com/users/qucode1/following{/other_user}",
-        "gists_url": "https://api.github.com/users/qucode1/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/qucode1/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/qucode1/subscriptions",
-        "organizations_url": "https://api.github.com/users/qucode1/orgs",
-        "repos_url": "https://api.github.com/users/qucode1/repos",
-        "events_url": "https://api.github.com/users/qucode1/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/qucode1/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 1
-      },
-      {
-        "login": "dayjournal",
-        "id": 7871642,
-        "node_id": "MDQ6VXNlcjc4NzE2NDI=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7871642?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/dayjournal",
-        "html_url": "https://github.com/dayjournal",
-        "followers_url": "https://api.github.com/users/dayjournal/followers",
-        "following_url": "https://api.github.com/users/dayjournal/following{/other_user}",
-        "gists_url": "https://api.github.com/users/dayjournal/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/dayjournal/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/dayjournal/subscriptions",
-        "organizations_url": "https://api.github.com/users/dayjournal/orgs",
-        "repos_url": "https://api.github.com/users/dayjournal/repos",
-        "events_url": "https://api.github.com/users/dayjournal/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/dayjournal/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 1
-      },
-      {
-        "login": "yizzycool",
-        "id": 17616141,
-        "node_id": "MDQ6VXNlcjE3NjE2MTQx",
-        "avatar_url": "https://avatars.githubusercontent.com/u/17616141?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/yizzycool",
-        "html_url": "https://github.com/yizzycool",
-        "followers_url": "https://api.github.com/users/yizzycool/followers",
-        "following_url": "https://api.github.com/users/yizzycool/following{/other_user}",
-        "gists_url": "https://api.github.com/users/yizzycool/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/yizzycool/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/yizzycool/subscriptions",
-        "organizations_url": "https://api.github.com/users/yizzycool/orgs",
-        "repos_url": "https://api.github.com/users/yizzycool/repos",
-        "events_url": "https://api.github.com/users/yizzycool/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/yizzycool/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 1
       }
     ]
   },
@@ -19414,7 +19393,7 @@
         "received_events_url": "https://api.github.com/users/lawmicha/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 252
+        "contributions": 253
       },
       {
         "login": "palpatim",
