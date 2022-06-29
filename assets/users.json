@@ -3434,5 +3434,13 @@
   "banji180": {
     "login": "banji180",
     "location": null
+  },
+  "mikepschneider": {
+    "login": "mikepschneider",
+    "location": "Seattle, WA"
+  },
+  "flogy": {
+    "login": "flogy",
+    "location": "Switzerland"
   }
 }
