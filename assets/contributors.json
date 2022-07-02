@@ -538,7 +538,7 @@
         "received_events_url": "https://api.github.com/users/jamesaucode/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 153
+        "contributions": 154
       },
       {
         "login": "manueliglesias",
@@ -7474,7 +7474,7 @@
         "received_events_url": "https://api.github.com/users/jhockett/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 190
+        "contributions": 191
       },
       {
         "login": "akshbhu",
@@ -13468,6 +13468,27 @@
         "contributions": 20
       },
       {
+        "login": "danielleadams",
+        "id": 6271256,
+        "node_id": "MDQ6VXNlcjYyNzEyNTY=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6271256?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/danielleadams",
+        "html_url": "https://github.com/danielleadams",
+        "followers_url": "https://api.github.com/users/danielleadams/followers",
+        "following_url": "https://api.github.com/users/danielleadams/following{/other_user}",
+        "gists_url": "https://api.github.com/users/danielleadams/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/danielleadams/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/danielleadams/subscriptions",
+        "organizations_url": "https://api.github.com/users/danielleadams/orgs",
+        "repos_url": "https://api.github.com/users/danielleadams/repos",
+        "events_url": "https://api.github.com/users/danielleadams/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/danielleadams/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 18
+      },
+      {
         "login": "minbi",
         "id": 6525769,
         "node_id": "MDQ6VXNlcjY1MjU3Njk=",
@@ -13589,27 +13610,6 @@
         "repos_url": "https://api.github.com/users/rmschindler/repos",
         "events_url": "https://api.github.com/users/rmschindler/events{/privacy}",
         "received_events_url": "https://api.github.com/users/rmschindler/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 14
-      },
-      {
-        "login": "danielleadams",
-        "id": 6271256,
-        "node_id": "MDQ6VXNlcjYyNzEyNTY=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/6271256?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/danielleadams",
-        "html_url": "https://github.com/danielleadams",
-        "followers_url": "https://api.github.com/users/danielleadams/followers",
-        "following_url": "https://api.github.com/users/danielleadams/following{/other_user}",
-        "gists_url": "https://api.github.com/users/danielleadams/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/danielleadams/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/danielleadams/subscriptions",
-        "organizations_url": "https://api.github.com/users/danielleadams/orgs",
-        "repos_url": "https://api.github.com/users/danielleadams/repos",
-        "events_url": "https://api.github.com/users/danielleadams/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/danielleadams/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 14
@@ -14749,6 +14749,27 @@
         "contributions": 4
       },
       {
+        "login": "svidgen",
+        "id": 8375502,
+        "node_id": "MDQ6VXNlcjgzNzU1MDI=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8375502?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/svidgen",
+        "html_url": "https://github.com/svidgen",
+        "followers_url": "https://api.github.com/users/svidgen/followers",
+        "following_url": "https://api.github.com/users/svidgen/following{/other_user}",
+        "gists_url": "https://api.github.com/users/svidgen/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/svidgen/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/svidgen/subscriptions",
+        "organizations_url": "https://api.github.com/users/svidgen/orgs",
+        "repos_url": "https://api.github.com/users/svidgen/repos",
+        "events_url": "https://api.github.com/users/svidgen/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/svidgen/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 4
+      },
+      {
         "login": "sktimalsina",
         "id": 10183120,
         "node_id": "MDQ6VXNlcjEwMTgzMTIw",
@@ -14975,27 +14996,6 @@
         "repos_url": "https://api.github.com/users/3O1/repos",
         "events_url": "https://api.github.com/users/3O1/events{/privacy}",
         "received_events_url": "https://api.github.com/users/3O1/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 3
-      },
-      {
-        "login": "svidgen",
-        "id": 8375502,
-        "node_id": "MDQ6VXNlcjgzNzU1MDI=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/8375502?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/svidgen",
-        "html_url": "https://github.com/svidgen",
-        "followers_url": "https://api.github.com/users/svidgen/followers",
-        "following_url": "https://api.github.com/users/svidgen/following{/other_user}",
-        "gists_url": "https://api.github.com/users/svidgen/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/svidgen/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/svidgen/subscriptions",
-        "organizations_url": "https://api.github.com/users/svidgen/orgs",
-        "repos_url": "https://api.github.com/users/svidgen/repos",
-        "events_url": "https://api.github.com/users/svidgen/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/svidgen/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 3
@@ -21718,6 +21718,27 @@
         "contributions": 1
       },
       {
+        "login": "dependabot[bot]",
+        "id": 49699333,
+        "node_id": "MDM6Qm90NDk2OTkzMzM=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+        "html_url": "https://github.com/apps/dependabot",
+        "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+        "type": "Bot",
+        "site_admin": false,
+        "contributions": 1
+      },
+      {
         "login": "hexch",
         "id": 7273064,
         "node_id": "MDQ6VXNlcjcyNzMwNjQ=",
@@ -21868,7 +21889,7 @@
         "received_events_url": "https://api.github.com/users/dbanksdesign/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 106
+        "contributions": 107
       },
       {
         "login": "zchenwei",
@@ -22057,7 +22078,7 @@
         "received_events_url": "https://api.github.com/users/hbuchel/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 34
+        "contributions": 35
       },
       {
         "login": "calebpollman",
@@ -22078,7 +22099,7 @@
         "received_events_url": "https://api.github.com/users/calebpollman/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 24
+        "contributions": 26
       },
       {
         "login": "dependabot[bot]",
