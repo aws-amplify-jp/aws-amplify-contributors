@@ -3454,5 +3454,13 @@
   "majirosstefan": {
     "login": "majirosstefan",
     "location": "Remote"
+  },
+  "kevinold": {
+    "login": "kevinold",
+    "location": "White House, TN"
+  },
+  "SantoshLatpate": {
+    "login": "SantoshLatpate",
+    "location": null
   }
 }
