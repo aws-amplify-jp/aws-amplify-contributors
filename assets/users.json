@@ -3490,5 +3490,13 @@
   "tmokmss": {
     "login": "tmokmss",
     "location": "Tokyo, Japan"
+  },
+  "Ajido": {
+    "login": "Ajido",
+    "location": "Tokyo, Japan"
+  },
+  "laboone": {
+    "login": "laboone",
+    "location": "Japan"
   }
 }
