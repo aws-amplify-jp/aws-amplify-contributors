@@ -3522,5 +3522,13 @@
   "rachelnabors": {
     "login": "rachelnabors",
     "location": "Seattle, WA, USA"
+  },
+  "khatruong2009": {
+    "login": "khatruong2009",
+    "location": "Alexandria, VA"
+  },
+  "mikschn-aws": {
+    "login": "mikschn-aws",
+    "location": null
   }
 }
