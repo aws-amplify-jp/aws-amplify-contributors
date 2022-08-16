@@ -433,7 +433,7 @@
         "received_events_url": "https://api.github.com/users/elorzafe/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 230
+        "contributions": 232
       },
       {
         "login": "Amplifiyer",
@@ -7600,7 +7600,7 @@
         "received_events_url": "https://api.github.com/users/edwardfoyle/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 248
+        "contributions": 249
       },
       {
         "login": "ammarkarachi",
@@ -7747,7 +7747,7 @@
         "received_events_url": "https://api.github.com/users/lazpavel/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 114
+        "contributions": 115
       },
       {
         "login": "nikhname",
@@ -9341,27 +9341,6 @@
         "repos_url": "https://api.github.com/users/marcoreni/repos",
         "events_url": "https://api.github.com/users/marcoreni/events{/privacy}",
         "received_events_url": "https://api.github.com/users/marcoreni/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 2
-      },
-      {
-        "login": "michaelbrewer",
-        "id": 5442469,
-        "node_id": "MDQ6VXNlcjU0NDI0Njk=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/5442469?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/michaelbrewer",
-        "html_url": "https://github.com/michaelbrewer",
-        "followers_url": "https://api.github.com/users/michaelbrewer/followers",
-        "following_url": "https://api.github.com/users/michaelbrewer/following{/other_user}",
-        "gists_url": "https://api.github.com/users/michaelbrewer/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/michaelbrewer/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/michaelbrewer/subscriptions",
-        "organizations_url": "https://api.github.com/users/michaelbrewer/orgs",
-        "repos_url": "https://api.github.com/users/michaelbrewer/repos",
-        "events_url": "https://api.github.com/users/michaelbrewer/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/michaelbrewer/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 2
