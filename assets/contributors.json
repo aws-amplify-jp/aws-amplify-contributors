@@ -22162,7 +22162,7 @@
         "received_events_url": "https://api.github.com/users/wlee221/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 244
+        "contributions": 246
       },
       {
         "login": "reesscot",
@@ -22291,6 +22291,27 @@
         "contributions": 85
       },
       {
+        "login": "slaymance",
+        "id": 26472139,
+        "node_id": "MDQ6VXNlcjI2NDcyMTM5",
+        "avatar_url": "https://avatars.githubusercontent.com/u/26472139?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/slaymance",
+        "html_url": "https://github.com/slaymance",
+        "followers_url": "https://api.github.com/users/slaymance/followers",
+        "following_url": "https://api.github.com/users/slaymance/following{/other_user}",
+        "gists_url": "https://api.github.com/users/slaymance/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/slaymance/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/slaymance/subscriptions",
+        "organizations_url": "https://api.github.com/users/slaymance/orgs",
+        "repos_url": "https://api.github.com/users/slaymance/repos",
+        "events_url": "https://api.github.com/users/slaymance/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/slaymance/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 66
+      },
+      {
         "login": "github-actions[bot]",
         "id": 41898282,
         "node_id": "MDM6Qm90NDE4OTgyODI=",
@@ -22310,27 +22331,6 @@
         "type": "Bot",
         "site_admin": false,
         "contributions": 66
-      },
-      {
-        "login": "slaymance",
-        "id": 26472139,
-        "node_id": "MDQ6VXNlcjI2NDcyMTM5",
-        "avatar_url": "https://avatars.githubusercontent.com/u/26472139?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/slaymance",
-        "html_url": "https://github.com/slaymance",
-        "followers_url": "https://api.github.com/users/slaymance/followers",
-        "following_url": "https://api.github.com/users/slaymance/following{/other_user}",
-        "gists_url": "https://api.github.com/users/slaymance/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/slaymance/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/slaymance/subscriptions",
-        "organizations_url": "https://api.github.com/users/slaymance/orgs",
-        "repos_url": "https://api.github.com/users/slaymance/repos",
-        "events_url": "https://api.github.com/users/slaymance/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/slaymance/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 65
       },
       {
         "login": "jacoblogan",
