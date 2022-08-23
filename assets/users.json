@@ -3554,5 +3554,13 @@
   "VicFrolov": {
     "login": "VicFrolov",
     "location": "Los Angeles, CA"
+  },
+  "DoctorJohn": {
+    "login": "DoctorJohn",
+    "location": "Karlsruhe, Germany"
+  },
+  "otto-liljalaakso-nt": {
+    "login": "otto-liljalaakso-nt",
+    "location": "Oulu"
   }
 }
