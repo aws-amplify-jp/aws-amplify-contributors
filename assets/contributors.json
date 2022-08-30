@@ -7600,7 +7600,7 @@
         "received_events_url": "https://api.github.com/users/edwardfoyle/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 251
+        "contributions": 252
       },
       {
         "login": "ammarkarachi",
@@ -7747,7 +7747,7 @@
         "received_events_url": "https://api.github.com/users/lazpavel/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 116
+        "contributions": 117
       },
       {
         "login": "nikhname",
@@ -22330,7 +22330,7 @@
         "received_events_url": "https://api.github.com/users/joebuono/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 85
+        "contributions": 86
       },
       {
         "login": "slaymance",
@@ -22351,28 +22351,7 @@
         "received_events_url": "https://api.github.com/users/slaymance/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 68
-      },
-      {
-        "login": "github-actions[bot]",
-        "id": 41898282,
-        "node_id": "MDM6Qm90NDE4OTgyODI=",
-        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-        "html_url": "https://github.com/apps/github-actions",
-        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-        "type": "Bot",
-        "site_admin": false,
-        "contributions": 66
+        "contributions": 69
       },
       {
         "login": "jacoblogan",
@@ -22392,6 +22371,27 @@
         "events_url": "https://api.github.com/users/jacoblogan/events{/privacy}",
         "received_events_url": "https://api.github.com/users/jacoblogan/received_events",
         "type": "User",
+        "site_admin": false,
+        "contributions": 67
+      },
+      {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
         "site_admin": false,
         "contributions": 66
       },
