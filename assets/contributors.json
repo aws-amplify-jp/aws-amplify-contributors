@@ -433,7 +433,7 @@
         "received_events_url": "https://api.github.com/users/elorzafe/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 232
+        "contributions": 234
       },
       {
         "login": "Amplifiyer",
@@ -12964,6 +12964,27 @@
         "contributions": 57
       },
       {
+        "login": "tjleing",
+        "id": 9170787,
+        "node_id": "MDQ6VXNlcjkxNzA3ODc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/9170787?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tjleing",
+        "html_url": "https://github.com/tjleing",
+        "followers_url": "https://api.github.com/users/tjleing/followers",
+        "following_url": "https://api.github.com/users/tjleing/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tjleing/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tjleing/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tjleing/subscriptions",
+        "organizations_url": "https://api.github.com/users/tjleing/orgs",
+        "repos_url": "https://api.github.com/users/tjleing/repos",
+        "events_url": "https://api.github.com/users/tjleing/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tjleing/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 56
+      },
+      {
         "login": "sachscode",
         "id": 83682223,
         "node_id": "MDQ6VXNlcjgzNjgyMjIz",
@@ -12983,27 +13004,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 55
-      },
-      {
-        "login": "tjleing",
-        "id": 9170787,
-        "node_id": "MDQ6VXNlcjkxNzA3ODc=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/9170787?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/tjleing",
-        "html_url": "https://github.com/tjleing",
-        "followers_url": "https://api.github.com/users/tjleing/followers",
-        "following_url": "https://api.github.com/users/tjleing/following{/other_user}",
-        "gists_url": "https://api.github.com/users/tjleing/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/tjleing/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/tjleing/subscriptions",
-        "organizations_url": "https://api.github.com/users/tjleing/orgs",
-        "repos_url": "https://api.github.com/users/tjleing/repos",
-        "events_url": "https://api.github.com/users/tjleing/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/tjleing/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 54
       },
       {
         "login": "wooj2",
@@ -22267,7 +22267,7 @@
         "received_events_url": "https://api.github.com/users/ErikCH/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 150
+        "contributions": 151
       },
       {
         "login": "ericclemmons",
@@ -22435,7 +22435,7 @@
         "received_events_url": "https://api.github.com/users/0618/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 54
+        "contributions": 55
       },
       {
         "login": "hvergara",
@@ -22519,7 +22519,7 @@
         "received_events_url": "https://api.github.com/users/calebpollman/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 33
+        "contributions": 34
       },
       {
         "login": "dependabot[bot]",
