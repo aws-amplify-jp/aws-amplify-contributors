@@ -53,4 +53,12 @@ export class GitHubClient {
       return null;
     }
   }
+
+  async dispatchDeployment(owner, repo) {
+    await this.octokit.request("POST /repos/{owner}/{repo}/dispatche", {
+      owner,
+      repo,
+      event_type: "deploy",
+    });
+  }
 }
