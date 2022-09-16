@@ -4,7 +4,8 @@
   "private": true,
   "description": "AWS Amplifyのコントリビューターのリストを自動で更新するリポジトリ",
   "scripts": {
-    "fetch": "node ./src/fetchContributors.mjs"
+    "fetch": "node ./src/fetchContributors.mjs",
+    "dispatch:deploy": "node ./src/dispatchDeploy.mjs"
   },
   "dependencies": {
     "@octokit/core": "^3.5.1",
