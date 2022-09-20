@@ -55,7 +55,7 @@ export class GitHubClient {
   }
 
   async dispatchDeployment(owner, repo) {
-    await this.octokit.request("POST /repos/{owner}/{repo}/dispatche", {
+    await this.octokit.request("POST /repos/{owner}/{repo}/dispatches", {
       owner,
       repo,
       event_type: "deploy",
