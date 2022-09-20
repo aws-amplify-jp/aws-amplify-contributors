@@ -44,5 +44,5 @@ jobs:
       - name: Dispatch Deploy
         run: npm run dispatch:deploy
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.AMPLIFY_JUG_WEBSITE_TOKEN }}
         if: steps.diff.outcome == 'failure'
