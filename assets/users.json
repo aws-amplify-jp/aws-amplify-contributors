@@ -3582,5 +3582,13 @@
   "gibachan": {
     "login": "gibachan",
     "location": null
+  },
+  "sky4git": {
+    "login": "sky4git",
+    "location": "Melbourne, Australia"
+  },
+  "5d": {
+    "login": "5d",
+    "location": null
   }
 }
