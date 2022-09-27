@@ -3598,5 +3598,13 @@
   "eltociear": {
     "login": "eltociear",
     "location": "Tokyo, Japan"
+  },
+  "naedx": {
+    "login": "naedx",
+    "location": null
+  },
+  "mateusforgi": {
+    "login": "mateusforgi",
+    "location": "Porto Alegre, Brazil"
   }
 }
