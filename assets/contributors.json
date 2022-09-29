@@ -8083,7 +8083,7 @@
         "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
         "type": "Bot",
         "site_admin": false,
-        "contributions": 42
+        "contributions": 43
       },
       {
         "login": "jordanranz",
@@ -12013,6 +12013,27 @@
         "contributions": 1
       },
       {
+        "login": "awsluja",
+        "id": 110861985,
+        "node_id": "U_kgDOBpueoQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/110861985?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/awsluja",
+        "html_url": "https://github.com/awsluja",
+        "followers_url": "https://api.github.com/users/awsluja/followers",
+        "following_url": "https://api.github.com/users/awsluja/following{/other_user}",
+        "gists_url": "https://api.github.com/users/awsluja/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/awsluja/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/awsluja/subscriptions",
+        "organizations_url": "https://api.github.com/users/awsluja/orgs",
+        "repos_url": "https://api.github.com/users/awsluja/repos",
+        "events_url": "https://api.github.com/users/awsluja/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/awsluja/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 1
+      },
+      {
         "login": "bokuweb",
         "id": 10220449,
         "node_id": "MDQ6VXNlcjEwMjIwNDQ5",
@@ -14056,6 +14077,27 @@
         "contributions": 18
       },
       {
+        "login": "Jordan-Nelson",
+        "id": 20613561,
+        "node_id": "MDQ6VXNlcjIwNjEzNTYx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20613561?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Jordan-Nelson",
+        "html_url": "https://github.com/Jordan-Nelson",
+        "followers_url": "https://api.github.com/users/Jordan-Nelson/followers",
+        "following_url": "https://api.github.com/users/Jordan-Nelson/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Jordan-Nelson/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Jordan-Nelson/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Jordan-Nelson/subscriptions",
+        "organizations_url": "https://api.github.com/users/Jordan-Nelson/orgs",
+        "repos_url": "https://api.github.com/users/Jordan-Nelson/repos",
+        "events_url": "https://api.github.com/users/Jordan-Nelson/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Jordan-Nelson/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 17
+      },
+      {
         "login": "sundersc",
         "id": 83315412,
         "node_id": "MDQ6VXNlcjgzMzE1NDEy",
@@ -14114,27 +14156,6 @@
         "repos_url": "https://api.github.com/users/minbi/repos",
         "events_url": "https://api.github.com/users/minbi/events{/privacy}",
         "received_events_url": "https://api.github.com/users/minbi/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 16
-      },
-      {
-        "login": "Jordan-Nelson",
-        "id": 20613561,
-        "node_id": "MDQ6VXNlcjIwNjEzNTYx",
-        "avatar_url": "https://avatars.githubusercontent.com/u/20613561?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Jordan-Nelson",
-        "html_url": "https://github.com/Jordan-Nelson",
-        "followers_url": "https://api.github.com/users/Jordan-Nelson/followers",
-        "following_url": "https://api.github.com/users/Jordan-Nelson/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Jordan-Nelson/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Jordan-Nelson/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Jordan-Nelson/subscriptions",
-        "organizations_url": "https://api.github.com/users/Jordan-Nelson/orgs",
-        "repos_url": "https://api.github.com/users/Jordan-Nelson/repos",
-        "events_url": "https://api.github.com/users/Jordan-Nelson/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Jordan-Nelson/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 16
@@ -20890,7 +20911,7 @@
         "received_events_url": "https://api.github.com/users/eeatonaws/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 21
+        "contributions": 22
       },
       {
         "login": "sdhuka",

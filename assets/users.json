@@ -3606,5 +3606,9 @@
   "mateusforgi": {
     "login": "mateusforgi",
     "location": "Porto Alegre, Brazil"
+  },
+  "awsluja": {
+    "login": "awsluja",
+    "location": null
   }
 }
