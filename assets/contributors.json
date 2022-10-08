@@ -8611,6 +8611,27 @@
         "contributions": 7
       },
       {
+        "login": "awsluja",
+        "id": 110861985,
+        "node_id": "U_kgDOBpueoQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/110861985?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/awsluja",
+        "html_url": "https://github.com/awsluja",
+        "followers_url": "https://api.github.com/users/awsluja/followers",
+        "following_url": "https://api.github.com/users/awsluja/following{/other_user}",
+        "gists_url": "https://api.github.com/users/awsluja/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/awsluja/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/awsluja/subscriptions",
+        "organizations_url": "https://api.github.com/users/awsluja/orgs",
+        "repos_url": "https://api.github.com/users/awsluja/repos",
+        "events_url": "https://api.github.com/users/awsluja/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/awsluja/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 7
+      },
+      {
         "login": "powerful23",
         "id": 11042868,
         "node_id": "MDQ6VXNlcjExMDQyODY4",
@@ -8648,27 +8669,6 @@
         "repos_url": "https://api.github.com/users/letsbelopez/repos",
         "events_url": "https://api.github.com/users/letsbelopez/events{/privacy}",
         "received_events_url": "https://api.github.com/users/letsbelopez/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 6
-      },
-      {
-        "login": "awsluja",
-        "id": 110861985,
-        "node_id": "U_kgDOBpueoQ",
-        "avatar_url": "https://avatars.githubusercontent.com/u/110861985?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/awsluja",
-        "html_url": "https://github.com/awsluja",
-        "followers_url": "https://api.github.com/users/awsluja/followers",
-        "following_url": "https://api.github.com/users/awsluja/following{/other_user}",
-        "gists_url": "https://api.github.com/users/awsluja/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/awsluja/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/awsluja/subscriptions",
-        "organizations_url": "https://api.github.com/users/awsluja/orgs",
-        "repos_url": "https://api.github.com/users/awsluja/repos",
-        "events_url": "https://api.github.com/users/awsluja/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/awsluja/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 6
@@ -22708,7 +22708,7 @@
         "received_events_url": "https://api.github.com/users/slaymance/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 72
+        "contributions": 73
       },
       {
         "login": "jacoblogan",
