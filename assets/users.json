@@ -3638,5 +3638,9 @@
   "razor-x": {
     "login": "razor-x",
     "location": "San Francisco, California, USA"
+  },
+  "poad": {
+    "login": "poad",
+    "location": "Kanagawa, Japan"
   }
 }
