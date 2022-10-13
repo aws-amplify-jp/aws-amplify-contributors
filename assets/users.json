@@ -3642,5 +3642,13 @@
   "poad": {
     "login": "poad",
     "location": "Kanagawa, Japan"
+  },
+  "miranciandt": {
+    "login": "miranciandt",
+    "location": null
+  },
+  "m98": {
+    "login": "m98",
+    "location": "Netherlands"
   }
 }
