@@ -3666,5 +3666,9 @@
   "MonicaFidalgo": {
     "login": "MonicaFidalgo",
     "location": "Lisbon"
+  },
+  "meditto": {
+    "login": "meditto",
+    "location": "Algeria"
   }
 }
