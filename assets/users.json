@@ -3670,5 +3670,17 @@
   "meditto": {
     "login": "meditto",
     "location": "Algeria"
+  },
+  "jimblanc": {
+    "login": "jimblanc",
+    "location": "Austin, Texas"
+  },
+  "sharmaadityaHQ": {
+    "login": "sharmaadityaHQ",
+    "location": "New Delhi, India"
+  },
+  "truelecter": {
+    "login": "truelecter",
+    "location": null
   }
 }
