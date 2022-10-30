@@ -3682,5 +3682,9 @@
   "truelecter": {
     "login": "truelecter",
     "location": null
+  },
+  "artidataio": {
+    "login": "artidataio",
+    "location": "Indonesia"
   }
 }
