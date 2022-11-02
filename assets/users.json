@@ -3686,5 +3686,13 @@
   "artidataio": {
     "login": "artidataio",
     "location": "Indonesia"
+  },
+  "Lorenzohidalgo": {
+    "login": "Lorenzohidalgo",
+    "location": "Barcelona"
+  },
+  "ledwinbatista": {
+    "login": "ledwinbatista",
+    "location": null
   }
 }
