@@ -3694,5 +3694,13 @@
   "ledwinbatista": {
     "login": "ledwinbatista",
     "location": null
+  },
+  "oscarcao": {
+    "login": "oscarcao",
+    "location": null
+  },
+  "francisGolden": {
+    "login": "francisGolden",
+    "location": null
   }
 }
