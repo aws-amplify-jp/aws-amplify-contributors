@@ -7873,7 +7873,7 @@
         "received_events_url": "https://api.github.com/users/jhockett/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 209
+        "contributions": 210
       },
       {
         "login": "akshbhu",
@@ -12856,7 +12856,7 @@
         "received_events_url": "https://api.github.com/users/abdallahshaban557/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 165
+        "contributions": 167
       },
       {
         "login": "powerful23",
@@ -20107,7 +20107,7 @@
         "received_events_url": "https://api.github.com/users/lawmicha/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 301
+        "contributions": 302
       },
       {
         "login": "royjit",
@@ -20443,7 +20443,7 @@
         "received_events_url": "https://api.github.com/users/manaswi223/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 9
+        "contributions": 10
       },
       {
         "login": "jpeddicord",
@@ -22837,27 +22837,6 @@
         "contributions": 73
       },
       {
-        "login": "jacoblogan",
-        "id": 7351516,
-        "node_id": "MDQ6VXNlcjczNTE1MTY=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7351516?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/jacoblogan",
-        "html_url": "https://github.com/jacoblogan",
-        "followers_url": "https://api.github.com/users/jacoblogan/followers",
-        "following_url": "https://api.github.com/users/jacoblogan/following{/other_user}",
-        "gists_url": "https://api.github.com/users/jacoblogan/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/jacoblogan/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/jacoblogan/subscriptions",
-        "organizations_url": "https://api.github.com/users/jacoblogan/orgs",
-        "repos_url": "https://api.github.com/users/jacoblogan/repos",
-        "events_url": "https://api.github.com/users/jacoblogan/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/jacoblogan/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 67
-      },
-      {
         "login": "0618",
         "id": 11983489,
         "node_id": "MDQ6VXNlcjExOTgzNDg5",
@@ -22874,6 +22853,27 @@
         "repos_url": "https://api.github.com/users/0618/repos",
         "events_url": "https://api.github.com/users/0618/events{/privacy}",
         "received_events_url": "https://api.github.com/users/0618/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 68
+      },
+      {
+        "login": "jacoblogan",
+        "id": 7351516,
+        "node_id": "MDQ6VXNlcjczNTE1MTY=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7351516?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/jacoblogan",
+        "html_url": "https://github.com/jacoblogan",
+        "followers_url": "https://api.github.com/users/jacoblogan/followers",
+        "following_url": "https://api.github.com/users/jacoblogan/following{/other_user}",
+        "gists_url": "https://api.github.com/users/jacoblogan/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/jacoblogan/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/jacoblogan/subscriptions",
+        "organizations_url": "https://api.github.com/users/jacoblogan/orgs",
+        "repos_url": "https://api.github.com/users/jacoblogan/repos",
+        "events_url": "https://api.github.com/users/jacoblogan/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/jacoblogan/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 67
@@ -23953,7 +23953,7 @@
         "received_events_url": "https://api.github.com/users/thaddmt/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 126
+        "contributions": 127
       },
       {
         "login": "TreTuna",
