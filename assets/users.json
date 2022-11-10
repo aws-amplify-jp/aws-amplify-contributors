@@ -3710,5 +3710,17 @@
   "tannerabread": {
     "login": "tannerabread",
     "location": "Louisiana"
+  },
+  "ncarvajalc": {
+    "login": "ncarvajalc",
+    "location": "Bogotá, Colombia"
+  },
+  "cwomack": {
+    "login": "cwomack",
+    "location": null
+  },
+  "mattcreaser": {
+    "login": "mattcreaser",
+    "location": "Halifax, Nova Scotia"
   }
 }
