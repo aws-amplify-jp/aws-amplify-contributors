@@ -3722,5 +3722,13 @@
   "mattcreaser": {
     "login": "mattcreaser",
     "location": "Halifax, Nova Scotia"
+  },
+  "sdstolworthy": {
+    "login": "sdstolworthy",
+    "location": "Vancouver, Washington, USA"
+  },
+  "goldbez": {
+    "login": "goldbez",
+    "location": null
   }
 }
