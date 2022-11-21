@@ -14413,6 +14413,27 @@
         "contributions": 19
       },
       {
+        "login": "tylerjroach",
+        "id": 634763,
+        "node_id": "MDQ6VXNlcjYzNDc2Mw==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/634763?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tylerjroach",
+        "html_url": "https://github.com/tylerjroach",
+        "followers_url": "https://api.github.com/users/tylerjroach/followers",
+        "following_url": "https://api.github.com/users/tylerjroach/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tylerjroach/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tylerjroach/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tylerjroach/subscriptions",
+        "organizations_url": "https://api.github.com/users/tylerjroach/orgs",
+        "repos_url": "https://api.github.com/users/tylerjroach/repos",
+        "events_url": "https://api.github.com/users/tylerjroach/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tylerjroach/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 18
+      },
+      {
         "login": "danielleadams",
         "id": 6271256,
         "node_id": "MDQ6VXNlcjYyNzEyNTY=",
@@ -14453,27 +14474,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 17
-      },
-      {
-        "login": "tylerjroach",
-        "id": 634763,
-        "node_id": "MDQ6VXNlcjYzNDc2Mw==",
-        "avatar_url": "https://avatars.githubusercontent.com/u/634763?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/tylerjroach",
-        "html_url": "https://github.com/tylerjroach",
-        "followers_url": "https://api.github.com/users/tylerjroach/followers",
-        "following_url": "https://api.github.com/users/tylerjroach/following{/other_user}",
-        "gists_url": "https://api.github.com/users/tylerjroach/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/tylerjroach/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/tylerjroach/subscriptions",
-        "organizations_url": "https://api.github.com/users/tylerjroach/orgs",
-        "repos_url": "https://api.github.com/users/tylerjroach/repos",
-        "events_url": "https://api.github.com/users/tylerjroach/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/tylerjroach/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 16
       },
       {
         "login": "minbi",
@@ -22813,7 +22813,7 @@
         "received_events_url": "https://api.github.com/users/zchenwei/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 117
+        "contributions": 118
       },
       {
         "login": "dbanksdesign",
