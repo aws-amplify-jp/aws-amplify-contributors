@@ -433,7 +433,7 @@
         "received_events_url": "https://api.github.com/users/elorzafe/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 253
+        "contributions": 256
       },
       {
         "login": "Amplifiyer",
@@ -706,7 +706,7 @@
         "received_events_url": "https://api.github.com/users/AllanZhengYP/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 68
+        "contributions": 69
       },
       {
         "login": "wlee221",
@@ -769,7 +769,7 @@
         "received_events_url": "https://api.github.com/users/svidgen/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 36
+        "contributions": 37
       },
       {
         "login": "david-mcafee",
@@ -22390,6 +22390,27 @@
         "contributions": 1
       },
       {
+        "login": "Devbymitch",
+        "id": 56566510,
+        "node_id": "MDQ6VXNlcjU2NTY2NTEw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/56566510?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Devbymitch",
+        "html_url": "https://github.com/Devbymitch",
+        "followers_url": "https://api.github.com/users/Devbymitch/followers",
+        "following_url": "https://api.github.com/users/Devbymitch/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Devbymitch/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Devbymitch/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Devbymitch/subscriptions",
+        "organizations_url": "https://api.github.com/users/Devbymitch/orgs",
+        "repos_url": "https://api.github.com/users/Devbymitch/repos",
+        "events_url": "https://api.github.com/users/Devbymitch/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Devbymitch/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 1
+      },
+      {
         "login": "wurikiji",
         "id": 5652744,
         "node_id": "MDQ6VXNlcjU2NTI3NDQ=",
@@ -22774,6 +22795,27 @@
         "contributions": 158
       },
       {
+        "login": "dbanksdesign",
+        "id": 321279,
+        "node_id": "MDQ6VXNlcjMyMTI3OQ==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/321279?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/dbanksdesign",
+        "html_url": "https://github.com/dbanksdesign",
+        "followers_url": "https://api.github.com/users/dbanksdesign/followers",
+        "following_url": "https://api.github.com/users/dbanksdesign/following{/other_user}",
+        "gists_url": "https://api.github.com/users/dbanksdesign/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/dbanksdesign/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/dbanksdesign/subscriptions",
+        "organizations_url": "https://api.github.com/users/dbanksdesign/orgs",
+        "repos_url": "https://api.github.com/users/dbanksdesign/repos",
+        "events_url": "https://api.github.com/users/dbanksdesign/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/dbanksdesign/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 118
+      },
+      {
         "login": "zchenwei",
         "id": 40295569,
         "node_id": "MDQ6VXNlcjQwMjk1NTY5",
@@ -22793,27 +22835,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 118
-      },
-      {
-        "login": "dbanksdesign",
-        "id": 321279,
-        "node_id": "MDQ6VXNlcjMyMTI3OQ==",
-        "avatar_url": "https://avatars.githubusercontent.com/u/321279?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/dbanksdesign",
-        "html_url": "https://github.com/dbanksdesign",
-        "followers_url": "https://api.github.com/users/dbanksdesign/followers",
-        "following_url": "https://api.github.com/users/dbanksdesign/following{/other_user}",
-        "gists_url": "https://api.github.com/users/dbanksdesign/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/dbanksdesign/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/dbanksdesign/subscriptions",
-        "organizations_url": "https://api.github.com/users/dbanksdesign/orgs",
-        "repos_url": "https://api.github.com/users/dbanksdesign/repos",
-        "events_url": "https://api.github.com/users/dbanksdesign/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/dbanksdesign/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 116
       },
       {
         "login": "calebpollman",
@@ -22918,7 +22939,7 @@
         "received_events_url": "https://api.github.com/users/0618/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 75
+        "contributions": 76
       },
       {
         "login": "slaymance",
