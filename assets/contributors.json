@@ -64,7 +64,7 @@
         "received_events_url": "https://api.github.com/users/fossamagna/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 5
+        "contributions": 6
       },
       {
         "login": "geckotang",
@@ -32041,7 +32041,7 @@
         "received_events_url": "https://api.github.com/users/ioanabrooks/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 17
+        "contributions": 18
       },
       {
         "login": "Jordan-Nelson",
