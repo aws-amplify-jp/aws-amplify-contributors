@@ -31,6 +31,16 @@ export class GitHubClient {
     this.octokit = createOctokit(options);
   }
 
+  async fetchRepositories(owner) {
+    const repos = await this.octokit.paginate(
+      "GET /orgs/{owner}/repos",
+      {
+        owner,
+      }
+    );
+    return repos;
+  }
+
   async fetchContributors(owner, repo) {
     const containers = await this.octokit.paginate(
       "GET /repos/{owner}/{repo}/contributors",

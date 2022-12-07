@@ -18,16 +18,6 @@ const repositories = [
   },
   {
     owner: "aws-amplify",
-    repos: [
-      "amplify-js",
-      "amplify-cli",
-      "docs",
-      "amplify-ios",
-      "amplify-android",
-      "amplify-flutter",
-      "amplify-ui",
-      "maplibre-gl-js-amplify",
-    ]
   },
 ];
 
@@ -48,10 +38,16 @@ async function fetchUsers(client, contributors, users) {
   }
 }
 
+async function fetchRepositories(client, owner) {
+  const repos = await client.fetchRepositories(owner);
+  return repos.map(repo => repo.name);
+}
+
 async function fetchContributors(client) {
   const contributorsJsonPath = path.join(assetsDir, "contributors.json");
   const contributorList = [];
-  for (const { owner, repos } of repositories) {
+  for (let { owner, repos } of repositories) {
+    repos = repos ?? await fetchRepositories(client, owner);
     for (const repo of repos) {
       const contributors = await client.fetchContributors(owner, repo);
       contributorList.push({
