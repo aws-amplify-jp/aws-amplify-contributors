@@ -4582,5 +4582,29 @@
   "wvidana": {
     "login": "wvidana",
     "location": "Madrid"
+  },
+  "DiscreteTom": {
+    "login": "DiscreteTom",
+    "location": "Beijing, China"
+  },
+  "MtthwBrwng": {
+    "login": "MtthwBrwng",
+    "location": "California"
+  },
+  "carnoxen": {
+    "login": "carnoxen",
+    "location": null
+  },
+  "NivBraz": {
+    "login": "NivBraz",
+    "location": null
+  },
+  "hugobeaujour": {
+    "login": "hugobeaujour",
+    "location": null
+  },
+  "rtpascual": {
+    "login": "rtpascual",
+    "location": null
   }
 }
