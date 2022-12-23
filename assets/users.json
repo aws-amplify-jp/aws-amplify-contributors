@@ -4634,5 +4634,9 @@
   "jcjimenez": {
     "login": "jcjimenez",
     "location": "Austin, TX"
+  },
+  "lgtm-migrator": {
+    "login": "lgtm-migrator",
+    "location": null
   }
 }
