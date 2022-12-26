@@ -21760,27 +21760,6 @@
         "contributions": 2
       },
       {
-        "login": "seanWLawrence",
-        "id": 23564209,
-        "node_id": "MDQ6VXNlcjIzNTY0MjA5",
-        "avatar_url": "https://avatars.githubusercontent.com/u/23564209?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/seanWLawrence",
-        "html_url": "https://github.com/seanWLawrence",
-        "followers_url": "https://api.github.com/users/seanWLawrence/followers",
-        "following_url": "https://api.github.com/users/seanWLawrence/following{/other_user}",
-        "gists_url": "https://api.github.com/users/seanWLawrence/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/seanWLawrence/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/seanWLawrence/subscriptions",
-        "organizations_url": "https://api.github.com/users/seanWLawrence/orgs",
-        "repos_url": "https://api.github.com/users/seanWLawrence/repos",
-        "events_url": "https://api.github.com/users/seanWLawrence/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/seanWLawrence/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 2
-      },
-      {
         "login": "dd-ssc",
         "id": 21038427,
         "node_id": "MDQ6VXNlcjIxMDM4NDI3",
