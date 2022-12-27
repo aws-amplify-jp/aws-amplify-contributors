@@ -349,7 +349,7 @@
         "received_events_url": "https://api.github.com/users/awsmobilesdk/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 817
+        "contributions": 818
       },
       {
         "login": "palpatim",
@@ -601,7 +601,7 @@
         "received_events_url": "https://api.github.com/users/ameter/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 9
+        "contributions": 10
       },
       {
         "login": "frankmuellr",
