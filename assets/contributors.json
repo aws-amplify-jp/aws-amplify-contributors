@@ -349,7 +349,7 @@
         "received_events_url": "https://api.github.com/users/awsmobilesdk/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 818
+        "contributions": 823
       },
       {
         "login": "palpatim",
@@ -601,7 +601,7 @@
         "received_events_url": "https://api.github.com/users/ameter/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 10
+        "contributions": 11
       },
       {
         "login": "frankmuellr",
@@ -12343,7 +12343,7 @@
         "received_events_url": "https://api.github.com/users/lazpavel/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 146
+        "contributions": 147
       },
       {
         "login": "cjihrig",
@@ -12745,27 +12745,6 @@
         "contributions": 33
       },
       {
-        "login": "marcvberg",
-        "id": 22457428,
-        "node_id": "MDQ6VXNlcjIyNDU3NDI4",
-        "avatar_url": "https://avatars.githubusercontent.com/u/22457428?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/marcvberg",
-        "html_url": "https://github.com/marcvberg",
-        "followers_url": "https://api.github.com/users/marcvberg/followers",
-        "following_url": "https://api.github.com/users/marcvberg/following{/other_user}",
-        "gists_url": "https://api.github.com/users/marcvberg/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/marcvberg/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/marcvberg/subscriptions",
-        "organizations_url": "https://api.github.com/users/marcvberg/orgs",
-        "repos_url": "https://api.github.com/users/marcvberg/repos",
-        "events_url": "https://api.github.com/users/marcvberg/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/marcvberg/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 28
-      },
-      {
         "login": "sobolk",
         "id": 5849952,
         "node_id": "MDQ6VXNlcjU4NDk5NTI=",
@@ -12782,6 +12761,27 @@
         "repos_url": "https://api.github.com/users/sobolk/repos",
         "events_url": "https://api.github.com/users/sobolk/events{/privacy}",
         "received_events_url": "https://api.github.com/users/sobolk/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 30
+      },
+      {
+        "login": "marcvberg",
+        "id": 22457428,
+        "node_id": "MDQ6VXNlcjIyNDU3NDI4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22457428?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/marcvberg",
+        "html_url": "https://github.com/marcvberg",
+        "followers_url": "https://api.github.com/users/marcvberg/followers",
+        "following_url": "https://api.github.com/users/marcvberg/following{/other_user}",
+        "gists_url": "https://api.github.com/users/marcvberg/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/marcvberg/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/marcvberg/subscriptions",
+        "organizations_url": "https://api.github.com/users/marcvberg/orgs",
+        "repos_url": "https://api.github.com/users/marcvberg/repos",
+        "events_url": "https://api.github.com/users/marcvberg/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/marcvberg/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 28
@@ -25789,27 +25789,6 @@
         "contributions": 9
       },
       {
-        "login": "Jordan-Nelson",
-        "id": 20613561,
-        "node_id": "MDQ6VXNlcjIwNjEzNTYx",
-        "avatar_url": "https://avatars.githubusercontent.com/u/20613561?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Jordan-Nelson",
-        "html_url": "https://github.com/Jordan-Nelson",
-        "followers_url": "https://api.github.com/users/Jordan-Nelson/followers",
-        "following_url": "https://api.github.com/users/Jordan-Nelson/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Jordan-Nelson/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Jordan-Nelson/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Jordan-Nelson/subscriptions",
-        "organizations_url": "https://api.github.com/users/Jordan-Nelson/orgs",
-        "repos_url": "https://api.github.com/users/Jordan-Nelson/repos",
-        "events_url": "https://api.github.com/users/Jordan-Nelson/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Jordan-Nelson/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 8
-      },
-      {
         "login": "mattcreaser",
         "id": 2781254,
         "node_id": "MDQ6VXNlcjI3ODEyNTQ=",
@@ -25826,6 +25805,27 @@
         "repos_url": "https://api.github.com/users/mattcreaser/repos",
         "events_url": "https://api.github.com/users/mattcreaser/events{/privacy}",
         "received_events_url": "https://api.github.com/users/mattcreaser/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 9
+      },
+      {
+        "login": "Jordan-Nelson",
+        "id": 20613561,
+        "node_id": "MDQ6VXNlcjIwNjEzNTYx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20613561?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Jordan-Nelson",
+        "html_url": "https://github.com/Jordan-Nelson",
+        "followers_url": "https://api.github.com/users/Jordan-Nelson/followers",
+        "following_url": "https://api.github.com/users/Jordan-Nelson/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Jordan-Nelson/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Jordan-Nelson/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Jordan-Nelson/subscriptions",
+        "organizations_url": "https://api.github.com/users/Jordan-Nelson/orgs",
+        "repos_url": "https://api.github.com/users/Jordan-Nelson/repos",
+        "events_url": "https://api.github.com/users/Jordan-Nelson/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Jordan-Nelson/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 8
@@ -31636,7 +31636,7 @@
         "received_events_url": "https://api.github.com/users/aws-sdk-ios-spm-ci/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 39
+        "contributions": 40
       },
       {
         "login": "royjit",
