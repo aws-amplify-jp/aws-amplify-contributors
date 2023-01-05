@@ -4638,5 +4638,9 @@
   "lgtm-migrator": {
     "login": "lgtm-migrator",
     "location": null
+  },
+  "vitaliikravets": {
+    "login": "vitaliikravets",
+    "location": "Munich, Germany"
   }
 }
