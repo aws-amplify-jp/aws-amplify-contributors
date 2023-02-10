@@ -4678,5 +4678,17 @@
   "auvred": {
     "login": "auvred",
     "location": null
+  },
+  "jonscheiding": {
+    "login": "jonscheiding",
+    "location": "Cincinnati, OH, USA"
+  },
+  "felixfavour": {
+    "login": "felixfavour",
+    "location": "Lagos, NG"
+  },
+  "rusik": {
+    "login": "rusik",
+    "location": null
   }
 }
