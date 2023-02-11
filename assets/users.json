@@ -4690,5 +4690,9 @@
   "rusik": {
     "login": "rusik",
     "location": null
+  },
+  "hakjong": {
+    "login": "hakjong",
+    "location": "South Korea"
   }
 }
