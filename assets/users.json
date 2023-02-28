@@ -4718,5 +4718,13 @@
   "matt-livefront": {
     "login": "matt-livefront",
     "location": null
+  },
+  "LalitAswal": {
+    "login": "LalitAswal",
+    "location": "Delhi"
+  },
+  "mrtzdev": {
+    "login": "mrtzdev",
+    "location": "Hamburg"
   }
 }
