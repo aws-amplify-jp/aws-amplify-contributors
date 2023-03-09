@@ -4750,5 +4750,13 @@
   "ashphy": {
     "login": "ashphy",
     "location": "Tokyo, Japan"
+  },
+  "jedigal": {
+    "login": "jedigal",
+    "location": null
+  },
+  "neilzhao-aws": {
+    "login": "neilzhao-aws",
+    "location": null
   }
 }
