@@ -4866,5 +4866,13 @@
   "bestickley": {
     "login": "bestickley",
     "location": "Virginia Beach, VA"
+  },
+  "e-simpson": {
+    "login": "e-simpson",
+    "location": "Toronto, Canada"
+  },
+  "VamOSGS": {
+    "login": "VamOSGS",
+    "location": "Armenia, Yerevan"
   }
 }
