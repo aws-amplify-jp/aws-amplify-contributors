@@ -4874,5 +4874,9 @@
   "VamOSGS": {
     "login": "VamOSGS",
     "location": "Armenia, Yerevan"
+  },
+  "hloriii": {
+    "login": "hloriii",
+    "location": null
   }
 }
