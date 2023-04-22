@@ -4922,5 +4922,13 @@
   "tannerbyers": {
     "login": "tannerbyers",
     "location": "Jacksonville"
+  },
+  "samkudr": {
+    "login": "samkudr",
+    "location": null
+  },
+  "helmax-y": {
+    "login": "helmax-y",
+    "location": "Lviv, Ukraine"
   }
 }
