@@ -4930,5 +4930,9 @@
   "helmax-y": {
     "login": "helmax-y",
     "location": "Lviv, Ukraine"
+  },
+  "nosnilmot": {
+    "login": "nosnilmot",
+    "location": null
   }
 }
