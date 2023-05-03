@@ -4934,5 +4934,13 @@
   "nosnilmot": {
     "login": "nosnilmot",
     "location": null
+  },
+  "danrivett": {
+    "login": "danrivett",
+    "location": "Comox, BC, Canada"
+  },
+  "MorFix": {
+    "login": "MorFix",
+    "location": null
   }
 }
