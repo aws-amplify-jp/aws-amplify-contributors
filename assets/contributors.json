@@ -4603,7 +4603,7 @@
         "received_events_url": "https://api.github.com/users/AllanZhengYP/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 108
+        "contributions": 109
       },
       {
         "login": "ericclemmons",
@@ -17914,7 +17914,7 @@
         "received_events_url": "https://api.github.com/users/abdallahshaban557/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 183
+        "contributions": 184
       },
       {
         "login": "powerful23",
@@ -25321,6 +25321,27 @@
         "contributions": 75
       },
       {
+        "login": "atierian",
+        "id": 52051793,
+        "node_id": "MDQ6VXNlcjUyMDUxNzkz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/52051793?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/atierian",
+        "html_url": "https://github.com/atierian",
+        "followers_url": "https://api.github.com/users/atierian/followers",
+        "following_url": "https://api.github.com/users/atierian/following{/other_user}",
+        "gists_url": "https://api.github.com/users/atierian/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/atierian/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/atierian/subscriptions",
+        "organizations_url": "https://api.github.com/users/atierian/orgs",
+        "repos_url": "https://api.github.com/users/atierian/repos",
+        "events_url": "https://api.github.com/users/atierian/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/atierian/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 57
+      },
+      {
         "login": "thisisabhash",
         "id": 23294582,
         "node_id": "MDQ6VXNlcjIzMjk0NTgy",
@@ -25340,27 +25361,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 54
-      },
-      {
-        "login": "atierian",
-        "id": 52051793,
-        "node_id": "MDQ6VXNlcjUyMDUxNzkz",
-        "avatar_url": "https://avatars.githubusercontent.com/u/52051793?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/atierian",
-        "html_url": "https://github.com/atierian",
-        "followers_url": "https://api.github.com/users/atierian/followers",
-        "following_url": "https://api.github.com/users/atierian/following{/other_user}",
-        "gists_url": "https://api.github.com/users/atierian/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/atierian/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/atierian/subscriptions",
-        "organizations_url": "https://api.github.com/users/atierian/orgs",
-        "repos_url": "https://api.github.com/users/atierian/repos",
-        "events_url": "https://api.github.com/users/atierian/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/atierian/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 51
       },
       {
         "login": "diegocstn",
@@ -32692,7 +32692,7 @@
         "received_events_url": "https://api.github.com/users/wlee221/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 337
+        "contributions": 339
       },
       {
         "login": "reesscot",
@@ -32944,7 +32944,7 @@
         "received_events_url": "https://api.github.com/users/ioanabrooks/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 54
+        "contributions": 55
       },
       {
         "login": "hbuchel",
@@ -41140,27 +41140,6 @@
     "repo": "amplify-ui-android",
     "contributors": [
       {
-        "login": "tylerjroach",
-        "id": 634763,
-        "node_id": "MDQ6VXNlcjYzNDc2Mw==",
-        "avatar_url": "https://avatars.githubusercontent.com/u/634763?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/tylerjroach",
-        "html_url": "https://github.com/tylerjroach",
-        "followers_url": "https://api.github.com/users/tylerjroach/followers",
-        "following_url": "https://api.github.com/users/tylerjroach/following{/other_user}",
-        "gists_url": "https://api.github.com/users/tylerjroach/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/tylerjroach/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/tylerjroach/subscriptions",
-        "organizations_url": "https://api.github.com/users/tylerjroach/orgs",
-        "repos_url": "https://api.github.com/users/tylerjroach/repos",
-        "events_url": "https://api.github.com/users/tylerjroach/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/tylerjroach/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 22
-      },
-      {
         "login": "mattcreaser",
         "id": 2781254,
         "node_id": "MDQ6VXNlcjI3ODEyNTQ=",
@@ -41179,7 +41158,28 @@
         "received_events_url": "https://api.github.com/users/mattcreaser/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 21
+        "contributions": 23
+      },
+      {
+        "login": "tylerjroach",
+        "id": 634763,
+        "node_id": "MDQ6VXNlcjYzNDc2Mw==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/634763?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tylerjroach",
+        "html_url": "https://github.com/tylerjroach",
+        "followers_url": "https://api.github.com/users/tylerjroach/followers",
+        "following_url": "https://api.github.com/users/tylerjroach/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tylerjroach/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tylerjroach/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tylerjroach/subscriptions",
+        "organizations_url": "https://api.github.com/users/tylerjroach/orgs",
+        "repos_url": "https://api.github.com/users/tylerjroach/repos",
+        "events_url": "https://api.github.com/users/tylerjroach/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tylerjroach/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 23
       },
       {
         "login": "eeatonaws",
