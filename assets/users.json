@@ -4966,5 +4966,17 @@
   "Kaiki-kk": {
     "login": "Kaiki-kk",
     "location": "Shinjuku"
+  },
+  "lavr001": {
+    "login": "lavr001",
+    "location": "San Francisco"
+  },
+  "sapirmuallem": {
+    "login": "sapirmuallem",
+    "location": null
+  },
+  "victorccccc": {
+    "login": "victorccccc",
+    "location": null
   }
 }
