@@ -370,7 +370,7 @@
         "received_events_url": "https://api.github.com/users/awsmobilesdk/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 943
+        "contributions": 944
       },
       {
         "login": "palpatim",
@@ -35168,6 +35168,27 @@
         "type": "User",
         "site_admin": false,
         "contributions": 2
+      },
+      {
+        "login": "atierian",
+        "id": 52051793,
+        "node_id": "MDQ6VXNlcjUyMDUxNzkz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/52051793?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/atierian",
+        "html_url": "https://github.com/atierian",
+        "followers_url": "https://api.github.com/users/atierian/followers",
+        "following_url": "https://api.github.com/users/atierian/following{/other_user}",
+        "gists_url": "https://api.github.com/users/atierian/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/atierian/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/atierian/subscriptions",
+        "organizations_url": "https://api.github.com/users/atierian/orgs",
+        "repos_url": "https://api.github.com/users/atierian/repos",
+        "events_url": "https://api.github.com/users/atierian/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/atierian/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 1
       },
       {
         "login": "palpatim",
