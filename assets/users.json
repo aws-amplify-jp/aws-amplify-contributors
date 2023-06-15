@@ -4982,5 +4982,9 @@
   "RowbotNZ": {
     "login": "RowbotNZ",
     "location": null
+  },
+  "gerrytsui": {
+    "login": "gerrytsui",
+    "location": "Greater New York "
   }
 }
