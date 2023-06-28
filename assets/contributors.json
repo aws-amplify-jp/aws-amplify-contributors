@@ -4603,7 +4603,7 @@
         "received_events_url": "https://api.github.com/users/stocaaro/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 138
+        "contributions": 139
       },
       {
         "login": "manueliglesias",
@@ -18001,6 +18001,27 @@
         "contributions": 303
       },
       {
+        "login": "mauerbac",
+        "id": 1507886,
+        "node_id": "MDQ6VXNlcjE1MDc4ODY=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1507886?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/mauerbac",
+        "html_url": "https://github.com/mauerbac",
+        "followers_url": "https://api.github.com/users/mauerbac/followers",
+        "following_url": "https://api.github.com/users/mauerbac/following{/other_user}",
+        "gists_url": "https://api.github.com/users/mauerbac/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/mauerbac/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/mauerbac/subscriptions",
+        "organizations_url": "https://api.github.com/users/mauerbac/orgs",
+        "repos_url": "https://api.github.com/users/mauerbac/repos",
+        "events_url": "https://api.github.com/users/mauerbac/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/mauerbac/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 193
+      },
+      {
         "login": "undefobj",
         "id": 4294295,
         "node_id": "MDQ6VXNlcjQyOTQyOTU=",
@@ -18020,27 +18041,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 193
-      },
-      {
-        "login": "mauerbac",
-        "id": 1507886,
-        "node_id": "MDQ6VXNlcjE1MDc4ODY=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1507886?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/mauerbac",
-        "html_url": "https://github.com/mauerbac",
-        "followers_url": "https://api.github.com/users/mauerbac/followers",
-        "following_url": "https://api.github.com/users/mauerbac/following{/other_user}",
-        "gists_url": "https://api.github.com/users/mauerbac/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/mauerbac/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/mauerbac/subscriptions",
-        "organizations_url": "https://api.github.com/users/mauerbac/orgs",
-        "repos_url": "https://api.github.com/users/mauerbac/repos",
-        "events_url": "https://api.github.com/users/mauerbac/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/mauerbac/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 192
       },
       {
         "login": "abdallahshaban557",
@@ -18502,7 +18502,7 @@
         "received_events_url": "https://api.github.com/users/timngyn/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 61
+        "contributions": 62
       },
       {
         "login": "drochetti",
@@ -25486,7 +25486,7 @@
         "received_events_url": "https://api.github.com/users/atierian/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 62
+        "contributions": 64
       },
       {
         "login": "thisisabhash",
@@ -29890,7 +29890,7 @@
         "received_events_url": "https://api.github.com/users/dnys1/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 1220
+        "contributions": 1234
       },
       {
         "login": "HuiSF",
@@ -30079,7 +30079,7 @@
         "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
         "type": "Bot",
         "site_admin": false,
-        "contributions": 20
+        "contributions": 27
       },
       {
         "login": "Ashish-Nanda",
@@ -32986,7 +32986,7 @@
         "received_events_url": "https://api.github.com/users/wlee221/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 346
+        "contributions": 347
       },
       {
         "login": "reesscot",
@@ -33028,7 +33028,7 @@
         "received_events_url": "https://api.github.com/users/calebpollman/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 182
+        "contributions": 184
       },
       {
         "login": "ErikCH",
@@ -33133,7 +33133,7 @@
         "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
         "type": "Bot",
         "site_admin": false,
-        "contributions": 114
+        "contributions": 115
       },
       {
         "login": "ericclemmons",
@@ -33220,6 +33220,27 @@
         "contributions": 67
       },
       {
+        "login": "hbuchel",
+        "id": 376920,
+        "node_id": "MDQ6VXNlcjM3NjkyMA==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/376920?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/hbuchel",
+        "html_url": "https://github.com/hbuchel",
+        "followers_url": "https://api.github.com/users/hbuchel/followers",
+        "following_url": "https://api.github.com/users/hbuchel/following{/other_user}",
+        "gists_url": "https://api.github.com/users/hbuchel/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/hbuchel/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/hbuchel/subscriptions",
+        "organizations_url": "https://api.github.com/users/hbuchel/orgs",
+        "repos_url": "https://api.github.com/users/hbuchel/repos",
+        "events_url": "https://api.github.com/users/hbuchel/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/hbuchel/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 61
+      },
+      {
         "login": "ioanabrooks",
         "id": 68251134,
         "node_id": "MDQ6VXNlcjY4MjUxMTM0",
@@ -33241,27 +33262,6 @@
         "contributions": 60
       },
       {
-        "login": "hbuchel",
-        "id": 376920,
-        "node_id": "MDQ6VXNlcjM3NjkyMA==",
-        "avatar_url": "https://avatars.githubusercontent.com/u/376920?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/hbuchel",
-        "html_url": "https://github.com/hbuchel",
-        "followers_url": "https://api.github.com/users/hbuchel/followers",
-        "following_url": "https://api.github.com/users/hbuchel/following{/other_user}",
-        "gists_url": "https://api.github.com/users/hbuchel/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/hbuchel/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/hbuchel/subscriptions",
-        "organizations_url": "https://api.github.com/users/hbuchel/orgs",
-        "repos_url": "https://api.github.com/users/hbuchel/repos",
-        "events_url": "https://api.github.com/users/hbuchel/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/hbuchel/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 59
-      },
-      {
         "login": "thaddmt",
         "id": 68032955,
         "node_id": "MDQ6VXNlcjY4MDMyOTU1",
@@ -33280,7 +33280,7 @@
         "received_events_url": "https://api.github.com/users/thaddmt/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 52
+        "contributions": 55
       },
       {
         "login": "hvergara",
@@ -37240,7 +37240,7 @@
         "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
         "type": "Bot",
         "site_admin": false,
-        "contributions": 50
+        "contributions": 51
       },
       {
         "login": "amplify-data-ci",
@@ -41683,7 +41683,7 @@
         "received_events_url": "https://api.github.com/users/eeatonaws/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 15
+        "contributions": 19
       },
       {
         "login": "amazon-auto",
