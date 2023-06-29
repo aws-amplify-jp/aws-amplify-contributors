@@ -2602,7 +2602,7 @@
         "received_events_url": "https://api.github.com/users/awsmobilesdk/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 383
+        "contributions": 388
       },
       {
         "login": "minbi",
@@ -4687,7 +4687,7 @@
         "received_events_url": "https://api.github.com/users/jimblanc/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 81
+        "contributions": 83
       },
       {
         "login": "amhinson",
@@ -14131,6 +14131,27 @@
         "contributions": 3
       },
       {
+        "login": "0618",
+        "id": 11983489,
+        "node_id": "MDQ6VXNlcjExOTgzNDg5",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11983489?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/0618",
+        "html_url": "https://github.com/0618",
+        "followers_url": "https://api.github.com/users/0618/followers",
+        "following_url": "https://api.github.com/users/0618/following{/other_user}",
+        "gists_url": "https://api.github.com/users/0618/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/0618/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/0618/subscriptions",
+        "organizations_url": "https://api.github.com/users/0618/orgs",
+        "repos_url": "https://api.github.com/users/0618/repos",
+        "events_url": "https://api.github.com/users/0618/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/0618/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 3
+      },
+      {
         "login": "zhamujun",
         "id": 73084428,
         "node_id": "MDQ6VXNlcjczMDg0NDI4",
@@ -14693,27 +14714,6 @@
         "repos_url": "https://api.github.com/users/loganhersh/repos",
         "events_url": "https://api.github.com/users/loganhersh/events{/privacy}",
         "received_events_url": "https://api.github.com/users/loganhersh/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 2
-      },
-      {
-        "login": "0618",
-        "id": 11983489,
-        "node_id": "MDQ6VXNlcjExOTgzNDg5",
-        "avatar_url": "https://avatars.githubusercontent.com/u/11983489?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/0618",
-        "html_url": "https://github.com/0618",
-        "followers_url": "https://api.github.com/users/0618/followers",
-        "following_url": "https://api.github.com/users/0618/following{/other_user}",
-        "gists_url": "https://api.github.com/users/0618/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/0618/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/0618/subscriptions",
-        "organizations_url": "https://api.github.com/users/0618/orgs",
-        "repos_url": "https://api.github.com/users/0618/repos",
-        "events_url": "https://api.github.com/users/0618/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/0618/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 2
@@ -18754,7 +18754,7 @@
         "received_events_url": "https://api.github.com/users/offlineprogrammer/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 45
+        "contributions": 46
       },
       {
         "login": "dnys1",
@@ -29890,7 +29890,7 @@
         "received_events_url": "https://api.github.com/users/dnys1/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 1234
+        "contributions": 1268
       },
       {
         "login": "HuiSF",
@@ -29995,7 +29995,7 @@
         "received_events_url": "https://api.github.com/users/fjnoyp/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 99
+        "contributions": 101
       },
       {
         "login": "Amplifiyer",
@@ -30079,7 +30079,7 @@
         "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
         "type": "Bot",
         "site_admin": false,
-        "contributions": 27
+        "contributions": 29
       },
       {
         "login": "Ashish-Nanda",
@@ -31498,7 +31498,7 @@
         "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
         "type": "Bot",
         "site_admin": false,
-        "contributions": 6
+        "contributions": 7
       },
       {
         "login": "ammarkarachi",
@@ -32986,7 +32986,7 @@
         "received_events_url": "https://api.github.com/users/wlee221/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 347
+        "contributions": 348
       },
       {
         "login": "reesscot",
@@ -33280,7 +33280,7 @@
         "received_events_url": "https://api.github.com/users/thaddmt/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 55
+        "contributions": 58
       },
       {
         "login": "hvergara",
@@ -37177,7 +37177,7 @@
         "received_events_url": "https://api.github.com/users/AaronZyLee/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 59
+        "contributions": 60
       },
       {
         "login": "mlabieniec",
@@ -41683,7 +41683,7 @@
         "received_events_url": "https://api.github.com/users/eeatonaws/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 19
+        "contributions": 21
       },
       {
         "login": "amazon-auto",
