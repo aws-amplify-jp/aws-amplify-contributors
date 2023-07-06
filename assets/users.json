@@ -5002,5 +5002,13 @@
   "oschwartz10612": {
     "login": "oschwartz10612",
     "location": "United States"
+  },
+  "michallaskowski": {
+    "login": "michallaskowski",
+    "location": "Warsaw"
+  },
+  "ankpshah": {
+    "login": "ankpshah",
+    "location": null
   }
 }
