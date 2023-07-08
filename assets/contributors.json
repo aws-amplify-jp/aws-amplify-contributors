@@ -370,7 +370,7 @@
         "received_events_url": "https://api.github.com/users/awsmobilesdk/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 966
+        "contributions": 968
       },
       {
         "login": "palpatim",
@@ -2896,7 +2896,7 @@
         "received_events_url": "https://api.github.com/users/tylerjroach/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 13
+        "contributions": 14
       },
       {
         "login": "sdhuka",
@@ -4522,6 +4522,27 @@
         "contributions": 176
       },
       {
+        "login": "AllanZhengYP",
+        "id": 7614947,
+        "node_id": "MDQ6VXNlcjc2MTQ5NDc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7614947?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/AllanZhengYP",
+        "html_url": "https://github.com/AllanZhengYP",
+        "followers_url": "https://api.github.com/users/AllanZhengYP/followers",
+        "following_url": "https://api.github.com/users/AllanZhengYP/following{/other_user}",
+        "gists_url": "https://api.github.com/users/AllanZhengYP/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/AllanZhengYP/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/AllanZhengYP/subscriptions",
+        "organizations_url": "https://api.github.com/users/AllanZhengYP/orgs",
+        "repos_url": "https://api.github.com/users/AllanZhengYP/repos",
+        "events_url": "https://api.github.com/users/AllanZhengYP/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/AllanZhengYP/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 171
+      },
+      {
         "login": "richardzcode",
         "id": 1006903,
         "node_id": "MDQ6VXNlcjEwMDY5MDM=",
@@ -4583,27 +4604,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 156
-      },
-      {
-        "login": "AllanZhengYP",
-        "id": 7614947,
-        "node_id": "MDQ6VXNlcjc2MTQ5NDc=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7614947?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/AllanZhengYP",
-        "html_url": "https://github.com/AllanZhengYP",
-        "followers_url": "https://api.github.com/users/AllanZhengYP/followers",
-        "following_url": "https://api.github.com/users/AllanZhengYP/following{/other_user}",
-        "gists_url": "https://api.github.com/users/AllanZhengYP/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/AllanZhengYP/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/AllanZhengYP/subscriptions",
-        "organizations_url": "https://api.github.com/users/AllanZhengYP/orgs",
-        "repos_url": "https://api.github.com/users/AllanZhengYP/repos",
-        "events_url": "https://api.github.com/users/AllanZhengYP/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/AllanZhengYP/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 151
       },
       {
         "login": "stocaaro",
@@ -4708,7 +4708,7 @@
         "received_events_url": "https://api.github.com/users/jimblanc/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 84
+        "contributions": 88
       },
       {
         "login": "amhinson",
@@ -5315,6 +5315,27 @@
         "repos_url": "https://api.github.com/users/thaddmt/repos",
         "events_url": "https://api.github.com/users/thaddmt/events{/privacy}",
         "received_events_url": "https://api.github.com/users/thaddmt/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 14
+      },
+      {
+        "login": "HuiSF",
+        "id": 10602282,
+        "node_id": "MDQ6VXNlcjEwNjAyMjgy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10602282?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/HuiSF",
+        "html_url": "https://github.com/HuiSF",
+        "followers_url": "https://api.github.com/users/HuiSF/followers",
+        "following_url": "https://api.github.com/users/HuiSF/following{/other_user}",
+        "gists_url": "https://api.github.com/users/HuiSF/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/HuiSF/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/HuiSF/subscriptions",
+        "organizations_url": "https://api.github.com/users/HuiSF/orgs",
+        "repos_url": "https://api.github.com/users/HuiSF/repos",
+        "events_url": "https://api.github.com/users/HuiSF/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/HuiSF/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 14
@@ -6071,27 +6092,6 @@
         "repos_url": "https://api.github.com/users/hyandell/repos",
         "events_url": "https://api.github.com/users/hyandell/events{/privacy}",
         "received_events_url": "https://api.github.com/users/hyandell/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 4
-      },
-      {
-        "login": "HuiSF",
-        "id": 10602282,
-        "node_id": "MDQ6VXNlcjEwNjAyMjgy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/10602282?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/HuiSF",
-        "html_url": "https://github.com/HuiSF",
-        "followers_url": "https://api.github.com/users/HuiSF/followers",
-        "following_url": "https://api.github.com/users/HuiSF/following{/other_user}",
-        "gists_url": "https://api.github.com/users/HuiSF/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/HuiSF/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/HuiSF/subscriptions",
-        "organizations_url": "https://api.github.com/users/HuiSF/orgs",
-        "repos_url": "https://api.github.com/users/HuiSF/repos",
-        "events_url": "https://api.github.com/users/HuiSF/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/HuiSF/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 4
@@ -13102,6 +13102,27 @@
         "contributions": 45
       },
       {
+        "login": "goldbez",
+        "id": 117126550,
+        "node_id": "U_kgDOBvs1lg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/117126550?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/goldbez",
+        "html_url": "https://github.com/goldbez",
+        "followers_url": "https://api.github.com/users/goldbez/followers",
+        "following_url": "https://api.github.com/users/goldbez/following{/other_user}",
+        "gists_url": "https://api.github.com/users/goldbez/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/goldbez/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/goldbez/subscriptions",
+        "organizations_url": "https://api.github.com/users/goldbez/orgs",
+        "repos_url": "https://api.github.com/users/goldbez/repos",
+        "events_url": "https://api.github.com/users/goldbez/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/goldbez/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 44
+      },
+      {
         "login": "jordanranz",
         "id": 3868826,
         "node_id": "MDQ6VXNlcjM4Njg4MjY=",
@@ -13142,27 +13163,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 41
-      },
-      {
-        "login": "goldbez",
-        "id": 117126550,
-        "node_id": "U_kgDOBvs1lg",
-        "avatar_url": "https://avatars.githubusercontent.com/u/117126550?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/goldbez",
-        "html_url": "https://github.com/goldbez",
-        "followers_url": "https://api.github.com/users/goldbez/followers",
-        "following_url": "https://api.github.com/users/goldbez/following{/other_user}",
-        "gists_url": "https://api.github.com/users/goldbez/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/goldbez/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/goldbez/subscriptions",
-        "organizations_url": "https://api.github.com/users/goldbez/orgs",
-        "repos_url": "https://api.github.com/users/goldbez/repos",
-        "events_url": "https://api.github.com/users/goldbez/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/goldbez/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 40
       },
       {
         "login": "phani-srikar",
@@ -29230,27 +29230,6 @@
         "contributions": 5
       },
       {
-        "login": "hloriii",
-        "id": 76065904,
-        "node_id": "MDQ6VXNlcjc2MDY1OTA0",
-        "avatar_url": "https://avatars.githubusercontent.com/u/76065904?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/hloriii",
-        "html_url": "https://github.com/hloriii",
-        "followers_url": "https://api.github.com/users/hloriii/followers",
-        "following_url": "https://api.github.com/users/hloriii/following{/other_user}",
-        "gists_url": "https://api.github.com/users/hloriii/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/hloriii/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/hloriii/subscriptions",
-        "organizations_url": "https://api.github.com/users/hloriii/orgs",
-        "repos_url": "https://api.github.com/users/hloriii/repos",
-        "events_url": "https://api.github.com/users/hloriii/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/hloriii/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 5
-      },
-      {
         "login": "ferdingler",
         "id": 3701083,
         "node_id": "MDQ6VXNlcjM3MDEwODM=",
@@ -29911,7 +29890,7 @@
         "received_events_url": "https://api.github.com/users/dnys1/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 1270
+        "contributions": 1272
       },
       {
         "login": "HuiSF",
@@ -31225,7 +31204,7 @@
         "received_events_url": "https://api.github.com/users/phani-srikar/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 301
+        "contributions": 306
       },
       {
         "login": "AaronZyLee",
@@ -33262,27 +33241,6 @@
         "contributions": 67
       },
       {
-        "login": "hbuchel",
-        "id": 376920,
-        "node_id": "MDQ6VXNlcjM3NjkyMA==",
-        "avatar_url": "https://avatars.githubusercontent.com/u/376920?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/hbuchel",
-        "html_url": "https://github.com/hbuchel",
-        "followers_url": "https://api.github.com/users/hbuchel/followers",
-        "following_url": "https://api.github.com/users/hbuchel/following{/other_user}",
-        "gists_url": "https://api.github.com/users/hbuchel/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/hbuchel/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/hbuchel/subscriptions",
-        "organizations_url": "https://api.github.com/users/hbuchel/orgs",
-        "repos_url": "https://api.github.com/users/hbuchel/repos",
-        "events_url": "https://api.github.com/users/hbuchel/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/hbuchel/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 62
-      },
-      {
         "login": "ioanabrooks",
         "id": 68251134,
         "node_id": "MDQ6VXNlcjY4MjUxMTM0",
@@ -33299,6 +33257,27 @@
         "repos_url": "https://api.github.com/users/ioanabrooks/repos",
         "events_url": "https://api.github.com/users/ioanabrooks/events{/privacy}",
         "received_events_url": "https://api.github.com/users/ioanabrooks/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 64
+      },
+      {
+        "login": "hbuchel",
+        "id": 376920,
+        "node_id": "MDQ6VXNlcjM3NjkyMA==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/376920?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/hbuchel",
+        "html_url": "https://github.com/hbuchel",
+        "followers_url": "https://api.github.com/users/hbuchel/followers",
+        "following_url": "https://api.github.com/users/hbuchel/following{/other_user}",
+        "gists_url": "https://api.github.com/users/hbuchel/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/hbuchel/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/hbuchel/subscriptions",
+        "organizations_url": "https://api.github.com/users/hbuchel/orgs",
+        "repos_url": "https://api.github.com/users/hbuchel/repos",
+        "events_url": "https://api.github.com/users/hbuchel/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/hbuchel/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 62
@@ -33322,7 +33301,7 @@
         "received_events_url": "https://api.github.com/users/thaddmt/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 59
+        "contributions": 60
       },
       {
         "login": "hvergara",
@@ -33598,22 +33577,22 @@
         "contributions": 2
       },
       {
-        "login": "strugman",
+        "login": "gornypiotr",
         "id": 801297,
         "node_id": "MDQ6VXNlcjgwMTI5Nw==",
         "avatar_url": "https://avatars.githubusercontent.com/u/801297?v=4",
         "gravatar_id": "",
-        "url": "https://api.github.com/users/strugman",
-        "html_url": "https://github.com/strugman",
-        "followers_url": "https://api.github.com/users/strugman/followers",
-        "following_url": "https://api.github.com/users/strugman/following{/other_user}",
-        "gists_url": "https://api.github.com/users/strugman/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/strugman/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/strugman/subscriptions",
-        "organizations_url": "https://api.github.com/users/strugman/orgs",
-        "repos_url": "https://api.github.com/users/strugman/repos",
-        "events_url": "https://api.github.com/users/strugman/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/strugman/received_events",
+        "url": "https://api.github.com/users/gornypiotr",
+        "html_url": "https://github.com/gornypiotr",
+        "followers_url": "https://api.github.com/users/gornypiotr/followers",
+        "following_url": "https://api.github.com/users/gornypiotr/following{/other_user}",
+        "gists_url": "https://api.github.com/users/gornypiotr/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/gornypiotr/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/gornypiotr/subscriptions",
+        "organizations_url": "https://api.github.com/users/gornypiotr/orgs",
+        "repos_url": "https://api.github.com/users/gornypiotr/repos",
+        "events_url": "https://api.github.com/users/gornypiotr/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/gornypiotr/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 2
@@ -36841,7 +36820,7 @@
         "received_events_url": "https://api.github.com/users/sundersc/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 261
+        "contributions": 267
       },
       {
         "login": "edwardfoyle",
@@ -36925,7 +36904,7 @@
         "received_events_url": "https://api.github.com/users/phani-srikar/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 215
+        "contributions": 219
       },
       {
         "login": "jhockett",
@@ -36988,7 +36967,7 @@
         "received_events_url": "https://api.github.com/users/alharris-at/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 148
+        "contributions": 149
       },
       {
         "login": "marcvberg",
@@ -37264,6 +37243,27 @@
         "contributions": 54
       },
       {
+        "login": "amplify-data-ci",
+        "id": 102770202,
+        "node_id": "U_kgDOBiAmGg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102770202?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/amplify-data-ci",
+        "html_url": "https://github.com/amplify-data-ci",
+        "followers_url": "https://api.github.com/users/amplify-data-ci/followers",
+        "following_url": "https://api.github.com/users/amplify-data-ci/following{/other_user}",
+        "gists_url": "https://api.github.com/users/amplify-data-ci/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/amplify-data-ci/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/amplify-data-ci/subscriptions",
+        "organizations_url": "https://api.github.com/users/amplify-data-ci/orgs",
+        "repos_url": "https://api.github.com/users/amplify-data-ci/repos",
+        "events_url": "https://api.github.com/users/amplify-data-ci/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/amplify-data-ci/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 53
+      },
+      {
         "login": "mikeparisstuff",
         "id": 1975655,
         "node_id": "MDQ6VXNlcjE5NzU2NTU=",
@@ -37304,27 +37304,6 @@
         "type": "Bot",
         "site_admin": false,
         "contributions": 51
-      },
-      {
-        "login": "amplify-data-ci",
-        "id": 102770202,
-        "node_id": "U_kgDOBiAmGg",
-        "avatar_url": "https://avatars.githubusercontent.com/u/102770202?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/amplify-data-ci",
-        "html_url": "https://github.com/amplify-data-ci",
-        "followers_url": "https://api.github.com/users/amplify-data-ci/followers",
-        "following_url": "https://api.github.com/users/amplify-data-ci/following{/other_user}",
-        "gists_url": "https://api.github.com/users/amplify-data-ci/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/amplify-data-ci/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/amplify-data-ci/subscriptions",
-        "organizations_url": "https://api.github.com/users/amplify-data-ci/orgs",
-        "repos_url": "https://api.github.com/users/amplify-data-ci/repos",
-        "events_url": "https://api.github.com/users/amplify-data-ci/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/amplify-data-ci/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 50
       },
       {
         "login": "jordanranz",
@@ -41554,27 +41533,6 @@
         "contributions": 11
       },
       {
-        "login": "jcjimenez",
-        "id": 1117904,
-        "node_id": "MDQ6VXNlcjExMTc5MDQ=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1117904?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/jcjimenez",
-        "html_url": "https://github.com/jcjimenez",
-        "followers_url": "https://api.github.com/users/jcjimenez/followers",
-        "following_url": "https://api.github.com/users/jcjimenez/following{/other_user}",
-        "gists_url": "https://api.github.com/users/jcjimenez/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/jcjimenez/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/jcjimenez/subscriptions",
-        "organizations_url": "https://api.github.com/users/jcjimenez/orgs",
-        "repos_url": "https://api.github.com/users/jcjimenez/repos",
-        "events_url": "https://api.github.com/users/jcjimenez/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/jcjimenez/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 3
-      },
-      {
         "login": "phantumcode",
         "id": 103537251,
         "node_id": "U_kgDOBivaYw",
@@ -41591,6 +41549,27 @@
         "repos_url": "https://api.github.com/users/phantumcode/repos",
         "events_url": "https://api.github.com/users/phantumcode/events{/privacy}",
         "received_events_url": "https://api.github.com/users/phantumcode/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 5
+      },
+      {
+        "login": "jcjimenez",
+        "id": 1117904,
+        "node_id": "MDQ6VXNlcjExMTc5MDQ=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1117904?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/jcjimenez",
+        "html_url": "https://github.com/jcjimenez",
+        "followers_url": "https://api.github.com/users/jcjimenez/followers",
+        "following_url": "https://api.github.com/users/jcjimenez/following{/other_user}",
+        "gists_url": "https://api.github.com/users/jcjimenez/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/jcjimenez/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/jcjimenez/subscriptions",
+        "organizations_url": "https://api.github.com/users/jcjimenez/orgs",
+        "repos_url": "https://api.github.com/users/jcjimenez/repos",
+        "events_url": "https://api.github.com/users/jcjimenez/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/jcjimenez/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 3
