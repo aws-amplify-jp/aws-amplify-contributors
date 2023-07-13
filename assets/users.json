@@ -5014,5 +5014,17 @@
   "gornypiotr": {
     "login": "gornypiotr",
     "location": "Poznań, Poland"
+  },
+  "tyndria": {
+    "login": "tyndria",
+    "location": "Dubai"
+  },
+  "flexbox": {
+    "login": "flexbox",
+    "location": null
+  },
+  "Rogue-striker": {
+    "login": "Rogue-striker",
+    "location": null
   }
 }
