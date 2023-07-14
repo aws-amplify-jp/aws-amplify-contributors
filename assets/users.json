@@ -5026,5 +5026,9 @@
   "Rogue-striker": {
     "login": "Rogue-striker",
     "location": null
+  },
+  "bodaso": {
+    "login": "bodaso",
+    "location": "United Kingdom"
   }
 }
