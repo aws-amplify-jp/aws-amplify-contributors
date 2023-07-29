@@ -5058,5 +5058,13 @@
   "cunneen": {
     "login": "cunneen",
     "location": "Perth, Australia"
+  },
+  "petercwk-aws": {
+    "login": "petercwk-aws",
+    "location": null
+  },
+  "lgtm-com[bot]": {
+    "login": "lgtm-com[bot]",
+    "location": null
   }
 }
