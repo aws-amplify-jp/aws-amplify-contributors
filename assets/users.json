@@ -5066,5 +5066,13 @@
   "lgtm-com[bot]": {
     "login": "lgtm-com[bot]",
     "location": null
+  },
+  "florian42": {
+    "login": "florian42",
+    "location": "Munich"
+  },
+  "hamza-shezad": {
+    "login": "hamza-shezad",
+    "location": null
   }
 }
