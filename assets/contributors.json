@@ -25654,7 +25654,28 @@
         "received_events_url": "https://api.github.com/users/5d/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 44
+        "contributions": 45
+      },
+      {
+        "login": "phantumcode",
+        "id": 103537251,
+        "node_id": "U_kgDOBivaYw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103537251?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/phantumcode",
+        "html_url": "https://github.com/phantumcode",
+        "followers_url": "https://api.github.com/users/phantumcode/followers",
+        "following_url": "https://api.github.com/users/phantumcode/following{/other_user}",
+        "gists_url": "https://api.github.com/users/phantumcode/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/phantumcode/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/phantumcode/subscriptions",
+        "organizations_url": "https://api.github.com/users/phantumcode/orgs",
+        "repos_url": "https://api.github.com/users/phantumcode/repos",
+        "events_url": "https://api.github.com/users/phantumcode/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/phantumcode/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 33
       },
       {
         "login": "drochetti",
@@ -25697,27 +25718,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 33
-      },
-      {
-        "login": "phantumcode",
-        "id": 103537251,
-        "node_id": "U_kgDOBivaYw",
-        "avatar_url": "https://avatars.githubusercontent.com/u/103537251?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/phantumcode",
-        "html_url": "https://github.com/phantumcode",
-        "followers_url": "https://api.github.com/users/phantumcode/followers",
-        "following_url": "https://api.github.com/users/phantumcode/following{/other_user}",
-        "gists_url": "https://api.github.com/users/phantumcode/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/phantumcode/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/phantumcode/subscriptions",
-        "organizations_url": "https://api.github.com/users/phantumcode/orgs",
-        "repos_url": "https://api.github.com/users/phantumcode/repos",
-        "events_url": "https://api.github.com/users/phantumcode/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/phantumcode/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 32
       },
       {
         "login": "jcjimenez",
