@@ -29824,27 +29824,6 @@
         "contributions": 9
       },
       {
-        "login": "ameter",
-        "id": 29186822,
-        "node_id": "MDQ6VXNlcjI5MTg2ODIy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/29186822?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/ameter",
-        "html_url": "https://github.com/ameter",
-        "followers_url": "https://api.github.com/users/ameter/followers",
-        "following_url": "https://api.github.com/users/ameter/following{/other_user}",
-        "gists_url": "https://api.github.com/users/ameter/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/ameter/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/ameter/subscriptions",
-        "organizations_url": "https://api.github.com/users/ameter/orgs",
-        "repos_url": "https://api.github.com/users/ameter/repos",
-        "events_url": "https://api.github.com/users/ameter/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/ameter/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 5
-      },
-      {
         "login": "atierian",
         "id": 52051793,
         "node_id": "MDQ6VXNlcjUyMDUxNzkz",
@@ -29861,6 +29840,27 @@
         "repos_url": "https://api.github.com/users/atierian/repos",
         "events_url": "https://api.github.com/users/atierian/events{/privacy}",
         "received_events_url": "https://api.github.com/users/atierian/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 7
+      },
+      {
+        "login": "ameter",
+        "id": 29186822,
+        "node_id": "MDQ6VXNlcjI5MTg2ODIy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29186822?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/ameter",
+        "html_url": "https://github.com/ameter",
+        "followers_url": "https://api.github.com/users/ameter/followers",
+        "following_url": "https://api.github.com/users/ameter/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ameter/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/ameter/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ameter/subscriptions",
+        "organizations_url": "https://api.github.com/users/ameter/orgs",
+        "repos_url": "https://api.github.com/users/ameter/repos",
+        "events_url": "https://api.github.com/users/ameter/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/ameter/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 5
@@ -30079,7 +30079,7 @@
         "received_events_url": "https://api.github.com/users/dnys1/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 1340
+        "contributions": 1341
       },
       {
         "login": "HuiSF",
