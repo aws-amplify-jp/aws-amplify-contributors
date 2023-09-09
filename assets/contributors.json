@@ -5152,6 +5152,27 @@
         "contributions": 21
       },
       {
+        "login": "HuiSF",
+        "id": 10602282,
+        "node_id": "MDQ6VXNlcjEwNjAyMjgy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10602282?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/HuiSF",
+        "html_url": "https://github.com/HuiSF",
+        "followers_url": "https://api.github.com/users/HuiSF/followers",
+        "following_url": "https://api.github.com/users/HuiSF/following{/other_user}",
+        "gists_url": "https://api.github.com/users/HuiSF/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/HuiSF/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/HuiSF/subscriptions",
+        "organizations_url": "https://api.github.com/users/HuiSF/orgs",
+        "repos_url": "https://api.github.com/users/HuiSF/repos",
+        "events_url": "https://api.github.com/users/HuiSF/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/HuiSF/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 21
+      },
+      {
         "login": "nickarocho",
         "id": 16296496,
         "node_id": "MDQ6VXNlcjE2Mjk2NDk2",
@@ -5189,27 +5210,6 @@
         "repos_url": "https://api.github.com/users/undefobj/repos",
         "events_url": "https://api.github.com/users/undefobj/events{/privacy}",
         "received_events_url": "https://api.github.com/users/undefobj/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 20
-      },
-      {
-        "login": "HuiSF",
-        "id": 10602282,
-        "node_id": "MDQ6VXNlcjEwNjAyMjgy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/10602282?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/HuiSF",
-        "html_url": "https://github.com/HuiSF",
-        "followers_url": "https://api.github.com/users/HuiSF/followers",
-        "following_url": "https://api.github.com/users/HuiSF/following{/other_user}",
-        "gists_url": "https://api.github.com/users/HuiSF/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/HuiSF/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/HuiSF/subscriptions",
-        "organizations_url": "https://api.github.com/users/HuiSF/orgs",
-        "repos_url": "https://api.github.com/users/HuiSF/repos",
-        "events_url": "https://api.github.com/users/HuiSF/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/HuiSF/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 20
@@ -27577,7 +27577,7 @@
         "received_events_url": "https://api.github.com/users/timngyn/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 19
+        "contributions": 20
       },
       {
         "login": "ykbryan",
@@ -30121,7 +30121,7 @@
         "received_events_url": "https://api.github.com/users/dnys1/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 1380
+        "contributions": 1382
       },
       {
         "login": "HuiSF",
@@ -30268,7 +30268,7 @@
         "received_events_url": "https://api.github.com/users/Equartey/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 42
+        "contributions": 43
       },
       {
         "login": "mlabieniec",
@@ -31603,7 +31603,7 @@
         "received_events_url": "https://api.github.com/users/dpilch/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 25
+        "contributions": 26
       },
       {
         "login": "amplify-data-ci",
@@ -35986,7 +35986,7 @@
         "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
         "type": "Bot",
         "site_admin": false,
-        "contributions": 24
+        "contributions": 25
       },
       {
         "login": "esauerbo1",
@@ -37555,7 +37555,7 @@
         "received_events_url": "https://api.github.com/users/alharris-at/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 179
+        "contributions": 181
       },
       {
         "login": "akshbhu",
