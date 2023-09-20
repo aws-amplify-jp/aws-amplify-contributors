@@ -412,7 +412,7 @@
         "received_events_url": "https://api.github.com/users/awsmobilesdk/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 1028
+        "contributions": 1029
       },
       {
         "login": "palpatim",
@@ -12193,6 +12193,27 @@
         "contributions": 26
       },
       {
+        "login": "praegt",
+        "id": 145505825,
+        "node_id": "U_kgDOCKw-IQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/145505825?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/praegt",
+        "html_url": "https://github.com/praegt",
+        "followers_url": "https://api.github.com/users/praegt/followers",
+        "following_url": "https://api.github.com/users/praegt/following{/other_user}",
+        "gists_url": "https://api.github.com/users/praegt/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/praegt/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/praegt/subscriptions",
+        "organizations_url": "https://api.github.com/users/praegt/orgs",
+        "repos_url": "https://api.github.com/users/praegt/repos",
+        "events_url": "https://api.github.com/users/praegt/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/praegt/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 14
+      },
+      {
         "login": "Brene",
         "id": 69429342,
         "node_id": "MDQ6VXNlcjY5NDI5MzQy",
@@ -12763,7 +12784,7 @@
         "received_events_url": "https://api.github.com/users/sobolk/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 266
+        "contributions": 267
       },
       {
         "login": "lazpavel",
@@ -13331,6 +13352,27 @@
         "type": "User",
         "site_admin": false,
         "contributions": 34
+      },
+      {
+        "login": "praegt",
+        "id": 145505825,
+        "node_id": "U_kgDOCKw-IQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/145505825?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/praegt",
+        "html_url": "https://github.com/praegt",
+        "followers_url": "https://api.github.com/users/praegt/followers",
+        "following_url": "https://api.github.com/users/praegt/following{/other_user}",
+        "gists_url": "https://api.github.com/users/praegt/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/praegt/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/praegt/subscriptions",
+        "organizations_url": "https://api.github.com/users/praegt/orgs",
+        "repos_url": "https://api.github.com/users/praegt/repos",
+        "events_url": "https://api.github.com/users/praegt/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/praegt/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 33
       },
       {
         "login": "AaronZyLee",
@@ -18526,27 +18568,6 @@
         "contributions": 82
       },
       {
-        "login": "david-mcafee",
-        "id": 14423828,
-        "node_id": "MDQ6VXNlcjE0NDIzODI4",
-        "avatar_url": "https://avatars.githubusercontent.com/u/14423828?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/david-mcafee",
-        "html_url": "https://github.com/david-mcafee",
-        "followers_url": "https://api.github.com/users/david-mcafee/followers",
-        "following_url": "https://api.github.com/users/david-mcafee/following{/other_user}",
-        "gists_url": "https://api.github.com/users/david-mcafee/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/david-mcafee/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/david-mcafee/subscriptions",
-        "organizations_url": "https://api.github.com/users/david-mcafee/orgs",
-        "repos_url": "https://api.github.com/users/david-mcafee/repos",
-        "events_url": "https://api.github.com/users/david-mcafee/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/david-mcafee/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 77
-      },
-      {
         "login": "timngyn",
         "id": 54393192,
         "node_id": "MDQ6VXNlcjU0MzkzMTky",
@@ -18563,6 +18584,27 @@
         "repos_url": "https://api.github.com/users/timngyn/repos",
         "events_url": "https://api.github.com/users/timngyn/events{/privacy}",
         "received_events_url": "https://api.github.com/users/timngyn/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 82
+      },
+      {
+        "login": "david-mcafee",
+        "id": 14423828,
+        "node_id": "MDQ6VXNlcjE0NDIzODI4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14423828?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/david-mcafee",
+        "html_url": "https://github.com/david-mcafee",
+        "followers_url": "https://api.github.com/users/david-mcafee/followers",
+        "following_url": "https://api.github.com/users/david-mcafee/following{/other_user}",
+        "gists_url": "https://api.github.com/users/david-mcafee/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/david-mcafee/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/david-mcafee/subscriptions",
+        "organizations_url": "https://api.github.com/users/david-mcafee/orgs",
+        "repos_url": "https://api.github.com/users/david-mcafee/repos",
+        "events_url": "https://api.github.com/users/david-mcafee/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/david-mcafee/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 77
@@ -18799,6 +18841,27 @@
         "contributions": 52
       },
       {
+        "login": "jacoblogan",
+        "id": 7351516,
+        "node_id": "MDQ6VXNlcjczNTE1MTY=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7351516?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/jacoblogan",
+        "html_url": "https://github.com/jacoblogan",
+        "followers_url": "https://api.github.com/users/jacoblogan/followers",
+        "following_url": "https://api.github.com/users/jacoblogan/following{/other_user}",
+        "gists_url": "https://api.github.com/users/jacoblogan/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/jacoblogan/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/jacoblogan/subscriptions",
+        "organizations_url": "https://api.github.com/users/jacoblogan/orgs",
+        "repos_url": "https://api.github.com/users/jacoblogan/repos",
+        "events_url": "https://api.github.com/users/jacoblogan/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/jacoblogan/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 51
+      },
+      {
         "login": "lawmicha",
         "id": 1365977,
         "node_id": "MDQ6VXNlcjEzNjU5Nzc=",
@@ -18921,27 +18984,6 @@
         "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
         "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
         "type": "Bot",
-        "site_admin": false,
-        "contributions": 47
-      },
-      {
-        "login": "jacoblogan",
-        "id": 7351516,
-        "node_id": "MDQ6VXNlcjczNTE1MTY=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7351516?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/jacoblogan",
-        "html_url": "https://github.com/jacoblogan",
-        "followers_url": "https://api.github.com/users/jacoblogan/followers",
-        "following_url": "https://api.github.com/users/jacoblogan/following{/other_user}",
-        "gists_url": "https://api.github.com/users/jacoblogan/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/jacoblogan/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/jacoblogan/subscriptions",
-        "organizations_url": "https://api.github.com/users/jacoblogan/orgs",
-        "repos_url": "https://api.github.com/users/jacoblogan/repos",
-        "events_url": "https://api.github.com/users/jacoblogan/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/jacoblogan/received_events",
-        "type": "User",
         "site_admin": false,
         "contributions": 47
       },
@@ -21256,6 +21298,27 @@
         "contributions": 5
       },
       {
+        "login": "sowmyadev-kota",
+        "id": 124720934,
+        "node_id": "U_kgDOB28XJg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/124720934?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/sowmyadev-kota",
+        "html_url": "https://github.com/sowmyadev-kota",
+        "followers_url": "https://api.github.com/users/sowmyadev-kota/followers",
+        "following_url": "https://api.github.com/users/sowmyadev-kota/following{/other_user}",
+        "gists_url": "https://api.github.com/users/sowmyadev-kota/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/sowmyadev-kota/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/sowmyadev-kota/subscriptions",
+        "organizations_url": "https://api.github.com/users/sowmyadev-kota/orgs",
+        "repos_url": "https://api.github.com/users/sowmyadev-kota/repos",
+        "events_url": "https://api.github.com/users/sowmyadev-kota/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/sowmyadev-kota/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 5
+      },
+      {
         "login": "joseph-d-p",
         "id": 16228946,
         "node_id": "MDQ6VXNlcjE2MjI4OTQ2",
@@ -21461,27 +21524,6 @@
         "repos_url": "https://api.github.com/users/sktimalsina/repos",
         "events_url": "https://api.github.com/users/sktimalsina/events{/privacy}",
         "received_events_url": "https://api.github.com/users/sktimalsina/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 4
-      },
-      {
-        "login": "sowmyadev-kota",
-        "id": 124720934,
-        "node_id": "U_kgDOB28XJg",
-        "avatar_url": "https://avatars.githubusercontent.com/u/124720934?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/sowmyadev-kota",
-        "html_url": "https://github.com/sowmyadev-kota",
-        "followers_url": "https://api.github.com/users/sowmyadev-kota/followers",
-        "following_url": "https://api.github.com/users/sowmyadev-kota/following{/other_user}",
-        "gists_url": "https://api.github.com/users/sowmyadev-kota/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/sowmyadev-kota/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/sowmyadev-kota/subscriptions",
-        "organizations_url": "https://api.github.com/users/sowmyadev-kota/orgs",
-        "repos_url": "https://api.github.com/users/sowmyadev-kota/repos",
-        "events_url": "https://api.github.com/users/sowmyadev-kota/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/sowmyadev-kota/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 4
@@ -25570,7 +25612,7 @@
         "received_events_url": "https://api.github.com/users/ruisebas/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 96
+        "contributions": 97
       },
       {
         "login": "wooj2",
@@ -25612,7 +25654,7 @@
         "received_events_url": "https://api.github.com/users/atierian/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 72
+        "contributions": 73
       },
       {
         "login": "thisisabhash",
@@ -30184,7 +30226,7 @@
         "received_events_url": "https://api.github.com/users/Jordan-Nelson/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 167
+        "contributions": 168
       },
       {
         "login": "haverchuck",
@@ -30289,7 +30331,7 @@
         "received_events_url": "https://api.github.com/users/Equartey/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 43
+        "contributions": 44
       },
       {
         "login": "mlabieniec",
@@ -31582,7 +31624,7 @@
         "received_events_url": "https://api.github.com/users/alharris-at/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 56
+        "contributions": 58
       },
       {
         "login": "dpilch",
@@ -31645,7 +31687,7 @@
         "received_events_url": "https://api.github.com/users/amplify-data-ci/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 21
+        "contributions": 22
       },
       {
         "login": "SwaySway",
@@ -33532,7 +33574,7 @@
         "received_events_url": "https://api.github.com/users/thaddmt/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 88
+        "contributions": 89
       },
       {
         "login": "hbuchel",
@@ -38060,6 +38102,27 @@
         "type": "User",
         "site_admin": false,
         "contributions": 39
+      },
+      {
+        "login": "praegt",
+        "id": 145505825,
+        "node_id": "U_kgDOCKw-IQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/145505825?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/praegt",
+        "html_url": "https://github.com/praegt",
+        "followers_url": "https://api.github.com/users/praegt/followers",
+        "following_url": "https://api.github.com/users/praegt/following{/other_user}",
+        "gists_url": "https://api.github.com/users/praegt/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/praegt/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/praegt/subscriptions",
+        "organizations_url": "https://api.github.com/users/praegt/orgs",
+        "repos_url": "https://api.github.com/users/praegt/repos",
+        "events_url": "https://api.github.com/users/praegt/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/praegt/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 33
       },
       {
         "login": "fossamagna",
