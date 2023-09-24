@@ -20584,27 +20584,6 @@
         "contributions": 9
       },
       {
-        "login": "DavidBrear",
-        "id": 1081640,
-        "node_id": "MDQ6VXNlcjEwODE2NDA=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1081640?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/DavidBrear",
-        "html_url": "https://github.com/DavidBrear",
-        "followers_url": "https://api.github.com/users/DavidBrear/followers",
-        "following_url": "https://api.github.com/users/DavidBrear/following{/other_user}",
-        "gists_url": "https://api.github.com/users/DavidBrear/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/DavidBrear/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/DavidBrear/subscriptions",
-        "organizations_url": "https://api.github.com/users/DavidBrear/orgs",
-        "repos_url": "https://api.github.com/users/DavidBrear/repos",
-        "events_url": "https://api.github.com/users/DavidBrear/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/DavidBrear/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 8
-      },
-      {
         "login": "sdhuka",
         "id": 83975678,
         "node_id": "MDQ6VXNlcjgzOTc1Njc4",
