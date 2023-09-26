@@ -12784,7 +12784,7 @@
         "received_events_url": "https://api.github.com/users/sobolk/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 272
+        "contributions": 274
       },
       {
         "login": "lazpavel",
@@ -18460,7 +18460,7 @@
         "received_events_url": "https://api.github.com/users/haverchuck/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 108
+        "contributions": 109
       },
       {
         "login": "eeatonaws",
@@ -25486,7 +25486,7 @@
         "received_events_url": "https://api.github.com/users/lawmicha/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 317
+        "contributions": 320
       },
       {
         "login": "royjit",
@@ -30184,7 +30184,7 @@
         "received_events_url": "https://api.github.com/users/dnys1/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 1395
+        "contributions": 1396
       },
       {
         "login": "HuiSF",
@@ -30268,7 +30268,7 @@
         "received_events_url": "https://api.github.com/users/fjnoyp/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 102
+        "contributions": 103
       },
       {
         "login": "dependabot[bot]",
@@ -30331,7 +30331,7 @@
         "received_events_url": "https://api.github.com/users/Equartey/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 44
+        "contributions": 45
       },
       {
         "login": "mlabieniec",
@@ -31645,7 +31645,7 @@
         "received_events_url": "https://api.github.com/users/dpilch/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 29
+        "contributions": 33
       },
       {
         "login": "marcvberg",
@@ -31687,7 +31687,7 @@
         "received_events_url": "https://api.github.com/users/amplify-data-ci/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 22
+        "contributions": 24
       },
       {
         "login": "SwaySway",
@@ -34039,6 +34039,27 @@
         "contributions": 2
       },
       {
+        "login": "tylerjroach",
+        "id": 634763,
+        "node_id": "MDQ6VXNlcjYzNDc2Mw==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/634763?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tylerjroach",
+        "html_url": "https://github.com/tylerjroach",
+        "followers_url": "https://api.github.com/users/tylerjroach/followers",
+        "following_url": "https://api.github.com/users/tylerjroach/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tylerjroach/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tylerjroach/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tylerjroach/subscriptions",
+        "organizations_url": "https://api.github.com/users/tylerjroach/orgs",
+        "repos_url": "https://api.github.com/users/tylerjroach/repos",
+        "events_url": "https://api.github.com/users/tylerjroach/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tylerjroach/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 2
+      },
+      {
         "login": "AbhishekDesai99",
         "id": 55693856,
         "node_id": "MDQ6VXNlcjU1NjkzODU2",
@@ -35194,27 +35215,6 @@
         "contributions": 1
       },
       {
-        "login": "tylerjroach",
-        "id": 634763,
-        "node_id": "MDQ6VXNlcjYzNDc2Mw==",
-        "avatar_url": "https://avatars.githubusercontent.com/u/634763?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/tylerjroach",
-        "html_url": "https://github.com/tylerjroach",
-        "followers_url": "https://api.github.com/users/tylerjroach/followers",
-        "following_url": "https://api.github.com/users/tylerjroach/following{/other_user}",
-        "gists_url": "https://api.github.com/users/tylerjroach/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/tylerjroach/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/tylerjroach/subscriptions",
-        "organizations_url": "https://api.github.com/users/tylerjroach/orgs",
-        "repos_url": "https://api.github.com/users/tylerjroach/repos",
-        "events_url": "https://api.github.com/users/tylerjroach/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/tylerjroach/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 1
-      },
-      {
         "login": "vitaliikravets",
         "id": 3882455,
         "node_id": "MDQ6VXNlcjM4ODI0NTU=",
@@ -36028,7 +36028,7 @@
         "received_events_url": "https://api.github.com/users/josefaidt/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 860
+        "contributions": 864
       },
       {
         "login": "web-flow",
@@ -36049,7 +36049,7 @@
         "received_events_url": "https://api.github.com/users/web-flow/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 33
+        "contributions": 34
       },
       {
         "login": "github-actions[bot]",
