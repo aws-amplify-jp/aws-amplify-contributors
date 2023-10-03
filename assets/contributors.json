@@ -13585,6 +13585,27 @@
         "contributions": 13
       },
       {
+        "login": "letsbelopez",
+        "id": 16825996,
+        "node_id": "MDQ6VXNlcjE2ODI1OTk2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16825996?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/letsbelopez",
+        "html_url": "https://github.com/letsbelopez",
+        "followers_url": "https://api.github.com/users/letsbelopez/followers",
+        "following_url": "https://api.github.com/users/letsbelopez/following{/other_user}",
+        "gists_url": "https://api.github.com/users/letsbelopez/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/letsbelopez/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/letsbelopez/subscriptions",
+        "organizations_url": "https://api.github.com/users/letsbelopez/orgs",
+        "repos_url": "https://api.github.com/users/letsbelopez/repos",
+        "events_url": "https://api.github.com/users/letsbelopez/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/letsbelopez/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 12
+      },
+      {
         "login": "0618",
         "id": 11983489,
         "node_id": "MDQ6VXNlcjExOTgzNDg5",
@@ -13625,27 +13646,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 12
-      },
-      {
-        "login": "letsbelopez",
-        "id": 16825996,
-        "node_id": "MDQ6VXNlcjE2ODI1OTk2",
-        "avatar_url": "https://avatars.githubusercontent.com/u/16825996?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/letsbelopez",
-        "html_url": "https://github.com/letsbelopez",
-        "followers_url": "https://api.github.com/users/letsbelopez/followers",
-        "following_url": "https://api.github.com/users/letsbelopez/following{/other_user}",
-        "gists_url": "https://api.github.com/users/letsbelopez/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/letsbelopez/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/letsbelopez/subscriptions",
-        "organizations_url": "https://api.github.com/users/letsbelopez/orgs",
-        "repos_url": "https://api.github.com/users/letsbelopez/repos",
-        "events_url": "https://api.github.com/users/letsbelopez/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/letsbelopez/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 11
       },
       {
         "login": "dpilch",
@@ -18166,7 +18166,7 @@
         "received_events_url": "https://api.github.com/users/renebrandel/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 573
+        "contributions": 581
       },
       {
         "login": "harrysolovay",
@@ -18817,7 +18817,7 @@
         "received_events_url": "https://api.github.com/users/jacoblogan/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 56
+        "contributions": 57
       },
       {
         "login": "sachscode",
@@ -30226,7 +30226,7 @@
         "received_events_url": "https://api.github.com/users/Jordan-Nelson/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 174
+        "contributions": 175
       },
       {
         "login": "haverchuck",
@@ -31075,6 +31075,27 @@
         "contributions": 20
       },
       {
+        "login": "dependabot[bot]",
+        "id": 49699333,
+        "node_id": "MDM6Qm90NDk2OTkzMzM=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+        "html_url": "https://github.com/apps/dependabot",
+        "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+        "type": "Bot",
+        "site_admin": false,
+        "contributions": 19
+      },
+      {
         "login": "jpignata",
         "id": 19775,
         "node_id": "MDQ6VXNlcjE5Nzc1",
@@ -31094,27 +31115,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 17
-      },
-      {
-        "login": "dependabot[bot]",
-        "id": 49699333,
-        "node_id": "MDM6Qm90NDk2OTkzMzM=",
-        "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/dependabot%5Bbot%5D",
-        "html_url": "https://github.com/apps/dependabot",
-        "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
-        "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
-        "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
-        "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
-        "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
-        "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
-        "type": "Bot",
-        "site_admin": false,
-        "contributions": 16
       },
       {
         "login": "royjit",
@@ -31624,7 +31624,7 @@
         "received_events_url": "https://api.github.com/users/alharris-at/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 59
+        "contributions": 62
       },
       {
         "login": "dpilch",
@@ -31645,7 +31645,7 @@
         "received_events_url": "https://api.github.com/users/dpilch/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 37
+        "contributions": 38
       },
       {
         "login": "marcvberg",
@@ -31687,7 +31687,7 @@
         "received_events_url": "https://api.github.com/users/amplify-data-ci/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 25
+        "contributions": 27
       },
       {
         "login": "SwaySway",
@@ -36523,7 +36523,7 @@
         "received_events_url": "https://api.github.com/users/letsbelopez/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 24
+        "contributions": 25
       },
       {
         "login": "SwaySway",
@@ -37660,7 +37660,7 @@
         "received_events_url": "https://api.github.com/users/alharris-at/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 201
+        "contributions": 202
       },
       {
         "login": "akshbhu",
@@ -37810,6 +37810,27 @@
         "contributions": 75
       },
       {
+        "login": "amplify-data-ci",
+        "id": 102770202,
+        "node_id": "U_kgDOBiAmGg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102770202?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/amplify-data-ci",
+        "html_url": "https://github.com/amplify-data-ci",
+        "followers_url": "https://api.github.com/users/amplify-data-ci/followers",
+        "following_url": "https://api.github.com/users/amplify-data-ci/following{/other_user}",
+        "gists_url": "https://api.github.com/users/amplify-data-ci/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/amplify-data-ci/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/amplify-data-ci/subscriptions",
+        "organizations_url": "https://api.github.com/users/amplify-data-ci/orgs",
+        "repos_url": "https://api.github.com/users/amplify-data-ci/repos",
+        "events_url": "https://api.github.com/users/amplify-data-ci/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/amplify-data-ci/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 74
+      },
+      {
         "login": "elorzafe",
         "id": 28815678,
         "node_id": "MDQ6VXNlcjI4ODE1Njc4",
@@ -37829,27 +37850,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 74
-      },
-      {
-        "login": "amplify-data-ci",
-        "id": 102770202,
-        "node_id": "U_kgDOBiAmGg",
-        "avatar_url": "https://avatars.githubusercontent.com/u/102770202?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/amplify-data-ci",
-        "html_url": "https://github.com/amplify-data-ci",
-        "followers_url": "https://api.github.com/users/amplify-data-ci/followers",
-        "following_url": "https://api.github.com/users/amplify-data-ci/following{/other_user}",
-        "gists_url": "https://api.github.com/users/amplify-data-ci/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/amplify-data-ci/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/amplify-data-ci/subscriptions",
-        "organizations_url": "https://api.github.com/users/amplify-data-ci/orgs",
-        "repos_url": "https://api.github.com/users/amplify-data-ci/repos",
-        "events_url": "https://api.github.com/users/amplify-data-ci/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/amplify-data-ci/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 72
       },
       {
         "login": "AaronZyLee",
