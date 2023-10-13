@@ -13816,6 +13816,27 @@
         "contributions": 8
       },
       {
+        "login": "bombguy",
+        "id": 9378323,
+        "node_id": "MDQ6VXNlcjkzNzgzMjM=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/9378323?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bombguy",
+        "html_url": "https://github.com/bombguy",
+        "followers_url": "https://api.github.com/users/bombguy/followers",
+        "following_url": "https://api.github.com/users/bombguy/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bombguy/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bombguy/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bombguy/subscriptions",
+        "organizations_url": "https://api.github.com/users/bombguy/orgs",
+        "repos_url": "https://api.github.com/users/bombguy/repos",
+        "events_url": "https://api.github.com/users/bombguy/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bombguy/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 8
+      },
+      {
         "login": "manaswi223",
         "id": 107574718,
         "node_id": "U_kgDOBml1vg",
@@ -13937,27 +13958,6 @@
         "repos_url": "https://api.github.com/users/johnf/repos",
         "events_url": "https://api.github.com/users/johnf/events{/privacy}",
         "received_events_url": "https://api.github.com/users/johnf/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 6
-      },
-      {
-        "login": "bombguy",
-        "id": 9378323,
-        "node_id": "MDQ6VXNlcjkzNzgzMjM=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/9378323?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/bombguy",
-        "html_url": "https://github.com/bombguy",
-        "followers_url": "https://api.github.com/users/bombguy/followers",
-        "following_url": "https://api.github.com/users/bombguy/following{/other_user}",
-        "gists_url": "https://api.github.com/users/bombguy/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/bombguy/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/bombguy/subscriptions",
-        "organizations_url": "https://api.github.com/users/bombguy/orgs",
-        "repos_url": "https://api.github.com/users/bombguy/repos",
-        "events_url": "https://api.github.com/users/bombguy/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/bombguy/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 6
@@ -18187,7 +18187,7 @@
         "received_events_url": "https://api.github.com/users/renebrandel/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 593
+        "contributions": 595
       },
       {
         "login": "harrysolovay",
@@ -18481,7 +18481,7 @@
         "received_events_url": "https://api.github.com/users/haverchuck/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 109
+        "contributions": 110
       },
       {
         "login": "ykethan",
@@ -25612,7 +25612,7 @@
         "received_events_url": "https://api.github.com/users/ruisebas/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 100
+        "contributions": 101
       },
       {
         "login": "brennanMKE",
@@ -25654,7 +25654,7 @@
         "received_events_url": "https://api.github.com/users/atierian/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 76
+        "contributions": 77
       },
       {
         "login": "wooj2",
@@ -31687,7 +31687,7 @@
         "received_events_url": "https://api.github.com/users/dpilch/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 38
+        "contributions": 39
       },
       {
         "login": "amplify-data-ci",
@@ -31708,7 +31708,7 @@
         "received_events_url": "https://api.github.com/users/amplify-data-ci/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 28
+        "contributions": 29
       },
       {
         "login": "marcvberg",
@@ -33532,7 +33532,7 @@
         "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
         "type": "Bot",
         "site_admin": false,
-        "contributions": 126
+        "contributions": 127
       },
       {
         "login": "0618",
@@ -36418,7 +36418,7 @@
         "received_events_url": "https://api.github.com/users/Jshhhh/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 46
+        "contributions": 47
       },
       {
         "login": "frimfram",
@@ -37849,7 +37849,7 @@
         "received_events_url": "https://api.github.com/users/amplify-data-ci/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 78
+        "contributions": 80
       },
       {
         "login": "sobolk",
@@ -38122,7 +38122,7 @@
         "received_events_url": "https://api.github.com/users/dpilch/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 42
+        "contributions": 43
       },
       {
         "login": "sachscode",
