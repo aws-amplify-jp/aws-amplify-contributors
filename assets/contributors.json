@@ -18292,7 +18292,7 @@
         "received_events_url": "https://api.github.com/users/abdallahshaban557/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 213
+        "contributions": 214
       },
       {
         "login": "mauerbac",
@@ -18607,7 +18607,7 @@
         "received_events_url": "https://api.github.com/users/timngyn/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 91
+        "contributions": 92
       },
       {
         "login": "sammartinez",
@@ -18904,6 +18904,27 @@
         "contributions": 52
       },
       {
+        "login": "dependabot[bot]",
+        "id": 49699333,
+        "node_id": "MDM6Qm90NDk2OTkzMzM=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+        "html_url": "https://github.com/apps/dependabot",
+        "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+        "type": "Bot",
+        "site_admin": false,
+        "contributions": 51
+      },
+      {
         "login": "lawmicha",
         "id": 1365977,
         "node_id": "MDQ6VXNlcjEzNjU5Nzc=",
@@ -18944,27 +18965,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 51
-      },
-      {
-        "login": "dependabot[bot]",
-        "id": 49699333,
-        "node_id": "MDM6Qm90NDk2OTkzMzM=",
-        "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/dependabot%5Bbot%5D",
-        "html_url": "https://github.com/apps/dependabot",
-        "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
-        "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
-        "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
-        "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
-        "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
-        "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
-        "type": "Bot",
-        "site_admin": false,
-        "contributions": 50
       },
       {
         "login": "richardmcclellan",
@@ -19072,6 +19072,27 @@
         "contributions": 47
       },
       {
+        "login": "katiegoines",
+        "id": 30757403,
+        "node_id": "MDQ6VXNlcjMwNzU3NDAz",
+        "avatar_url": "https://avatars.githubusercontent.com/u/30757403?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/katiegoines",
+        "html_url": "https://github.com/katiegoines",
+        "followers_url": "https://api.github.com/users/katiegoines/followers",
+        "following_url": "https://api.github.com/users/katiegoines/following{/other_user}",
+        "gists_url": "https://api.github.com/users/katiegoines/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/katiegoines/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/katiegoines/subscriptions",
+        "organizations_url": "https://api.github.com/users/katiegoines/orgs",
+        "repos_url": "https://api.github.com/users/katiegoines/repos",
+        "events_url": "https://api.github.com/users/katiegoines/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/katiegoines/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 46
+      },
+      {
         "login": "offlineprogrammer",
         "id": 12375969,
         "node_id": "MDQ6VXNlcjEyMzc1OTY5",
@@ -19112,27 +19133,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 46
-      },
-      {
-        "login": "katiegoines",
-        "id": 30757403,
-        "node_id": "MDQ6VXNlcjMwNzU3NDAz",
-        "avatar_url": "https://avatars.githubusercontent.com/u/30757403?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/katiegoines",
-        "html_url": "https://github.com/katiegoines",
-        "followers_url": "https://api.github.com/users/katiegoines/followers",
-        "following_url": "https://api.github.com/users/katiegoines/following{/other_user}",
-        "gists_url": "https://api.github.com/users/katiegoines/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/katiegoines/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/katiegoines/subscriptions",
-        "organizations_url": "https://api.github.com/users/katiegoines/orgs",
-        "repos_url": "https://api.github.com/users/katiegoines/repos",
-        "events_url": "https://api.github.com/users/katiegoines/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/katiegoines/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 45
       },
       {
         "login": "TreTuna",
@@ -31687,7 +31687,7 @@
         "received_events_url": "https://api.github.com/users/dpilch/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 39
+        "contributions": 41
       },
       {
         "login": "amplify-data-ci",
@@ -36418,7 +36418,7 @@
         "received_events_url": "https://api.github.com/users/Jshhhh/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 47
+        "contributions": 48
       },
       {
         "login": "frimfram",
