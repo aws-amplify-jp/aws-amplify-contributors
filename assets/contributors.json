@@ -25612,7 +25612,7 @@
         "received_events_url": "https://api.github.com/users/ruisebas/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 102
+        "contributions": 104
       },
       {
         "login": "brennanMKE",
@@ -26458,7 +26458,7 @@
         "received_events_url": "https://api.github.com/users/gpanshu/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 74
+        "contributions": 75
       },
       {
         "login": "div5yesh",
@@ -30247,7 +30247,7 @@
         "received_events_url": "https://api.github.com/users/Jordan-Nelson/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 177
+        "contributions": 178
       },
       {
         "login": "haverchuck",
@@ -30415,7 +30415,7 @@
         "received_events_url": "https://api.github.com/users/NikaHsn/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 13
+        "contributions": 14
       },
       {
         "login": "kaichengyan",
@@ -39910,6 +39910,27 @@
         "contributions": 2
       },
       {
+        "login": "petercwk-aws",
+        "id": 140855345,
+        "node_id": "U_kgDOCGVIMQ",
+        "avatar_url": "https://avatars.githubusercontent.com/u/140855345?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/petercwk-aws",
+        "html_url": "https://github.com/petercwk-aws",
+        "followers_url": "https://api.github.com/users/petercwk-aws/followers",
+        "following_url": "https://api.github.com/users/petercwk-aws/following{/other_user}",
+        "gists_url": "https://api.github.com/users/petercwk-aws/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/petercwk-aws/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/petercwk-aws/subscriptions",
+        "organizations_url": "https://api.github.com/users/petercwk-aws/orgs",
+        "repos_url": "https://api.github.com/users/petercwk-aws/repos",
+        "events_url": "https://api.github.com/users/petercwk-aws/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/petercwk-aws/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 2
+      },
+      {
         "login": "akgm3i",
         "id": 51406499,
         "node_id": "MDQ6VXNlcjUxNDA2NDk5",
@@ -42257,27 +42278,6 @@
         "repos_url": "https://api.github.com/users/osddeitf/repos",
         "events_url": "https://api.github.com/users/osddeitf/events{/privacy}",
         "received_events_url": "https://api.github.com/users/osddeitf/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 1
-      },
-      {
-        "login": "petercwk-aws",
-        "id": 140855345,
-        "node_id": "U_kgDOCGVIMQ",
-        "avatar_url": "https://avatars.githubusercontent.com/u/140855345?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/petercwk-aws",
-        "html_url": "https://github.com/petercwk-aws",
-        "followers_url": "https://api.github.com/users/petercwk-aws/followers",
-        "following_url": "https://api.github.com/users/petercwk-aws/following{/other_user}",
-        "gists_url": "https://api.github.com/users/petercwk-aws/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/petercwk-aws/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/petercwk-aws/subscriptions",
-        "organizations_url": "https://api.github.com/users/petercwk-aws/orgs",
-        "repos_url": "https://api.github.com/users/petercwk-aws/repos",
-        "events_url": "https://api.github.com/users/petercwk-aws/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/petercwk-aws/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 1
