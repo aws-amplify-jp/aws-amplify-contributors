@@ -4750,7 +4750,7 @@
         "received_events_url": "https://api.github.com/users/HuiSF/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 133
+        "contributions": 134
       },
       {
         "login": "manueliglesias",
@@ -13351,7 +13351,7 @@
         "received_events_url": "https://api.github.com/users/phani-srikar/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 40
+        "contributions": 41
       },
       {
         "login": "kuhlmanp",
@@ -20206,6 +20206,27 @@
         "contributions": 15
       },
       {
+        "login": "sowmyadev-kota",
+        "id": 124720934,
+        "node_id": "U_kgDOB28XJg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/124720934?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/sowmyadev-kota",
+        "html_url": "https://github.com/sowmyadev-kota",
+        "followers_url": "https://api.github.com/users/sowmyadev-kota/followers",
+        "following_url": "https://api.github.com/users/sowmyadev-kota/following{/other_user}",
+        "gists_url": "https://api.github.com/users/sowmyadev-kota/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/sowmyadev-kota/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/sowmyadev-kota/subscriptions",
+        "organizations_url": "https://api.github.com/users/sowmyadev-kota/orgs",
+        "repos_url": "https://api.github.com/users/sowmyadev-kota/repos",
+        "events_url": "https://api.github.com/users/sowmyadev-kota/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/sowmyadev-kota/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 15
+      },
+      {
         "login": "rmschindler",
         "id": 17572328,
         "node_id": "MDQ6VXNlcjE3NTcyMzI4",
@@ -20348,27 +20369,6 @@
         "repos_url": "https://api.github.com/users/YikSanChan/repos",
         "events_url": "https://api.github.com/users/YikSanChan/events{/privacy}",
         "received_events_url": "https://api.github.com/users/YikSanChan/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 13
-      },
-      {
-        "login": "sowmyadev-kota",
-        "id": 124720934,
-        "node_id": "U_kgDOB28XJg",
-        "avatar_url": "https://avatars.githubusercontent.com/u/124720934?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/sowmyadev-kota",
-        "html_url": "https://github.com/sowmyadev-kota",
-        "followers_url": "https://api.github.com/users/sowmyadev-kota/followers",
-        "following_url": "https://api.github.com/users/sowmyadev-kota/following{/other_user}",
-        "gists_url": "https://api.github.com/users/sowmyadev-kota/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/sowmyadev-kota/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/sowmyadev-kota/subscriptions",
-        "organizations_url": "https://api.github.com/users/sowmyadev-kota/orgs",
-        "repos_url": "https://api.github.com/users/sowmyadev-kota/repos",
-        "events_url": "https://api.github.com/users/sowmyadev-kota/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/sowmyadev-kota/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 13
@@ -30310,7 +30310,7 @@
         "received_events_url": "https://api.github.com/users/haverchuck/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 117
+        "contributions": 118
       },
       {
         "login": "fjnoyp",
@@ -37786,7 +37786,7 @@
         "received_events_url": "https://api.github.com/users/alharris-at/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 218
+        "contributions": 220
       },
       {
         "login": "jhockett",
@@ -37915,6 +37915,27 @@
         "contributions": 97
       },
       {
+        "login": "amplify-data-ci",
+        "id": 102770202,
+        "node_id": "U_kgDOBiAmGg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/102770202?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/amplify-data-ci",
+        "html_url": "https://github.com/amplify-data-ci",
+        "followers_url": "https://api.github.com/users/amplify-data-ci/followers",
+        "following_url": "https://api.github.com/users/amplify-data-ci/following{/other_user}",
+        "gists_url": "https://api.github.com/users/amplify-data-ci/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/amplify-data-ci/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/amplify-data-ci/subscriptions",
+        "organizations_url": "https://api.github.com/users/amplify-data-ci/orgs",
+        "repos_url": "https://api.github.com/users/amplify-data-ci/repos",
+        "events_url": "https://api.github.com/users/amplify-data-ci/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/amplify-data-ci/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 88
+      },
+      {
         "login": "nikhname",
         "id": 15172985,
         "node_id": "MDQ6VXNlcjE1MTcyOTg1",
@@ -37934,27 +37955,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 87
-      },
-      {
-        "login": "amplify-data-ci",
-        "id": 102770202,
-        "node_id": "U_kgDOBiAmGg",
-        "avatar_url": "https://avatars.githubusercontent.com/u/102770202?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/amplify-data-ci",
-        "html_url": "https://github.com/amplify-data-ci",
-        "followers_url": "https://api.github.com/users/amplify-data-ci/followers",
-        "following_url": "https://api.github.com/users/amplify-data-ci/following{/other_user}",
-        "gists_url": "https://api.github.com/users/amplify-data-ci/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/amplify-data-ci/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/amplify-data-ci/subscriptions",
-        "organizations_url": "https://api.github.com/users/amplify-data-ci/orgs",
-        "repos_url": "https://api.github.com/users/amplify-data-ci/repos",
-        "events_url": "https://api.github.com/users/amplify-data-ci/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/amplify-data-ci/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 86
       },
       {
         "login": "sobolk",
