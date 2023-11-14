@@ -4519,7 +4519,7 @@
         "received_events_url": "https://api.github.com/users/elorzafe/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 310
+        "contributions": 311
       },
       {
         "login": "jimblanc",
@@ -30289,7 +30289,7 @@
         "received_events_url": "https://api.github.com/users/Jordan-Nelson/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 183
+        "contributions": 184
       },
       {
         "login": "haverchuck",
@@ -33490,7 +33490,7 @@
         "received_events_url": "https://api.github.com/users/reesscot/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 238
+        "contributions": 239
       },
       {
         "login": "calebpollman",
@@ -37765,7 +37765,7 @@
         "received_events_url": "https://api.github.com/users/alharris-at/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 237
+        "contributions": 238
       },
       {
         "login": "ammarkarachi",
@@ -38017,7 +38017,7 @@
         "received_events_url": "https://api.github.com/users/AaronZyLee/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 76
+        "contributions": 77
       },
       {
         "login": "elorzafe",
@@ -42691,7 +42691,7 @@
         "received_events_url": "https://api.github.com/users/tylerjroach/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 30
+        "contributions": 32
       },
       {
         "login": "eeatonaws",
@@ -43660,7 +43660,7 @@
         "received_events_url": "https://api.github.com/users/sobolk/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 67
+        "contributions": 68
       },
       {
         "login": "sdstolworthy",
@@ -43807,7 +43807,7 @@
         "received_events_url": "https://api.github.com/users/0618/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 12
+        "contributions": 13
       },
       {
         "login": "alharris-at",
@@ -43849,7 +43849,7 @@
         "received_events_url": "https://api.github.com/users/rtpascual/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 9
+        "contributions": 10
       },
       {
         "login": "dependabot[bot]",
@@ -43870,7 +43870,7 @@
         "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
         "type": "Bot",
         "site_admin": false,
-        "contributions": 7
+        "contributions": 9
       },
       {
         "login": "dpilch",
@@ -43936,6 +43936,27 @@
         "contributions": 3
       },
       {
+        "login": "bombguy",
+        "id": 9378323,
+        "node_id": "MDQ6VXNlcjkzNzgzMjM=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/9378323?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bombguy",
+        "html_url": "https://github.com/bombguy",
+        "followers_url": "https://api.github.com/users/bombguy/followers",
+        "following_url": "https://api.github.com/users/bombguy/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bombguy/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bombguy/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bombguy/subscriptions",
+        "organizations_url": "https://api.github.com/users/bombguy/orgs",
+        "repos_url": "https://api.github.com/users/bombguy/repos",
+        "events_url": "https://api.github.com/users/bombguy/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bombguy/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 3
+      },
+      {
         "login": "goldbez",
         "id": 117126550,
         "node_id": "U_kgDOBvs1lg",
@@ -43976,27 +43997,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 3
-      },
-      {
-        "login": "bombguy",
-        "id": 9378323,
-        "node_id": "MDQ6VXNlcjkzNzgzMjM=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/9378323?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/bombguy",
-        "html_url": "https://github.com/bombguy",
-        "followers_url": "https://api.github.com/users/bombguy/followers",
-        "following_url": "https://api.github.com/users/bombguy/following{/other_user}",
-        "gists_url": "https://api.github.com/users/bombguy/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/bombguy/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/bombguy/subscriptions",
-        "organizations_url": "https://api.github.com/users/bombguy/orgs",
-        "repos_url": "https://api.github.com/users/bombguy/repos",
-        "events_url": "https://api.github.com/users/bombguy/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/bombguy/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 2
       },
       {
         "login": "amazon-auto",
