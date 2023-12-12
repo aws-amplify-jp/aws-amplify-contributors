@@ -433,7 +433,7 @@
         "received_events_url": "https://api.github.com/users/awsmobilesdk/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 1052
+        "contributions": 1053
       },
       {
         "login": "palpatim",
@@ -18397,7 +18397,7 @@
         "received_events_url": "https://api.github.com/users/heatheramz/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 211
+        "contributions": 212
       },
       {
         "login": "mauerbac",
@@ -19912,6 +19912,27 @@
         "contributions": 26
       },
       {
+        "login": "erinleigh90",
+        "id": 106691284,
+        "node_id": "U_kgDOBlv61A",
+        "avatar_url": "https://avatars.githubusercontent.com/u/106691284?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/erinleigh90",
+        "html_url": "https://github.com/erinleigh90",
+        "followers_url": "https://api.github.com/users/erinleigh90/followers",
+        "following_url": "https://api.github.com/users/erinleigh90/following{/other_user}",
+        "gists_url": "https://api.github.com/users/erinleigh90/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/erinleigh90/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/erinleigh90/subscriptions",
+        "organizations_url": "https://api.github.com/users/erinleigh90/orgs",
+        "repos_url": "https://api.github.com/users/erinleigh90/repos",
+        "events_url": "https://api.github.com/users/erinleigh90/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/erinleigh90/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 26
+      },
+      {
         "login": "kneekey23",
         "id": 8533749,
         "node_id": "MDQ6VXNlcjg1MzM3NDk=",
@@ -19970,27 +19991,6 @@
         "repos_url": "https://api.github.com/users/tylerjroach/repos",
         "events_url": "https://api.github.com/users/tylerjroach/events{/privacy}",
         "received_events_url": "https://api.github.com/users/tylerjroach/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 25
-      },
-      {
-        "login": "erinleigh90",
-        "id": 106691284,
-        "node_id": "U_kgDOBlv61A",
-        "avatar_url": "https://avatars.githubusercontent.com/u/106691284?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/erinleigh90",
-        "html_url": "https://github.com/erinleigh90",
-        "followers_url": "https://api.github.com/users/erinleigh90/followers",
-        "following_url": "https://api.github.com/users/erinleigh90/following{/other_user}",
-        "gists_url": "https://api.github.com/users/erinleigh90/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/erinleigh90/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/erinleigh90/subscriptions",
-        "organizations_url": "https://api.github.com/users/erinleigh90/orgs",
-        "repos_url": "https://api.github.com/users/erinleigh90/repos",
-        "events_url": "https://api.github.com/users/erinleigh90/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/erinleigh90/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 25
@@ -25612,7 +25612,7 @@
         "received_events_url": "https://api.github.com/users/atierian/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 92
+        "contributions": 95
       },
       {
         "login": "wooj2",
@@ -25762,27 +25762,6 @@
         "contributions": 30
       },
       {
-        "login": "iartemiev",
-        "id": 29709626,
-        "node_id": "MDQ6VXNlcjI5NzA5NjI2",
-        "avatar_url": "https://avatars.githubusercontent.com/u/29709626?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/iartemiev",
-        "html_url": "https://github.com/iartemiev",
-        "followers_url": "https://api.github.com/users/iartemiev/followers",
-        "following_url": "https://api.github.com/users/iartemiev/following{/other_user}",
-        "gists_url": "https://api.github.com/users/iartemiev/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/iartemiev/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/iartemiev/subscriptions",
-        "organizations_url": "https://api.github.com/users/iartemiev/orgs",
-        "repos_url": "https://api.github.com/users/iartemiev/repos",
-        "events_url": "https://api.github.com/users/iartemiev/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/iartemiev/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 20
-      },
-      {
         "login": "5d",
         "id": 459711,
         "node_id": "MDQ6VXNlcjQ1OTcxMQ==",
@@ -25799,6 +25778,27 @@
         "repos_url": "https://api.github.com/users/5d/repos",
         "events_url": "https://api.github.com/users/5d/events{/privacy}",
         "received_events_url": "https://api.github.com/users/5d/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 21
+      },
+      {
+        "login": "iartemiev",
+        "id": 29709626,
+        "node_id": "MDQ6VXNlcjI5NzA5NjI2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29709626?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/iartemiev",
+        "html_url": "https://github.com/iartemiev",
+        "followers_url": "https://api.github.com/users/iartemiev/followers",
+        "following_url": "https://api.github.com/users/iartemiev/following{/other_user}",
+        "gists_url": "https://api.github.com/users/iartemiev/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/iartemiev/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/iartemiev/subscriptions",
+        "organizations_url": "https://api.github.com/users/iartemiev/orgs",
+        "repos_url": "https://api.github.com/users/iartemiev/repos",
+        "events_url": "https://api.github.com/users/iartemiev/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/iartemiev/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 20
@@ -31603,7 +31603,7 @@
         "received_events_url": "https://api.github.com/users/phani-srikar/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 379
+        "contributions": 380
       },
       {
         "login": "AaronZyLee",
@@ -31729,7 +31729,7 @@
         "received_events_url": "https://api.github.com/users/amplify-data-ci/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 30
+        "contributions": 31
       },
       {
         "login": "marcvberg",
@@ -33847,7 +33847,7 @@
         "received_events_url": "https://api.github.com/users/esauerbo/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 28
+        "contributions": 29
       },
       {
         "login": "sreeramsama",
@@ -37744,7 +37744,7 @@
         "received_events_url": "https://api.github.com/users/phani-srikar/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 295
+        "contributions": 296
       },
       {
         "login": "edwardfoyle",
@@ -38206,7 +38206,7 @@
         "received_events_url": "https://api.github.com/users/palpatim/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 56
+        "contributions": 57
       },
       {
         "login": "mlabieniec",
@@ -43618,7 +43618,7 @@
         "received_events_url": "https://api.github.com/users/edwardfoyle/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 183
+        "contributions": 184
       },
       {
         "login": "sobolk",
@@ -43639,7 +43639,7 @@
         "received_events_url": "https://api.github.com/users/sobolk/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 77
+        "contributions": 78
       },
       {
         "login": "sdstolworthy",
