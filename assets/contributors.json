@@ -5044,7 +5044,7 @@
         "received_events_url": "https://api.github.com/users/Samaritan1011001/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 52
+        "contributions": 53
       },
       {
         "login": "erinleigh90",
@@ -13036,7 +13036,7 @@
         "received_events_url": "https://api.github.com/users/awsluja/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 72
+        "contributions": 75
       },
       {
         "login": "evcodes",
@@ -14299,6 +14299,27 @@
         "contributions": 4
       },
       {
+        "login": "palpatim",
+        "id": 227982,
+        "node_id": "MDQ6VXNlcjIyNzk4Mg==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/227982?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/palpatim",
+        "html_url": "https://github.com/palpatim",
+        "followers_url": "https://api.github.com/users/palpatim/followers",
+        "following_url": "https://api.github.com/users/palpatim/following{/other_user}",
+        "gists_url": "https://api.github.com/users/palpatim/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/palpatim/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/palpatim/subscriptions",
+        "organizations_url": "https://api.github.com/users/palpatim/orgs",
+        "repos_url": "https://api.github.com/users/palpatim/repos",
+        "events_url": "https://api.github.com/users/palpatim/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/palpatim/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 4
+      },
+      {
         "login": "kevcam4891",
         "id": 4650870,
         "node_id": "MDQ6VXNlcjQ2NTA4NzA=",
@@ -14588,27 +14609,6 @@
         "repos_url": "https://api.github.com/users/SebasRod23/repos",
         "events_url": "https://api.github.com/users/SebasRod23/events{/privacy}",
         "received_events_url": "https://api.github.com/users/SebasRod23/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 3
-      },
-      {
-        "login": "palpatim",
-        "id": 227982,
-        "node_id": "MDQ6VXNlcjIyNzk4Mg==",
-        "avatar_url": "https://avatars.githubusercontent.com/u/227982?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/palpatim",
-        "html_url": "https://github.com/palpatim",
-        "followers_url": "https://api.github.com/users/palpatim/followers",
-        "following_url": "https://api.github.com/users/palpatim/following{/other_user}",
-        "gists_url": "https://api.github.com/users/palpatim/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/palpatim/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/palpatim/subscriptions",
-        "organizations_url": "https://api.github.com/users/palpatim/orgs",
-        "repos_url": "https://api.github.com/users/palpatim/repos",
-        "events_url": "https://api.github.com/users/palpatim/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/palpatim/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 3
@@ -18988,27 +18988,6 @@
         "contributions": 59
       },
       {
-        "login": "jamesonwilliams",
-        "id": 899569,
-        "node_id": "MDQ6VXNlcjg5OTU2OQ==",
-        "avatar_url": "https://avatars.githubusercontent.com/u/899569?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/jamesonwilliams",
-        "html_url": "https://github.com/jamesonwilliams",
-        "followers_url": "https://api.github.com/users/jamesonwilliams/followers",
-        "following_url": "https://api.github.com/users/jamesonwilliams/following{/other_user}",
-        "gists_url": "https://api.github.com/users/jamesonwilliams/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/jamesonwilliams/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/jamesonwilliams/subscriptions",
-        "organizations_url": "https://api.github.com/users/jamesonwilliams/orgs",
-        "repos_url": "https://api.github.com/users/jamesonwilliams/repos",
-        "events_url": "https://api.github.com/users/jamesonwilliams/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/jamesonwilliams/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 57
-      },
-      {
         "login": "hibler13",
         "id": 84857865,
         "node_id": "MDQ6VXNlcjg0ODU3ODY1",
@@ -19025,6 +19004,27 @@
         "repos_url": "https://api.github.com/users/hibler13/repos",
         "events_url": "https://api.github.com/users/hibler13/events{/privacy}",
         "received_events_url": "https://api.github.com/users/hibler13/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 58
+      },
+      {
+        "login": "jamesonwilliams",
+        "id": 899569,
+        "node_id": "MDQ6VXNlcjg5OTU2OQ==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/899569?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/jamesonwilliams",
+        "html_url": "https://github.com/jamesonwilliams",
+        "followers_url": "https://api.github.com/users/jamesonwilliams/followers",
+        "following_url": "https://api.github.com/users/jamesonwilliams/following{/other_user}",
+        "gists_url": "https://api.github.com/users/jamesonwilliams/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/jamesonwilliams/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/jamesonwilliams/subscriptions",
+        "organizations_url": "https://api.github.com/users/jamesonwilliams/orgs",
+        "repos_url": "https://api.github.com/users/jamesonwilliams/repos",
+        "events_url": "https://api.github.com/users/jamesonwilliams/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/jamesonwilliams/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 57
@@ -19132,7 +19132,7 @@
         "received_events_url": "https://api.github.com/users/lawmicha/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 51
+        "contributions": 52
       },
       {
         "login": "offlineprogrammer",
@@ -31708,7 +31708,7 @@
         "received_events_url": "https://api.github.com/users/dpilch/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 49
+        "contributions": 50
       },
       {
         "login": "amplify-data-ci",
@@ -33490,7 +33490,7 @@
         "received_events_url": "https://api.github.com/users/calebpollman/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 321
+        "contributions": 323
       },
       {
         "login": "reesscot",
@@ -33847,7 +33847,7 @@
         "received_events_url": "https://api.github.com/users/esauerbo/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 30
+        "contributions": 31
       },
       {
         "login": "sreeramsama",
@@ -37954,7 +37954,7 @@
         "received_events_url": "https://api.github.com/users/amplify-data-ci/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 104
+        "contributions": 107
       },
       {
         "login": "lazpavel",
@@ -38101,7 +38101,7 @@
         "received_events_url": "https://api.github.com/users/palpatim/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 64
+        "contributions": 65
       },
       {
         "login": "attilah",
