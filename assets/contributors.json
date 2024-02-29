@@ -4687,7 +4687,7 @@
         "received_events_url": "https://api.github.com/users/HuiSF/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 196
+        "contributions": 198
       },
       {
         "login": "david-mcafee",
@@ -19342,7 +19342,7 @@
         "received_events_url": "https://api.github.com/users/jimblanc/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 43
+        "contributions": 44
       },
       {
         "login": "jakeburden",
@@ -30520,7 +30520,7 @@
         "received_events_url": "https://api.github.com/users/Equartey/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 61
+        "contributions": 63
       },
       {
         "login": "Amplifiyer",
@@ -33910,7 +33910,7 @@
         "received_events_url": "https://api.github.com/users/hbuchel/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 101
+        "contributions": 102
       },
       {
         "login": "joebuono",
@@ -34480,6 +34480,27 @@
         "contributions": 1
       },
       {
+        "login": "dhandsar-aws",
+        "id": 78109667,
+        "node_id": "MDQ6VXNlcjc4MTA5NjY3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78109667?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/dhandsar-aws",
+        "html_url": "https://github.com/dhandsar-aws",
+        "followers_url": "https://api.github.com/users/dhandsar-aws/followers",
+        "following_url": "https://api.github.com/users/dhandsar-aws/following{/other_user}",
+        "gists_url": "https://api.github.com/users/dhandsar-aws/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/dhandsar-aws/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/dhandsar-aws/subscriptions",
+        "organizations_url": "https://api.github.com/users/dhandsar-aws/orgs",
+        "repos_url": "https://api.github.com/users/dhandsar-aws/repos",
+        "events_url": "https://api.github.com/users/dhandsar-aws/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/dhandsar-aws/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 1
+      },
+      {
         "login": "SantoshLatpate",
         "id": 30000896,
         "node_id": "MDQ6VXNlcjMwMDAwODk2",
@@ -34795,27 +34816,6 @@
         "contributions": 1
       },
       {
-        "login": "lacion",
-        "id": 659776,
-        "node_id": "MDQ6VXNlcjY1OTc3Ng==",
-        "avatar_url": "https://avatars.githubusercontent.com/u/659776?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/lacion",
-        "html_url": "https://github.com/lacion",
-        "followers_url": "https://api.github.com/users/lacion/followers",
-        "following_url": "https://api.github.com/users/lacion/following{/other_user}",
-        "gists_url": "https://api.github.com/users/lacion/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/lacion/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/lacion/subscriptions",
-        "organizations_url": "https://api.github.com/users/lacion/orgs",
-        "repos_url": "https://api.github.com/users/lacion/repos",
-        "events_url": "https://api.github.com/users/lacion/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/lacion/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 1
-      },
-      {
         "login": "robPTY",
         "id": 108301046,
         "node_id": "U_kgDOBnSK9g",
@@ -35047,6 +35047,27 @@
         "contributions": 1
       },
       {
+        "login": "talik077",
+        "id": 17844958,
+        "node_id": "MDQ6VXNlcjE3ODQ0OTU4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17844958?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/talik077",
+        "html_url": "https://github.com/talik077",
+        "followers_url": "https://api.github.com/users/talik077/followers",
+        "following_url": "https://api.github.com/users/talik077/following{/other_user}",
+        "gists_url": "https://api.github.com/users/talik077/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/talik077/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/talik077/subscriptions",
+        "organizations_url": "https://api.github.com/users/talik077/orgs",
+        "repos_url": "https://api.github.com/users/talik077/repos",
+        "events_url": "https://api.github.com/users/talik077/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/talik077/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 1
+      },
+      {
         "login": "sgpopov",
         "id": 1070710,
         "node_id": "MDQ6VXNlcjEwNzA3MTA=",
@@ -35131,22 +35152,22 @@
         "contributions": 1
       },
       {
-        "login": "dhandsar-aws",
-        "id": 78109667,
-        "node_id": "MDQ6VXNlcjc4MTA5NjY3",
-        "avatar_url": "https://avatars.githubusercontent.com/u/78109667?v=4",
+        "login": "lacion",
+        "id": 659776,
+        "node_id": "MDQ6VXNlcjY1OTc3Ng==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/659776?v=4",
         "gravatar_id": "",
-        "url": "https://api.github.com/users/dhandsar-aws",
-        "html_url": "https://github.com/dhandsar-aws",
-        "followers_url": "https://api.github.com/users/dhandsar-aws/followers",
-        "following_url": "https://api.github.com/users/dhandsar-aws/following{/other_user}",
-        "gists_url": "https://api.github.com/users/dhandsar-aws/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/dhandsar-aws/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/dhandsar-aws/subscriptions",
-        "organizations_url": "https://api.github.com/users/dhandsar-aws/orgs",
-        "repos_url": "https://api.github.com/users/dhandsar-aws/repos",
-        "events_url": "https://api.github.com/users/dhandsar-aws/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/dhandsar-aws/received_events",
+        "url": "https://api.github.com/users/lacion",
+        "html_url": "https://github.com/lacion",
+        "followers_url": "https://api.github.com/users/lacion/followers",
+        "following_url": "https://api.github.com/users/lacion/following{/other_user}",
+        "gists_url": "https://api.github.com/users/lacion/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/lacion/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/lacion/subscriptions",
+        "organizations_url": "https://api.github.com/users/lacion/orgs",
+        "repos_url": "https://api.github.com/users/lacion/repos",
+        "events_url": "https://api.github.com/users/lacion/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/lacion/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 1
@@ -38248,7 +38269,7 @@
         "received_events_url": "https://api.github.com/users/amplify-data-ci/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 119
+        "contributions": 122
       },
       {
         "login": "lazpavel",
@@ -38416,7 +38437,7 @@
         "received_events_url": "https://api.github.com/users/dpilch/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 63
+        "contributions": 65
       },
       {
         "login": "attilah",
@@ -43933,7 +43954,7 @@
         "received_events_url": "https://api.github.com/users/edwardfoyle/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 211
+        "contributions": 212
       },
       {
         "login": "sobolk",
@@ -44017,7 +44038,7 @@
         "received_events_url": "https://api.github.com/users/Amplifiyer/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 46
+        "contributions": 47
       },
       {
         "login": "awsluja",
@@ -44101,7 +44122,7 @@
         "received_events_url": "https://api.github.com/users/rtpascual/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 22
+        "contributions": 23
       },
       {
         "login": "hoangnbn",
