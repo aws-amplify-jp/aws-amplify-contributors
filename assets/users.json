@@ -5254,5 +5254,17 @@
   "the1adi": {
     "login": "the1adi",
     "location": null
+  },
+  "sjdeak": {
+    "login": "sjdeak",
+    "location": "Beijing"
+  },
+  "gentamura": {
+    "login": "gentamura",
+    "location": "Tokyo, Japan"
+  },
+  "kuhe": {
+    "login": "kuhe",
+    "location": "New York"
   }
 }
