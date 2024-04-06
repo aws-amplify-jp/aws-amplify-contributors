@@ -20119,7 +20119,7 @@
         "received_events_url": "https://api.github.com/users/chrisbonifacio/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 23
+        "contributions": 24
       },
       {
         "login": "evcodes",
@@ -33826,7 +33826,7 @@
         "received_events_url": "https://api.github.com/users/reesscot/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 290
+        "contributions": 291
       },
       {
         "login": "dbanksdesign",
@@ -44290,7 +44290,7 @@
         "received_events_url": "https://api.github.com/users/Amplifiyer/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 56
+        "contributions": 58
       },
       {
         "login": "awsluja",
@@ -44353,7 +44353,7 @@
         "received_events_url": "https://api.github.com/users/0618/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 30
+        "contributions": 31
       },
       {
         "login": "johnpc",
@@ -44650,6 +44650,27 @@
         "contributions": 2
       },
       {
+        "login": "srquinn21",
+        "id": 1221157,
+        "node_id": "MDQ6VXNlcjEyMjExNTc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1221157?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/srquinn21",
+        "html_url": "https://github.com/srquinn21",
+        "followers_url": "https://api.github.com/users/srquinn21/followers",
+        "following_url": "https://api.github.com/users/srquinn21/following{/other_user}",
+        "gists_url": "https://api.github.com/users/srquinn21/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/srquinn21/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/srquinn21/subscriptions",
+        "organizations_url": "https://api.github.com/users/srquinn21/orgs",
+        "repos_url": "https://api.github.com/users/srquinn21/repos",
+        "events_url": "https://api.github.com/users/srquinn21/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/srquinn21/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 2
+      },
+      {
         "login": "AaronZyLee",
         "id": 20614187,
         "node_id": "MDQ6VXNlcjIwNjE0MTg3",
@@ -44687,27 +44708,6 @@
         "repos_url": "https://api.github.com/users/magisystem0408/repos",
         "events_url": "https://api.github.com/users/magisystem0408/events{/privacy}",
         "received_events_url": "https://api.github.com/users/magisystem0408/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 1
-      },
-      {
-        "login": "srquinn21",
-        "id": 1221157,
-        "node_id": "MDQ6VXNlcjEyMjExNTc=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1221157?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/srquinn21",
-        "html_url": "https://github.com/srquinn21",
-        "followers_url": "https://api.github.com/users/srquinn21/followers",
-        "following_url": "https://api.github.com/users/srquinn21/following{/other_user}",
-        "gists_url": "https://api.github.com/users/srquinn21/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/srquinn21/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/srquinn21/subscriptions",
-        "organizations_url": "https://api.github.com/users/srquinn21/orgs",
-        "repos_url": "https://api.github.com/users/srquinn21/repos",
-        "events_url": "https://api.github.com/users/srquinn21/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/srquinn21/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 1
