@@ -5310,5 +5310,9 @@
   "Chillthrower": {
     "login": "Chillthrower",
     "location": null
+  },
+  "afnx": {
+    "login": "afnx",
+    "location": "San Francisco, CA"
   }
 }
