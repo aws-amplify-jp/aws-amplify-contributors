@@ -5322,5 +5322,25 @@
   "jcortezevi": {
     "login": "jcortezevi",
     "location": null
+  },
+  "yannickberk": {
+    "login": "yannickberk",
+    "location": null
+  },
+  "onuraycicek": {
+    "login": "onuraycicek",
+    "location": null
+  },
+  "jbreuil": {
+    "login": "jbreuil",
+    "location": "Clermont-Ferrand"
+  },
+  "sj-h4": {
+    "login": "sj-h4",
+    "location": null
+  },
+  "gfpacheco": {
+    "login": "gfpacheco",
+    "location": "Remote"
   }
 }
