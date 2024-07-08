@@ -2728,7 +2728,7 @@
         "received_events_url": "https://api.github.com/users/awsmobilesdk/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 402
+        "contributions": 403
       },
       {
         "login": "minbi",
@@ -4876,7 +4876,7 @@
         "received_events_url": "https://api.github.com/users/israx/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 136
+        "contributions": 137
       },
       {
         "login": "manueliglesias",
