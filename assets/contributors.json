@@ -2263,22 +2263,22 @@
         "contributions": 1
       },
       {
-        "login": "vimwitch",
+        "login": "chancehudson",
         "id": 631020,
         "node_id": "MDQ6VXNlcjYzMTAyMA==",
         "avatar_url": "https://avatars.githubusercontent.com/u/631020?v=4",
         "gravatar_id": "",
-        "url": "https://api.github.com/users/vimwitch",
-        "html_url": "https://github.com/vimwitch",
-        "followers_url": "https://api.github.com/users/vimwitch/followers",
-        "following_url": "https://api.github.com/users/vimwitch/following{/other_user}",
-        "gists_url": "https://api.github.com/users/vimwitch/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/vimwitch/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/vimwitch/subscriptions",
-        "organizations_url": "https://api.github.com/users/vimwitch/orgs",
-        "repos_url": "https://api.github.com/users/vimwitch/repos",
-        "events_url": "https://api.github.com/users/vimwitch/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/vimwitch/received_events",
+        "url": "https://api.github.com/users/chancehudson",
+        "html_url": "https://github.com/chancehudson",
+        "followers_url": "https://api.github.com/users/chancehudson/followers",
+        "following_url": "https://api.github.com/users/chancehudson/following{/other_user}",
+        "gists_url": "https://api.github.com/users/chancehudson/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/chancehudson/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/chancehudson/subscriptions",
+        "organizations_url": "https://api.github.com/users/chancehudson/orgs",
+        "repos_url": "https://api.github.com/users/chancehudson/repos",
+        "events_url": "https://api.github.com/users/chancehudson/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/chancehudson/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 1
@@ -4729,7 +4729,7 @@
         "received_events_url": "https://api.github.com/users/AllanZhengYP/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 234
+        "contributions": 236
       },
       {
         "login": "HuiSF",
@@ -4750,7 +4750,7 @@
         "received_events_url": "https://api.github.com/users/HuiSF/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 228
+        "contributions": 229
       },
       {
         "login": "Amplifiyer",
@@ -44143,6 +44143,27 @@
         "contributions": 7
       },
       {
+        "login": "lawmicha",
+        "id": 1365977,
+        "node_id": "MDQ6VXNlcjEzNjU5Nzc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1365977?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/lawmicha",
+        "html_url": "https://github.com/lawmicha",
+        "followers_url": "https://api.github.com/users/lawmicha/followers",
+        "following_url": "https://api.github.com/users/lawmicha/following{/other_user}",
+        "gists_url": "https://api.github.com/users/lawmicha/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/lawmicha/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/lawmicha/subscriptions",
+        "organizations_url": "https://api.github.com/users/lawmicha/orgs",
+        "repos_url": "https://api.github.com/users/lawmicha/repos",
+        "events_url": "https://api.github.com/users/lawmicha/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/lawmicha/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 2
+      },
+      {
         "login": "phantumcode",
         "id": 103537251,
         "node_id": "U_kgDOBivaYw",
@@ -44222,27 +44243,6 @@
         "repos_url": "https://api.github.com/users/joon-won/repos",
         "events_url": "https://api.github.com/users/joon-won/events{/privacy}",
         "received_events_url": "https://api.github.com/users/joon-won/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 1
-      },
-      {
-        "login": "lawmicha",
-        "id": 1365977,
-        "node_id": "MDQ6VXNlcjEzNjU5Nzc=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1365977?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/lawmicha",
-        "html_url": "https://github.com/lawmicha",
-        "followers_url": "https://api.github.com/users/lawmicha/followers",
-        "following_url": "https://api.github.com/users/lawmicha/following{/other_user}",
-        "gists_url": "https://api.github.com/users/lawmicha/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/lawmicha/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/lawmicha/subscriptions",
-        "organizations_url": "https://api.github.com/users/lawmicha/orgs",
-        "repos_url": "https://api.github.com/users/lawmicha/repos",
-        "events_url": "https://api.github.com/users/lawmicha/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/lawmicha/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 1
@@ -45214,7 +45214,7 @@
         "received_events_url": "https://api.github.com/users/rtpascual/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 42
+        "contributions": 43
       },
       {
         "login": "0618",
