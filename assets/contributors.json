@@ -538,7 +538,7 @@
         "received_events_url": "https://api.github.com/users/ruisebas/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 49
+        "contributions": 50
       },
       {
         "login": "brennanMKE",
@@ -5065,7 +5065,7 @@
         "received_events_url": "https://api.github.com/users/ashika112/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 79
+        "contributions": 81
       },
       {
         "login": "amhinson",
@@ -31339,7 +31339,7 @@
         "received_events_url": "https://api.github.com/users/tyllark/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 5
+        "contributions": 6
       },
       {
         "login": "cshfang",
@@ -38971,7 +38971,7 @@
         "received_events_url": "https://api.github.com/users/ruisebas/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 2
+        "contributions": 3
       },
       {
         "login": "amazon-auto",
@@ -44239,7 +44239,7 @@
         "received_events_url": "https://api.github.com/users/ruisebas/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 9
+        "contributions": 10
       },
       {
         "login": "thisisabhash",
@@ -44518,7 +44518,7 @@
         "received_events_url": "https://api.github.com/users/phantumcode/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 4
+        "contributions": 5
       },
       {
         "login": "lawmicha",
@@ -44695,6 +44695,27 @@
     "repo": "amplify-swift-utils-notifications",
     "contributors": [
       {
+        "login": "ruisebas",
+        "id": 97059974,
+        "node_id": "U_kgDOBckEhg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/97059974?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/ruisebas",
+        "html_url": "https://github.com/ruisebas",
+        "followers_url": "https://api.github.com/users/ruisebas/followers",
+        "following_url": "https://api.github.com/users/ruisebas/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ruisebas/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/ruisebas/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ruisebas/subscriptions",
+        "organizations_url": "https://api.github.com/users/ruisebas/orgs",
+        "repos_url": "https://api.github.com/users/ruisebas/repos",
+        "events_url": "https://api.github.com/users/ruisebas/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/ruisebas/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 9
+      },
+      {
         "login": "5d",
         "id": 459711,
         "node_id": "MDQ6VXNlcjQ1OTcxMQ==",
@@ -44714,27 +44735,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 9
-      },
-      {
-        "login": "ruisebas",
-        "id": 97059974,
-        "node_id": "U_kgDOBckEhg",
-        "avatar_url": "https://avatars.githubusercontent.com/u/97059974?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/ruisebas",
-        "html_url": "https://github.com/ruisebas",
-        "followers_url": "https://api.github.com/users/ruisebas/followers",
-        "following_url": "https://api.github.com/users/ruisebas/following{/other_user}",
-        "gists_url": "https://api.github.com/users/ruisebas/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/ruisebas/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/ruisebas/subscriptions",
-        "organizations_url": "https://api.github.com/users/ruisebas/orgs",
-        "repos_url": "https://api.github.com/users/ruisebas/repos",
-        "events_url": "https://api.github.com/users/ruisebas/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/ruisebas/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 8
       },
       {
         "login": "ameter",
@@ -45397,7 +45397,7 @@
         "received_events_url": "https://api.github.com/users/ruisebas/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 51
+        "contributions": 52
       },
       {
         "login": "harsh62",
@@ -45508,7 +45508,7 @@
         "received_events_url": "https://api.github.com/users/sobolk/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 142
+        "contributions": 143
       },
       {
         "login": "github-actions[bot]",
