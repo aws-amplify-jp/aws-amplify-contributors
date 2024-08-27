@@ -877,6 +877,27 @@
         "contributions": 8
       },
       {
+        "login": "dependabot[bot]",
+        "id": 49699333,
+        "node_id": "MDM6Qm90NDk2OTkzMzM=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/dependabot%5Bbot%5D",
+        "html_url": "https://github.com/apps/dependabot",
+        "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
+        "type": "Bot",
+        "site_admin": false,
+        "contributions": 6
+      },
+      {
         "login": "diegocstn",
         "id": 748632,
         "node_id": "MDQ6VXNlcjc0ODYzMg==",
@@ -936,27 +957,6 @@
         "events_url": "https://api.github.com/users/phantumcode/events{/privacy}",
         "received_events_url": "https://api.github.com/users/phantumcode/received_events",
         "type": "User",
-        "site_admin": false,
-        "contributions": 5
-      },
-      {
-        "login": "dependabot[bot]",
-        "id": 49699333,
-        "node_id": "MDM6Qm90NDk2OTkzMzM=",
-        "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/dependabot%5Bbot%5D",
-        "html_url": "https://github.com/apps/dependabot",
-        "followers_url": "https://api.github.com/users/dependabot%5Bbot%5D/followers",
-        "following_url": "https://api.github.com/users/dependabot%5Bbot%5D/following{/other_user}",
-        "gists_url": "https://api.github.com/users/dependabot%5Bbot%5D/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/dependabot%5Bbot%5D/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/dependabot%5Bbot%5D/subscriptions",
-        "organizations_url": "https://api.github.com/users/dependabot%5Bbot%5D/orgs",
-        "repos_url": "https://api.github.com/users/dependabot%5Bbot%5D/repos",
-        "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
-        "type": "Bot",
         "site_admin": false,
         "contributions": 5
       },
@@ -5152,6 +5152,27 @@
         "contributions": 69
       },
       {
+        "login": "erinleigh90",
+        "id": 106691284,
+        "node_id": "U_kgDOBlv61A",
+        "avatar_url": "https://avatars.githubusercontent.com/u/106691284?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/erinleigh90",
+        "html_url": "https://github.com/erinleigh90",
+        "followers_url": "https://api.github.com/users/erinleigh90/followers",
+        "following_url": "https://api.github.com/users/erinleigh90/following{/other_user}",
+        "gists_url": "https://api.github.com/users/erinleigh90/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/erinleigh90/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/erinleigh90/subscriptions",
+        "organizations_url": "https://api.github.com/users/erinleigh90/orgs",
+        "repos_url": "https://api.github.com/users/erinleigh90/repos",
+        "events_url": "https://api.github.com/users/erinleigh90/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/erinleigh90/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 60
+      },
+      {
         "login": "wlee221",
         "id": 43682783,
         "node_id": "MDQ6VXNlcjQzNjgyNzgz",
@@ -5171,27 +5192,6 @@
         "type": "User",
         "site_admin": false,
         "contributions": 59
-      },
-      {
-        "login": "erinleigh90",
-        "id": 106691284,
-        "node_id": "U_kgDOBlv61A",
-        "avatar_url": "https://avatars.githubusercontent.com/u/106691284?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/erinleigh90",
-        "html_url": "https://github.com/erinleigh90",
-        "followers_url": "https://api.github.com/users/erinleigh90/followers",
-        "following_url": "https://api.github.com/users/erinleigh90/following{/other_user}",
-        "gists_url": "https://api.github.com/users/erinleigh90/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/erinleigh90/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/erinleigh90/subscriptions",
-        "organizations_url": "https://api.github.com/users/erinleigh90/orgs",
-        "repos_url": "https://api.github.com/users/erinleigh90/repos",
-        "events_url": "https://api.github.com/users/erinleigh90/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/erinleigh90/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 57
       },
       {
         "login": "ashika01",
@@ -5254,7 +5254,7 @@
         "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
         "type": "Bot",
         "site_admin": false,
-        "contributions": 34
+        "contributions": 35
       },
       {
         "login": "chintannp",
@@ -25885,7 +25885,7 @@
         "received_events_url": "https://api.github.com/users/harsh62/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 155
+        "contributions": 156
       },
       {
         "login": "ruisebas",
@@ -26221,7 +26221,7 @@
         "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
         "type": "Bot",
         "site_admin": false,
-        "contributions": 8
+        "contributions": 9
       },
       {
         "login": "jpeddicord",
@@ -31087,7 +31087,7 @@
         "received_events_url": "https://api.github.com/users/Jordan-Nelson/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 229
+        "contributions": 231
       },
       {
         "login": "haverchuck",
@@ -31150,7 +31150,7 @@
         "received_events_url": "https://api.github.com/users/Equartey/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 96
+        "contributions": 97
       },
       {
         "login": "dependabot[bot]",
@@ -31996,7 +31996,7 @@
         "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
         "type": "Bot",
         "site_admin": false,
-        "contributions": 34
+        "contributions": 36
       },
       {
         "login": "palpatim",
@@ -45613,7 +45613,7 @@
         "received_events_url": "https://api.github.com/users/Amplifiyer/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 103
+        "contributions": 104
       },
       {
         "login": "sdstolworthy",
