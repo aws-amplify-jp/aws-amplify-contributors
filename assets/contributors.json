@@ -4708,7 +4708,7 @@
         "received_events_url": "https://api.github.com/users/jimblanc/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 314
+        "contributions": 315
       },
       {
         "login": "iartemiev",
@@ -13204,7 +13204,7 @@
         "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
         "type": "Bot",
         "site_admin": false,
-        "contributions": 72
+        "contributions": 73
       },
       {
         "login": "evcodes",
@@ -13438,6 +13438,27 @@
         "contributions": 46
       },
       {
+        "login": "Amplifiyer",
+        "id": 51211245,
+        "node_id": "MDQ6VXNlcjUxMjExMjQ1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/51211245?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Amplifiyer",
+        "html_url": "https://github.com/Amplifiyer",
+        "followers_url": "https://api.github.com/users/Amplifiyer/followers",
+        "following_url": "https://api.github.com/users/Amplifiyer/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Amplifiyer/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Amplifiyer/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Amplifiyer/subscriptions",
+        "organizations_url": "https://api.github.com/users/Amplifiyer/orgs",
+        "repos_url": "https://api.github.com/users/Amplifiyer/repos",
+        "events_url": "https://api.github.com/users/Amplifiyer/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Amplifiyer/received_events",
+        "type": "User",
+        "site_admin": false,
+        "contributions": 43
+      },
+      {
         "login": "jordanranz",
         "id": 3868826,
         "node_id": "MDQ6VXNlcjM4Njg4MjY=",
@@ -13475,27 +13496,6 @@
         "repos_url": "https://api.github.com/users/marcvberg/repos",
         "events_url": "https://api.github.com/users/marcvberg/events{/privacy}",
         "received_events_url": "https://api.github.com/users/marcvberg/received_events",
-        "type": "User",
-        "site_admin": false,
-        "contributions": 41
-      },
-      {
-        "login": "Amplifiyer",
-        "id": 51211245,
-        "node_id": "MDQ6VXNlcjUxMjExMjQ1",
-        "avatar_url": "https://avatars.githubusercontent.com/u/51211245?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Amplifiyer",
-        "html_url": "https://github.com/Amplifiyer",
-        "followers_url": "https://api.github.com/users/Amplifiyer/followers",
-        "following_url": "https://api.github.com/users/Amplifiyer/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Amplifiyer/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Amplifiyer/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Amplifiyer/subscriptions",
-        "organizations_url": "https://api.github.com/users/Amplifiyer/orgs",
-        "repos_url": "https://api.github.com/users/Amplifiyer/repos",
-        "events_url": "https://api.github.com/users/Amplifiyer/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Amplifiyer/received_events",
         "type": "User",
         "site_admin": false,
         "contributions": 41
@@ -18817,7 +18817,7 @@
         "received_events_url": "https://api.github.com/users/jacoblogan/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 168
+        "contributions": 169
       },
       {
         "login": "swaminator",
@@ -18859,7 +18859,7 @@
         "received_events_url": "https://api.github.com/users/palpatim/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 143
+        "contributions": 144
       },
       {
         "login": "powerful23",
@@ -31171,7 +31171,7 @@
         "received_events_url": "https://api.github.com/users/NikaHsn/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 49
+        "contributions": 50
       },
       {
         "login": "Amplifiyer",
@@ -34519,7 +34519,7 @@
         "received_events_url": "https://api.github.com/users/dbanksdesign/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 201
+        "contributions": 202
       },
       {
         "login": "ErikCH",
@@ -39613,7 +39613,7 @@
         "received_events_url": "https://api.github.com/users/palpatim/received_events",
         "type": "User",
         "site_admin": false,
-        "contributions": 127
+        "contributions": 128
       },
       {
         "login": "dpilch",
