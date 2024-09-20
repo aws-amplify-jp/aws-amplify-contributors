@@ -5498,5 +5498,9 @@
   "zerbusdetroy": {
     "login": "zerbusdetroy",
     "location": null
+  },
+  "edisooon": {
+    "login": "edisooon",
+    "location": "Seattle, WA"
   }
 }
