@@ -5510,5 +5510,17 @@
   "Siqi-Shan": {
     "login": "Siqi-Shan",
     "location": "Seattle, WA"
+  },
+  "aws-eddy": {
+    "login": "aws-eddy",
+    "location": "Seattle, WA"
+  },
+  "AnantTiwari001": {
+    "login": "AnantTiwari001",
+    "location": null
+  },
+  "bodadev": {
+    "login": "bodadev",
+    "location": "United Kingdom"
   }
 }
