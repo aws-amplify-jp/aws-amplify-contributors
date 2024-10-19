@@ -89,7 +89,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 3
+        "contributions": 4
       },
       {
         "login": "geckotang",
@@ -19579,7 +19579,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 180
+        "contributions": 182
       },
       {
         "login": "jacoblogan",
@@ -26961,7 +26961,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 158
+        "contributions": 159
       },
       {
         "login": "palpatim",
@@ -32673,7 +32673,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 53
+        "contributions": 54
       },
       {
         "login": "Amplifiyer",
@@ -32764,6 +32764,28 @@
         "contributions": 14
       },
       {
+        "login": "tyllark",
+        "id": 169833923,
+        "node_id": "U_kgDOCh91ww",
+        "avatar_url": "https://avatars.githubusercontent.com/u/169833923?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tyllark",
+        "html_url": "https://github.com/tyllark",
+        "followers_url": "https://api.github.com/users/tyllark/followers",
+        "following_url": "https://api.github.com/users/tyllark/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tyllark/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tyllark/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tyllark/subscriptions",
+        "organizations_url": "https://api.github.com/users/tyllark/orgs",
+        "repos_url": "https://api.github.com/users/tyllark/repos",
+        "events_url": "https://api.github.com/users/tyllark/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tyllark/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 11
+      },
+      {
         "login": "Samaritan1011001",
         "id": 10944487,
         "node_id": "MDQ6VXNlcjEwOTQ0NDg3",
@@ -32784,28 +32806,6 @@
         "user_view_type": "public",
         "site_admin": false,
         "contributions": 11
-      },
-      {
-        "login": "tyllark",
-        "id": 169833923,
-        "node_id": "U_kgDOCh91ww",
-        "avatar_url": "https://avatars.githubusercontent.com/u/169833923?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/tyllark",
-        "html_url": "https://github.com/tyllark",
-        "followers_url": "https://api.github.com/users/tyllark/followers",
-        "following_url": "https://api.github.com/users/tyllark/following{/other_user}",
-        "gists_url": "https://api.github.com/users/tyllark/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/tyllark/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/tyllark/subscriptions",
-        "organizations_url": "https://api.github.com/users/tyllark/orgs",
-        "repos_url": "https://api.github.com/users/tyllark/repos",
-        "events_url": "https://api.github.com/users/tyllark/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/tyllark/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 9
       },
       {
         "login": "jamesonwilliams",
@@ -36201,7 +36201,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 212
+        "contributions": 214
       },
       {
         "login": "thaddmt",
@@ -47973,7 +47973,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 61
+        "contributions": 62
       },
       {
         "login": "awsluja",
