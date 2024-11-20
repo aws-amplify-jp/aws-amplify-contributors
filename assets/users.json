@@ -5566,5 +5566,9 @@
   "dindjarinjs": {
     "login": "dindjarinjs",
     "location": null
+  },
+  "steinsag": {
+    "login": "steinsag",
+    "location": "Berlin, Germany"
   }
 }
