@@ -13168,28 +13168,6 @@
         "contributions": 2
       },
       {
-        "login": "calavera",
-        "id": 1050,
-        "node_id": "MDQ6VXNlcjEwNTA=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1050?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/calavera",
-        "html_url": "https://github.com/calavera",
-        "followers_url": "https://api.github.com/users/calavera/followers",
-        "following_url": "https://api.github.com/users/calavera/following{/other_user}",
-        "gists_url": "https://api.github.com/users/calavera/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/calavera/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/calavera/subscriptions",
-        "organizations_url": "https://api.github.com/users/calavera/orgs",
-        "repos_url": "https://api.github.com/users/calavera/repos",
-        "events_url": "https://api.github.com/users/calavera/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/calavera/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 1
-      },
-      {
         "login": "harrysolovay",
         "id": 4893548,
         "node_id": "MDQ6VXNlcjQ4OTM1NDg=",
@@ -21848,28 +21826,6 @@
         "contributions": 14
       },
       {
-        "login": "calavera",
-        "id": 1050,
-        "node_id": "MDQ6VXNlcjEwNTA=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1050?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/calavera",
-        "html_url": "https://github.com/calavera",
-        "followers_url": "https://api.github.com/users/calavera/followers",
-        "following_url": "https://api.github.com/users/calavera/following{/other_user}",
-        "gists_url": "https://api.github.com/users/calavera/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/calavera/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/calavera/subscriptions",
-        "organizations_url": "https://api.github.com/users/calavera/orgs",
-        "repos_url": "https://api.github.com/users/calavera/repos",
-        "events_url": "https://api.github.com/users/calavera/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/calavera/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 14
-      },
-      {
         "login": "YikSanChan",
         "id": 17229109,
         "node_id": "MDQ6VXNlcjE3MjI5MTA5",
@@ -21890,6 +21846,28 @@
         "user_view_type": "public",
         "site_admin": false,
         "contributions": 13
+      },
+      {
+        "login": "calavera",
+        "id": 1050,
+        "node_id": "MDQ6VXNlcjEwNTA=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1050?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/calavera",
+        "html_url": "https://github.com/calavera",
+        "followers_url": "https://api.github.com/users/calavera/followers",
+        "following_url": "https://api.github.com/users/calavera/following{/other_user}",
+        "gists_url": "https://api.github.com/users/calavera/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/calavera/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/calavera/subscriptions",
+        "organizations_url": "https://api.github.com/users/calavera/orgs",
+        "repos_url": "https://api.github.com/users/calavera/repos",
+        "events_url": "https://api.github.com/users/calavera/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/calavera/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 12
       },
       {
         "login": "nikhname",
@@ -31649,7 +31627,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 30
+        "contributions": 24
       },
       {
         "login": "abhi7cr",
