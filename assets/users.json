@@ -5634,5 +5634,13 @@
   "berg-dee": {
     "login": "berg-dee",
     "location": null
+  },
+  "pavellazar": {
+    "login": "pavellazar",
+    "location": "Hudson"
+  },
+  "git-alazara": {
+    "login": "git-alazara",
+    "location": null
   }
 }
