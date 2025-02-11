@@ -32874,28 +32874,6 @@
         "contributions": 35
       },
       {
-        "login": "khatruong2009",
-        "id": 64438356,
-        "node_id": "MDQ6VXNlcjY0NDM4MzU2",
-        "avatar_url": "https://avatars.githubusercontent.com/u/64438356?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/khatruong2009",
-        "html_url": "https://github.com/khatruong2009",
-        "followers_url": "https://api.github.com/users/khatruong2009/followers",
-        "following_url": "https://api.github.com/users/khatruong2009/following{/other_user}",
-        "gists_url": "https://api.github.com/users/khatruong2009/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/khatruong2009/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/khatruong2009/subscriptions",
-        "organizations_url": "https://api.github.com/users/khatruong2009/orgs",
-        "repos_url": "https://api.github.com/users/khatruong2009/repos",
-        "events_url": "https://api.github.com/users/khatruong2009/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/khatruong2009/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 22
-      },
-      {
         "login": "tyllark",
         "id": 169833923,
         "node_id": "U_kgDOCh91ww",
@@ -32912,6 +32890,28 @@
         "repos_url": "https://api.github.com/users/tyllark/repos",
         "events_url": "https://api.github.com/users/tyllark/events{/privacy}",
         "received_events_url": "https://api.github.com/users/tyllark/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 23
+      },
+      {
+        "login": "khatruong2009",
+        "id": 64438356,
+        "node_id": "MDQ6VXNlcjY0NDM4MzU2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64438356?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/khatruong2009",
+        "html_url": "https://github.com/khatruong2009",
+        "followers_url": "https://api.github.com/users/khatruong2009/followers",
+        "following_url": "https://api.github.com/users/khatruong2009/following{/other_user}",
+        "gists_url": "https://api.github.com/users/khatruong2009/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/khatruong2009/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/khatruong2009/subscriptions",
+        "organizations_url": "https://api.github.com/users/khatruong2009/orgs",
+        "repos_url": "https://api.github.com/users/khatruong2009/repos",
+        "events_url": "https://api.github.com/users/khatruong2009/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/khatruong2009/received_events",
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
@@ -33735,7 +33735,7 @@
         "type": "Bot",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 39
+        "contributions": 41
       },
       {
         "login": "palpatim",
@@ -36421,7 +36421,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 426
+        "contributions": 428
       },
       {
         "login": "wlee221",
@@ -36971,7 +36971,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 8
+        "contributions": 9
       },
       {
         "login": "tylerjroach",
