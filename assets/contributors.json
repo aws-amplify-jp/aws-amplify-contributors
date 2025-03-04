@@ -20352,6 +20352,28 @@
         "contributions": 58
       },
       {
+        "login": "HuiSF",
+        "id": 10602282,
+        "node_id": "MDQ6VXNlcjEwNjAyMjgy",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10602282?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/HuiSF",
+        "html_url": "https://github.com/HuiSF",
+        "followers_url": "https://api.github.com/users/HuiSF/followers",
+        "following_url": "https://api.github.com/users/HuiSF/following{/other_user}",
+        "gists_url": "https://api.github.com/users/HuiSF/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/HuiSF/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/HuiSF/subscriptions",
+        "organizations_url": "https://api.github.com/users/HuiSF/orgs",
+        "repos_url": "https://api.github.com/users/HuiSF/repos",
+        "events_url": "https://api.github.com/users/HuiSF/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/HuiSF/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 57
+      },
+      {
         "login": "jamesonwilliams",
         "id": 899569,
         "node_id": "MDQ6VXNlcjg5OTU2OQ==",
@@ -20372,28 +20394,6 @@
         "user_view_type": "public",
         "site_admin": false,
         "contributions": 57
-      },
-      {
-        "login": "HuiSF",
-        "id": 10602282,
-        "node_id": "MDQ6VXNlcjEwNjAyMjgy",
-        "avatar_url": "https://avatars.githubusercontent.com/u/10602282?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/HuiSF",
-        "html_url": "https://github.com/HuiSF",
-        "followers_url": "https://api.github.com/users/HuiSF/followers",
-        "following_url": "https://api.github.com/users/HuiSF/following{/other_user}",
-        "gists_url": "https://api.github.com/users/HuiSF/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/HuiSF/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/HuiSF/subscriptions",
-        "organizations_url": "https://api.github.com/users/HuiSF/orgs",
-        "repos_url": "https://api.github.com/users/HuiSF/repos",
-        "events_url": "https://api.github.com/users/HuiSF/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/HuiSF/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 56
       },
       {
         "login": "sachscode",
@@ -41997,7 +41997,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 584
+        "contributions": 585
       },
       {
         "login": "UnleashedMind",
@@ -48699,7 +48699,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 109
+        "contributions": 110
       },
       {
         "login": "sdstolworthy",
