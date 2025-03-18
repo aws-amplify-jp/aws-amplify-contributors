@@ -5674,5 +5674,9 @@
   "bodadotsh": {
     "login": "bodadotsh",
     "location": "United Kingdom"
+  },
+  "shaneargo": {
+    "login": "shaneargo",
+    "location": null
   }
 }
