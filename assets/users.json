@@ -5686,5 +5686,9 @@
   "doubutsunokarada": {
     "login": "doubutsunokarada",
     "location": "Tokyo, Japan"
+  },
+  "daikimatsura": {
+    "login": "daikimatsura",
+    "location": null
   }
 }
