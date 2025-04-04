@@ -27071,7 +27071,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 201
+        "contributions": 202
       },
       {
         "login": "sebaland",
@@ -48702,6 +48702,28 @@
         "contributions": 253
       },
       {
+        "login": "Amplifiyer",
+        "id": 51211245,
+        "node_id": "MDQ6VXNlcjUxMjExMjQ1",
+        "avatar_url": "https://avatars.githubusercontent.com/u/51211245?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Amplifiyer",
+        "html_url": "https://github.com/Amplifiyer",
+        "followers_url": "https://api.github.com/users/Amplifiyer/followers",
+        "following_url": "https://api.github.com/users/Amplifiyer/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Amplifiyer/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Amplifiyer/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Amplifiyer/subscriptions",
+        "organizations_url": "https://api.github.com/users/Amplifiyer/orgs",
+        "repos_url": "https://api.github.com/users/Amplifiyer/repos",
+        "events_url": "https://api.github.com/users/Amplifiyer/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Amplifiyer/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 153
+      },
+      {
         "login": "github-actions[bot]",
         "id": 41898282,
         "node_id": "MDM6Qm90NDE4OTgyODI=",
@@ -48722,28 +48744,6 @@
         "user_view_type": "public",
         "site_admin": false,
         "contributions": 153
-      },
-      {
-        "login": "Amplifiyer",
-        "id": 51211245,
-        "node_id": "MDQ6VXNlcjUxMjExMjQ1",
-        "avatar_url": "https://avatars.githubusercontent.com/u/51211245?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Amplifiyer",
-        "html_url": "https://github.com/Amplifiyer",
-        "followers_url": "https://api.github.com/users/Amplifiyer/followers",
-        "following_url": "https://api.github.com/users/Amplifiyer/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Amplifiyer/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Amplifiyer/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Amplifiyer/subscriptions",
-        "organizations_url": "https://api.github.com/users/Amplifiyer/orgs",
-        "repos_url": "https://api.github.com/users/Amplifiyer/repos",
-        "events_url": "https://api.github.com/users/Amplifiyer/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Amplifiyer/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 151
       },
       {
         "login": "rtpascual",
@@ -48831,7 +48831,7 @@
         "type": "Bot",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 46
+        "contributions": 48
       },
       {
         "login": "0618",
@@ -49943,7 +49943,7 @@
         "type": "Bot",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 13
+        "contributions": 14
       },
       {
         "login": "zxl629",
