@@ -5694,5 +5694,9 @@
   "rsmogura": {
     "login": "rsmogura",
     "location": null
+  },
+  "odaysec": {
+    "login": "odaysec",
+    "location": "Lesser Sunda Islands. East of Javanesse"
   }
 }
