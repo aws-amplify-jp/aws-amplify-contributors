@@ -1094,6 +1094,28 @@
         "contributions": 4
       },
       {
+        "login": "tylerjroach",
+        "id": 634763,
+        "node_id": "MDQ6VXNlcjYzNDc2Mw==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/634763?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/tylerjroach",
+        "html_url": "https://github.com/tylerjroach",
+        "followers_url": "https://api.github.com/users/tylerjroach/followers",
+        "following_url": "https://api.github.com/users/tylerjroach/following{/other_user}",
+        "gists_url": "https://api.github.com/users/tylerjroach/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/tylerjroach/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/tylerjroach/subscriptions",
+        "organizations_url": "https://api.github.com/users/tylerjroach/orgs",
+        "repos_url": "https://api.github.com/users/tylerjroach/repos",
+        "events_url": "https://api.github.com/users/tylerjroach/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/tylerjroach/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 3
+      },
+      {
         "login": "jakerockland",
         "id": 8602661,
         "node_id": "MDQ6VXNlcjg2MDI2NjE=",
@@ -1220,28 +1242,6 @@
         "repos_url": "https://api.github.com/users/macdoum1/repos",
         "events_url": "https://api.github.com/users/macdoum1/events{/privacy}",
         "received_events_url": "https://api.github.com/users/macdoum1/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 2
-      },
-      {
-        "login": "tylerjroach",
-        "id": 634763,
-        "node_id": "MDQ6VXNlcjYzNDc2Mw==",
-        "avatar_url": "https://avatars.githubusercontent.com/u/634763?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/tylerjroach",
-        "html_url": "https://github.com/tylerjroach",
-        "followers_url": "https://api.github.com/users/tylerjroach/followers",
-        "following_url": "https://api.github.com/users/tylerjroach/following{/other_user}",
-        "gists_url": "https://api.github.com/users/tylerjroach/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/tylerjroach/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/tylerjroach/subscriptions",
-        "organizations_url": "https://api.github.com/users/tylerjroach/orgs",
-        "repos_url": "https://api.github.com/users/tylerjroach/repos",
-        "events_url": "https://api.github.com/users/tylerjroach/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/tylerjroach/received_events",
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
@@ -3121,7 +3121,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 24
+        "contributions": 26
       },
       {
         "login": "jpignata",
@@ -14227,7 +14227,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 15
+        "contributions": 16
       },
       {
         "login": "andyhopp",
@@ -28177,7 +28177,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 108
+        "contributions": 109
       },
       {
         "login": "github-actions[bot]",
