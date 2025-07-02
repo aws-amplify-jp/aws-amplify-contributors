@@ -5730,5 +5730,9 @@
   "TitusEfferian": {
     "login": "TitusEfferian",
     "location": "tokyo"
+  },
+  "adrianjoshua-strutt": {
+    "login": "adrianjoshua-strutt",
+    "location": null
   }
 }
