@@ -5750,5 +5750,9 @@
   "bobbor": {
     "login": "bobbor",
     "location": "Berlin, Germany"
+  },
+  "ashdevgit": {
+    "login": "ashdevgit",
+    "location": null
   }
 }
