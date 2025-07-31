@@ -20572,28 +20572,6 @@
         "contributions": 44
       },
       {
-        "login": "jakeburden",
-        "id": 2081699,
-        "node_id": "MDQ6VXNlcjIwODE2OTk=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/2081699?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/jakeburden",
-        "html_url": "https://github.com/jakeburden",
-        "followers_url": "https://api.github.com/users/jakeburden/followers",
-        "following_url": "https://api.github.com/users/jakeburden/following{/other_user}",
-        "gists_url": "https://api.github.com/users/jakeburden/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/jakeburden/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/jakeburden/subscriptions",
-        "organizations_url": "https://api.github.com/users/jakeburden/orgs",
-        "repos_url": "https://api.github.com/users/jakeburden/repos",
-        "events_url": "https://api.github.com/users/jakeburden/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/jakeburden/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 42
-      },
-      {
         "login": "tylerjroach",
         "id": 634763,
         "node_id": "MDQ6VXNlcjYzNDc2Mw==",
@@ -20610,6 +20588,28 @@
         "repos_url": "https://api.github.com/users/tylerjroach/repos",
         "events_url": "https://api.github.com/users/tylerjroach/events{/privacy}",
         "received_events_url": "https://api.github.com/users/tylerjroach/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 43
+      },
+      {
+        "login": "jakeburden",
+        "id": 2081699,
+        "node_id": "MDQ6VXNlcjIwODE2OTk=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2081699?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/jakeburden",
+        "html_url": "https://github.com/jakeburden",
+        "followers_url": "https://api.github.com/users/jakeburden/followers",
+        "following_url": "https://api.github.com/users/jakeburden/following{/other_user}",
+        "gists_url": "https://api.github.com/users/jakeburden/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/jakeburden/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/jakeburden/subscriptions",
+        "organizations_url": "https://api.github.com/users/jakeburden/orgs",
+        "repos_url": "https://api.github.com/users/jakeburden/repos",
+        "events_url": "https://api.github.com/users/jakeburden/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/jakeburden/received_events",
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
@@ -28243,7 +28243,7 @@
         "type": "Bot",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 99
+        "contributions": 100
       },
       {
         "login": "TrekSoft",
@@ -48963,7 +48963,7 @@
         "type": "Bot",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 96
+        "contributions": 98
       },
       {
         "login": "sdstolworthy",
