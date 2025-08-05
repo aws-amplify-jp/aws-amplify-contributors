@@ -27181,7 +27181,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 94
+        "contributions": 95
       },
       {
         "login": "phantumcode",
@@ -37084,6 +37084,28 @@
         "contributions": 9
       },
       {
+        "login": "osama-rizk",
+        "id": 41443120,
+        "node_id": "MDQ6VXNlcjQxNDQzMTIw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/41443120?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/osama-rizk",
+        "html_url": "https://github.com/osama-rizk",
+        "followers_url": "https://api.github.com/users/osama-rizk/followers",
+        "following_url": "https://api.github.com/users/osama-rizk/following{/other_user}",
+        "gists_url": "https://api.github.com/users/osama-rizk/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/osama-rizk/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/osama-rizk/subscriptions",
+        "organizations_url": "https://api.github.com/users/osama-rizk/orgs",
+        "repos_url": "https://api.github.com/users/osama-rizk/repos",
+        "events_url": "https://api.github.com/users/osama-rizk/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/osama-rizk/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 7
+      },
+      {
         "login": "tylerjroach",
         "id": 634763,
         "node_id": "MDQ6VXNlcjYzNDc2Mw==",
@@ -37104,28 +37126,6 @@
         "user_view_type": "public",
         "site_admin": false,
         "contributions": 7
-      },
-      {
-        "login": "osama-rizk",
-        "id": 41443120,
-        "node_id": "MDQ6VXNlcjQxNDQzMTIw",
-        "avatar_url": "https://avatars.githubusercontent.com/u/41443120?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/osama-rizk",
-        "html_url": "https://github.com/osama-rizk",
-        "followers_url": "https://api.github.com/users/osama-rizk/followers",
-        "following_url": "https://api.github.com/users/osama-rizk/following{/other_user}",
-        "gists_url": "https://api.github.com/users/osama-rizk/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/osama-rizk/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/osama-rizk/subscriptions",
-        "organizations_url": "https://api.github.com/users/osama-rizk/orgs",
-        "repos_url": "https://api.github.com/users/osama-rizk/repos",
-        "events_url": "https://api.github.com/users/osama-rizk/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/osama-rizk/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 6
       },
       {
         "login": "cshfang",
