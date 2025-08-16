@@ -5766,5 +5766,9 @@
   "jvh-aws": {
     "login": "jvh-aws",
     "location": null
+  },
+  "opsysdebug": {
+    "login": "opsysdebug",
+    "location": "Lesser Sunda Islands. East of Javanesse"
   }
 }
