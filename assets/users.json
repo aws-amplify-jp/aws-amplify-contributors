@@ -5778,5 +5778,13 @@
   "sharifhh": {
     "login": "sharifhh",
     "location": null
+  },
+  "ChristopherGabba": {
+    "login": "ChristopherGabba",
+    "location": "Houston, Texas"
+  },
+  "hetmann": {
+    "login": "hetmann",
+    "location": "Cluj-Napoca, Romania"
   }
 }
