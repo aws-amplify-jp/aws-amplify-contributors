@@ -5786,5 +5786,17 @@
   "hetmann": {
     "login": "hetmann",
     "location": "Cluj-Napoca, Romania"
+  },
+  "wapa5pow": {
+    "login": "wapa5pow",
+    "location": null
+  },
+  "rix0rrr": {
+    "login": "rix0rrr",
+    "location": "Netherlands"
+  },
+  "mrgrain": {
+    "login": "mrgrain",
+    "location": "Glasgow"
   }
 }
