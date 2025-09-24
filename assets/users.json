@@ -5798,5 +5798,13 @@
   "mrgrain": {
     "login": "mrgrain",
     "location": "Glasgow"
+  },
+  "anivar": {
+    "login": "anivar",
+    "location": "Bangalore"
+  },
+  "PaulVPrivateaser": {
+    "login": "PaulVPrivateaser",
+    "location": null
   }
 }
