@@ -5806,5 +5806,13 @@
   "PaulVPrivateaser": {
     "login": "PaulVPrivateaser",
     "location": null
+  },
+  "amine-troudi": {
+    "login": "amine-troudi",
+    "location": "Berlin"
+  },
+  "iankhou": {
+    "login": "iankhou",
+    "location": "New York, New York"
   }
 }
