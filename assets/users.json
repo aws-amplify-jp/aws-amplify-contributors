@@ -5838,5 +5838,9 @@
   "BitFlip-WD": {
     "login": "BitFlip-WD",
     "location": null
+  },
+  "kaizencc": {
+    "login": "kaizencc",
+    "location": null
   }
 }
