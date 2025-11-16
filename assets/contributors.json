@@ -1292,28 +1292,6 @@
         "contributions": 2
       },
       {
-        "login": "kredden",
-        "id": 13521046,
-        "node_id": "MDQ6VXNlcjEzNTIxMDQ2",
-        "avatar_url": "https://avatars.githubusercontent.com/u/13521046?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/kredden",
-        "html_url": "https://github.com/kredden",
-        "followers_url": "https://api.github.com/users/kredden/followers",
-        "following_url": "https://api.github.com/users/kredden/following{/other_user}",
-        "gists_url": "https://api.github.com/users/kredden/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/kredden/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/kredden/subscriptions",
-        "organizations_url": "https://api.github.com/users/kredden/orgs",
-        "repos_url": "https://api.github.com/users/kredden/repos",
-        "events_url": "https://api.github.com/users/kredden/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/kredden/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 2
-      },
-      {
         "login": "keith",
         "id": 283886,
         "node_id": "MDQ6VXNlcjI4Mzg4Ng==",
