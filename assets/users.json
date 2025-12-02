@@ -5862,5 +5862,9 @@
   "cadivus": {
     "login": "cadivus",
     "location": "Berlin, Germany"
+  },
+  "quan-ntekka": {
+    "login": "quan-ntekka",
+    "location": null
   }
 }
