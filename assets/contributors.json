@@ -23,7 +23,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 43
+        "contributions": 45
       },
       {
         "login": "ikenyal",
@@ -48,28 +48,6 @@
         "contributions": 15
       },
       {
-        "login": "fossamagna",
-        "id": 1638848,
-        "node_id": "MDQ6VXNlcjE2Mzg4NDg=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1638848?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/fossamagna",
-        "html_url": "https://github.com/fossamagna",
-        "followers_url": "https://api.github.com/users/fossamagna/followers",
-        "following_url": "https://api.github.com/users/fossamagna/following{/other_user}",
-        "gists_url": "https://api.github.com/users/fossamagna/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/fossamagna/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/fossamagna/subscriptions",
-        "organizations_url": "https://api.github.com/users/fossamagna/orgs",
-        "repos_url": "https://api.github.com/users/fossamagna/repos",
-        "events_url": "https://api.github.com/users/fossamagna/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/fossamagna/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 8
-      },
-      {
         "login": "dependabot[bot]",
         "id": 49699333,
         "node_id": "MDM6Qm90NDk2OTkzMzM=",
@@ -89,7 +67,29 @@
         "type": "Bot",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 7
+        "contributions": 11
+      },
+      {
+        "login": "fossamagna",
+        "id": 1638848,
+        "node_id": "MDQ6VXNlcjE2Mzg4NDg=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1638848?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/fossamagna",
+        "html_url": "https://github.com/fossamagna",
+        "followers_url": "https://api.github.com/users/fossamagna/followers",
+        "following_url": "https://api.github.com/users/fossamagna/following{/other_user}",
+        "gists_url": "https://api.github.com/users/fossamagna/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/fossamagna/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/fossamagna/subscriptions",
+        "organizations_url": "https://api.github.com/users/fossamagna/orgs",
+        "repos_url": "https://api.github.com/users/fossamagna/repos",
+        "events_url": "https://api.github.com/users/fossamagna/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/fossamagna/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 9
       },
       {
         "login": "geckotang",
@@ -112,6 +112,28 @@
         "user_view_type": "public",
         "site_admin": false,
         "contributions": 3
+      },
+      {
+        "login": "Copilot",
+        "id": 198982749,
+        "node_id": "BOT_kgDOC9w8XQ",
+        "avatar_url": "https://avatars.githubusercontent.com/in/1143301?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Copilot",
+        "html_url": "https://github.com/apps/copilot-swe-agent",
+        "followers_url": "https://api.github.com/users/Copilot/followers",
+        "following_url": "https://api.github.com/users/Copilot/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Copilot/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Copilot/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Copilot/subscriptions",
+        "organizations_url": "https://api.github.com/users/Copilot/orgs",
+        "repos_url": "https://api.github.com/users/Copilot/repos",
+        "events_url": "https://api.github.com/users/Copilot/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Copilot/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 2
       },
       {
         "login": "tacck",
