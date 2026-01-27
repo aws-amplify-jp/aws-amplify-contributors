@@ -5898,5 +5898,9 @@
   "jboshoven-emporia": {
     "login": "jboshoven-emporia",
     "location": null
+  },
+  "utopicnarwhal": {
+    "login": "utopicnarwhal",
+    "location": "Helsinki, Finland"
   }
 }
