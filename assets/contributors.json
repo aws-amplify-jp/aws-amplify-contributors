@@ -5723,7 +5723,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 35
+        "contributions": 36
       },
       {
         "login": "osama-rizk",
@@ -33355,7 +33355,7 @@
         "type": "Bot",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 83
+        "contributions": 91
       },
       {
         "login": "tyllark",
@@ -33487,7 +33487,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 18
+        "contributions": 19
       },
       {
         "login": "Ashish-Nanda",
@@ -38008,6 +38008,28 @@
         "contributions": 6
       },
       {
+        "login": "sarayev",
+        "id": 126112721,
+        "node_id": "U_kgDOB4RT0Q",
+        "avatar_url": "https://avatars.githubusercontent.com/u/126112721?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/sarayev",
+        "html_url": "https://github.com/sarayev",
+        "followers_url": "https://api.github.com/users/sarayev/followers",
+        "following_url": "https://api.github.com/users/sarayev/following{/other_user}",
+        "gists_url": "https://api.github.com/users/sarayev/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/sarayev/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/sarayev/subscriptions",
+        "organizations_url": "https://api.github.com/users/sarayev/orgs",
+        "repos_url": "https://api.github.com/users/sarayev/repos",
+        "events_url": "https://api.github.com/users/sarayev/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/sarayev/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 5
+      },
+      {
         "login": "lavr001",
         "id": 19784835,
         "node_id": "MDQ6VXNlcjE5Nzg0ODM1",
@@ -38112,28 +38134,6 @@
         "repos_url": "https://api.github.com/users/swaminator/repos",
         "events_url": "https://api.github.com/users/swaminator/events{/privacy}",
         "received_events_url": "https://api.github.com/users/swaminator/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 4
-      },
-      {
-        "login": "sarayev",
-        "id": 126112721,
-        "node_id": "U_kgDOB4RT0Q",
-        "avatar_url": "https://avatars.githubusercontent.com/u/126112721?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/sarayev",
-        "html_url": "https://github.com/sarayev",
-        "followers_url": "https://api.github.com/users/sarayev/followers",
-        "following_url": "https://api.github.com/users/sarayev/following{/other_user}",
-        "gists_url": "https://api.github.com/users/sarayev/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/sarayev/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/sarayev/subscriptions",
-        "organizations_url": "https://api.github.com/users/sarayev/orgs",
-        "repos_url": "https://api.github.com/users/sarayev/repos",
-        "events_url": "https://api.github.com/users/sarayev/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/sarayev/received_events",
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
