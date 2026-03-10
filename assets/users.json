@@ -5910,5 +5910,9 @@
   "ClaPalo": {
     "login": "ClaPalo",
     "location": "Milwaukee"
+  },
+  "shinping2": {
+    "login": "shinping2",
+    "location": null
   }
 }
