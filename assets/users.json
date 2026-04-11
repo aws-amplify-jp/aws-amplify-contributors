@@ -5926,5 +5926,9 @@
   "pjkroker": {
     "login": "pjkroker",
     "location": null
+  },
+  "jim-nvidia": {
+    "login": "jim-nvidia",
+    "location": null
   }
 }
