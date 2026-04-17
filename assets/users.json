@@ -5930,5 +5930,9 @@
   "jim-nvidia": {
     "login": "jim-nvidia",
     "location": null
+  },
+  "rickhohler": {
+    "login": "rickhohler",
+    "location": null
   }
 }
