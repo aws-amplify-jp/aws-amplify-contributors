@@ -5938,5 +5938,9 @@
   "sethfitz": {
     "login": "sethfitz",
     "location": "Bend, OR"
+  },
+  "bartdl": {
+    "login": "bartdl",
+    "location": null
   }
 }
