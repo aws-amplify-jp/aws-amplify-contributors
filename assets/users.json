@@ -5966,5 +5966,9 @@
   "SAY-5": {
     "login": "SAY-5",
     "location": "Santa Clara, California"
+  },
+  "mo-malaka": {
+    "login": "mo-malaka",
+    "location": "USA"
   }
 }
