@@ -10258,6 +10258,28 @@
         "contributions": 1
       },
       {
+        "login": "ShrutiPundir17",
+        "id": 111945742,
+        "node_id": "U_kgDOBqwoDg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/111945742?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/ShrutiPundir17",
+        "html_url": "https://github.com/ShrutiPundir17",
+        "followers_url": "https://api.github.com/users/ShrutiPundir17/followers",
+        "following_url": "https://api.github.com/users/ShrutiPundir17/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ShrutiPundir17/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/ShrutiPundir17/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ShrutiPundir17/subscriptions",
+        "organizations_url": "https://api.github.com/users/ShrutiPundir17/orgs",
+        "repos_url": "https://api.github.com/users/ShrutiPundir17/repos",
+        "events_url": "https://api.github.com/users/ShrutiPundir17/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/ShrutiPundir17/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 1
+      },
+      {
         "login": "chibicode",
         "id": 992008,
         "node_id": "MDQ6VXNlcjk5MjAwOA==",
@@ -10406,28 +10428,6 @@
         "repos_url": "https://api.github.com/users/seblegall/repos",
         "events_url": "https://api.github.com/users/seblegall/events{/privacy}",
         "received_events_url": "https://api.github.com/users/seblegall/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 1
-      },
-      {
-        "login": "exoego",
-        "id": 127635,
-        "node_id": "MDQ6VXNlcjEyNzYzNQ==",
-        "avatar_url": "https://avatars.githubusercontent.com/u/127635?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/exoego",
-        "html_url": "https://github.com/exoego",
-        "followers_url": "https://api.github.com/users/exoego/followers",
-        "following_url": "https://api.github.com/users/exoego/following{/other_user}",
-        "gists_url": "https://api.github.com/users/exoego/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/exoego/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/exoego/subscriptions",
-        "organizations_url": "https://api.github.com/users/exoego/orgs",
-        "repos_url": "https://api.github.com/users/exoego/repos",
-        "events_url": "https://api.github.com/users/exoego/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/exoego/received_events",
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
@@ -27445,7 +27445,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 258
+        "contributions": 259
       },
       {
         "login": "sebaland",
@@ -33553,7 +33553,7 @@
         "type": "Bot",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 152
+        "contributions": 153
       },
       {
         "login": "haverchuck",
@@ -33663,7 +33663,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 64
+        "contributions": 66
       },
       {
         "login": "NikaHsn",
@@ -38225,7 +38225,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 14
+        "contributions": 15
       },
       {
         "login": "jjarvisp",
