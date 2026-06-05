@@ -27445,7 +27445,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 259
+        "contributions": 260
       },
       {
         "login": "sebaland",
@@ -51342,6 +51342,28 @@
         "contributions": 6
       },
       {
+        "login": "adrianjoshua-strutt",
+        "id": 60191560,
+        "node_id": "MDQ6VXNlcjYwMTkxNTYw",
+        "avatar_url": "https://avatars.githubusercontent.com/u/60191560?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adrianjoshua-strutt",
+        "html_url": "https://github.com/adrianjoshua-strutt",
+        "followers_url": "https://api.github.com/users/adrianjoshua-strutt/followers",
+        "following_url": "https://api.github.com/users/adrianjoshua-strutt/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adrianjoshua-strutt/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adrianjoshua-strutt/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adrianjoshua-strutt/subscriptions",
+        "organizations_url": "https://api.github.com/users/adrianjoshua-strutt/orgs",
+        "repos_url": "https://api.github.com/users/adrianjoshua-strutt/repos",
+        "events_url": "https://api.github.com/users/adrianjoshua-strutt/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adrianjoshua-strutt/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 5
+      },
+      {
         "login": "sundersc",
         "id": 83315412,
         "node_id": "MDQ6VXNlcjgzMzE1NDEy",
@@ -51406,28 +51428,6 @@
         "user_view_type": "public",
         "site_admin": false,
         "contributions": 5
-      },
-      {
-        "login": "adrianjoshua-strutt",
-        "id": 60191560,
-        "node_id": "MDQ6VXNlcjYwMTkxNTYw",
-        "avatar_url": "https://avatars.githubusercontent.com/u/60191560?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/adrianjoshua-strutt",
-        "html_url": "https://github.com/adrianjoshua-strutt",
-        "followers_url": "https://api.github.com/users/adrianjoshua-strutt/followers",
-        "following_url": "https://api.github.com/users/adrianjoshua-strutt/following{/other_user}",
-        "gists_url": "https://api.github.com/users/adrianjoshua-strutt/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/adrianjoshua-strutt/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/adrianjoshua-strutt/subscriptions",
-        "organizations_url": "https://api.github.com/users/adrianjoshua-strutt/orgs",
-        "repos_url": "https://api.github.com/users/adrianjoshua-strutt/repos",
-        "events_url": "https://api.github.com/users/adrianjoshua-strutt/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/adrianjoshua-strutt/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 4
       },
       {
         "login": "iliapolo",
