@@ -6002,5 +6002,9 @@
   "vishwakt": {
     "login": "vishwakt",
     "location": "USA"
+  },
+  "dmorrow": {
+    "login": "dmorrow",
+    "location": "New York"
   }
 }
