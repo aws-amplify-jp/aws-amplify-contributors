@@ -27533,7 +27533,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 268
+        "contributions": 269
       },
       {
         "login": "sebaland",
@@ -28815,7 +28815,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 160
+        "contributions": 163
       },
       {
         "login": "poojamat",
@@ -33751,7 +33751,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 123
+        "contributions": 125
       },
       {
         "login": "haverchuck",
@@ -49998,28 +49998,6 @@
         "contributions": 3
       },
       {
-        "login": "yuhengshs",
-        "id": 94558971,
-        "node_id": "U_kgDOBaLa-w",
-        "avatar_url": "https://avatars.githubusercontent.com/u/94558971?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/yuhengshs",
-        "html_url": "https://github.com/yuhengshs",
-        "followers_url": "https://api.github.com/users/yuhengshs/followers",
-        "following_url": "https://api.github.com/users/yuhengshs/following{/other_user}",
-        "gists_url": "https://api.github.com/users/yuhengshs/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/yuhengshs/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/yuhengshs/subscriptions",
-        "organizations_url": "https://api.github.com/users/yuhengshs/orgs",
-        "repos_url": "https://api.github.com/users/yuhengshs/repos",
-        "events_url": "https://api.github.com/users/yuhengshs/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/yuhengshs/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 2
-      },
-      {
         "login": "dependabot[bot]",
         "id": 49699333,
         "node_id": "MDM6Qm90NDk2OTkzMzM=",
@@ -50037,6 +50015,28 @@
         "events_url": "https://api.github.com/users/dependabot%5Bbot%5D/events{/privacy}",
         "received_events_url": "https://api.github.com/users/dependabot%5Bbot%5D/received_events",
         "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 3
+      },
+      {
+        "login": "yuhengshs",
+        "id": 94558971,
+        "node_id": "U_kgDOBaLa-w",
+        "avatar_url": "https://avatars.githubusercontent.com/u/94558971?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/yuhengshs",
+        "html_url": "https://github.com/yuhengshs",
+        "followers_url": "https://api.github.com/users/yuhengshs/followers",
+        "following_url": "https://api.github.com/users/yuhengshs/following{/other_user}",
+        "gists_url": "https://api.github.com/users/yuhengshs/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/yuhengshs/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/yuhengshs/subscriptions",
+        "organizations_url": "https://api.github.com/users/yuhengshs/orgs",
+        "repos_url": "https://api.github.com/users/yuhengshs/repos",
+        "events_url": "https://api.github.com/users/yuhengshs/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/yuhengshs/received_events",
+        "type": "User",
         "user_view_type": "public",
         "site_admin": false,
         "contributions": 2
@@ -50309,7 +50309,7 @@
         "type": "Bot",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 11
+        "contributions": 12
       },
       {
         "login": "sebaland",
