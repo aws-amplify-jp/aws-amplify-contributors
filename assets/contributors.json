@@ -5770,6 +5770,28 @@
         "contributions": 59
       },
       {
+        "login": "soberm",
+        "id": 12175134,
+        "node_id": "MDQ6VXNlcjEyMTc1MTM0",
+        "avatar_url": "https://avatars.githubusercontent.com/u/12175134?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/soberm",
+        "html_url": "https://github.com/soberm",
+        "followers_url": "https://api.github.com/users/soberm/followers",
+        "following_url": "https://api.github.com/users/soberm/following{/other_user}",
+        "gists_url": "https://api.github.com/users/soberm/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/soberm/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/soberm/subscriptions",
+        "organizations_url": "https://api.github.com/users/soberm/orgs",
+        "repos_url": "https://api.github.com/users/soberm/repos",
+        "events_url": "https://api.github.com/users/soberm/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/soberm/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 56
+      },
+      {
         "login": "erinleigh90",
         "id": 106691284,
         "node_id": "U_kgDOBlv61A",
@@ -5812,28 +5834,6 @@
         "user_view_type": "public",
         "site_admin": false,
         "contributions": 55
-      },
-      {
-        "login": "soberm",
-        "id": 12175134,
-        "node_id": "MDQ6VXNlcjEyMTc1MTM0",
-        "avatar_url": "https://avatars.githubusercontent.com/u/12175134?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/soberm",
-        "html_url": "https://github.com/soberm",
-        "followers_url": "https://api.github.com/users/soberm/followers",
-        "following_url": "https://api.github.com/users/soberm/following{/other_user}",
-        "gists_url": "https://api.github.com/users/soberm/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/soberm/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/soberm/subscriptions",
-        "organizations_url": "https://api.github.com/users/soberm/orgs",
-        "repos_url": "https://api.github.com/users/soberm/repos",
-        "events_url": "https://api.github.com/users/soberm/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/soberm/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 54
       },
       {
         "login": "Ashish-Nanda",
@@ -33773,7 +33773,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 127
+        "contributions": 131
       },
       {
         "login": "haverchuck",
@@ -38379,7 +38379,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 35
+        "contributions": 36
       },
       {
         "login": "jordanvn",
@@ -53023,7 +53023,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 17
+        "contributions": 18
       },
       {
         "login": "bobbor",
