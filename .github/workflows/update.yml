@@ -11,11 +11,11 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           ref: main
       - name: Use Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version-file: ".nvmrc"
       - name: Use the latest npm
@@ -41,8 +41,17 @@ jobs:
           git commit -m 'generated'
           git push
         if: steps.diff.outcome == 'failure'
+      - name: Generate token
+        id: app-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.DEPLOY_APP_CLIENT_ID }}
+          private-key: ${{ secrets.DEPLOY_APP_PRIVATE_KEY }}
+          owner: aws-amplify-jp
+          repositories: aws-amplify-jp.github.io
+        if: steps.diff.outcome == 'failure'
       - name: Dispatch Deploy
         run: npm run dispatch:deploy
         env:
-          GITHUB_TOKEN: ${{ secrets.AMPLIFY_JUG_WEBSITE_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
         if: steps.diff.outcome == 'failure'
