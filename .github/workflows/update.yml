@@ -30,8 +30,11 @@ jobs:
         id: diff
         run: |
           git add -N .
-          git diff --name-only --exit-code
-        continue-on-error: true
+          if git diff --name-only --exit-code; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
       - name: Commit & Push
         run: |
           set -x
@@ -40,7 +43,7 @@ jobs:
           git add .
           git commit -m 'generated'
           git push
-        if: steps.diff.outcome == 'failure'
+        if: steps.diff.outputs.changed == 'true'
       - name: Generate token
         id: app-token
         uses: actions/create-github-app-token@v3
@@ -49,9 +52,9 @@ jobs:
           private-key: ${{ secrets.DEPLOY_APP_PRIVATE_KEY }}
           owner: aws-amplify-jp
           repositories: aws-amplify-jp.github.io
-        if: steps.diff.outcome == 'failure'
+        if: steps.diff.outputs.changed == 'true'
       - name: Dispatch Deploy
         run: npm run dispatch:deploy
         env:
           GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
-        if: steps.diff.outcome == 'failure'
+        if: steps.diff.outputs.changed == 'true'
