@@ -14,3 +14,8 @@
 ```sh
 GITHUB_TOKEN=<personal access token> npm run fetch
 ```
+
+## 自動更新とデプロイ
+
+`update` ワークフローが毎日コントリビューターのリストを更新し、変更があれば [aws-amplify-jp.github.io](https://github.com/aws-amplify-jp/aws-amplify-jp.github.io) のデプロイを起動します。
+デプロイの起動には GitHub App を使っています。仕組みと設定は [docs/deploy-github-app.md](docs/deploy-github-app.md) を参照してください。
