@@ -59,7 +59,12 @@ export class GitHubClient {
       });
       return data;
     } catch (e) {
-      console.warn(e);
+      // Some bot accounts (e.g. Copilot) appear as contributors but have no user profile
+      if (e.status === 404) {
+        console.warn(`User not found: ${username}`);
+      } else {
+        console.warn(e);
+      }
       return null;
     }
   }
