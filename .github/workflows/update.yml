@@ -41,8 +41,17 @@ jobs:
           git commit -m 'generated'
           git push
         if: steps.diff.outcome == 'failure'
+      - name: Generate token
+        id: app-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ vars.DEPLOY_APP_ID }}
+          private-key: ${{ secrets.DEPLOY_APP_PRIVATE_KEY }}
+          owner: aws-amplify-jp
+          repositories: aws-amplify-jp.github.io
+        if: steps.diff.outcome == 'failure'
       - name: Dispatch Deploy
         run: npm run dispatch:deploy
         env:
-          GITHUB_TOKEN: ${{ secrets.AMPLIFY_JUG_WEBSITE_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
         if: steps.diff.outcome == 'failure'
