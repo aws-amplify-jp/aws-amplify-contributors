@@ -6,14 +6,14 @@ on:
     - cron: "0 15 * * *"
   push:
     branches: main
+  pull_request:
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-        with:
-          ref: main
       - name: Use Node.js
         uses: actions/setup-node@v7
         with:
@@ -43,7 +43,7 @@ jobs:
           git add .
           git commit -m 'generated'
           git push
-        if: steps.diff.outputs.changed == 'true'
+        if: steps.diff.outputs.changed == 'true' && github.ref == 'refs/heads/main'
       - name: Generate token
         id: app-token
         uses: actions/create-github-app-token@v3
@@ -52,9 +52,9 @@ jobs:
           private-key: ${{ secrets.DEPLOY_APP_PRIVATE_KEY }}
           owner: aws-amplify-jp
           repositories: aws-amplify-jp.github.io
-        if: steps.diff.outputs.changed == 'true'
+        if: steps.diff.outputs.changed == 'true' && github.ref == 'refs/heads/main'
       - name: Dispatch Deploy
         run: npm run dispatch:deploy
         env:
           GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
-        if: steps.diff.outputs.changed == 'true'
+        if: steps.diff.outputs.changed == 'true' && github.ref == 'refs/heads/main'
