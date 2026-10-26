@@ -14535,7 +14535,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 12
+        "contributions": 11
       },
       {
         "login": "palpatim",
@@ -27885,7 +27885,7 @@
         "type": "Bot",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 27
+        "contributions": 28
       },
       {
         "login": "iartemiev",
@@ -38555,7 +38555,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 40
+        "contributions": 42
       },
       {
         "login": "pranavosu",
@@ -45278,28 +45278,6 @@
         "contributions": 14
       },
       {
-        "login": "rajrajhans",
-        "id": 32734049,
-        "node_id": "MDQ6VXNlcjMyNzM0MDQ5",
-        "avatar_url": "https://avatars.githubusercontent.com/u/32734049?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/rajrajhans",
-        "html_url": "https://github.com/rajrajhans",
-        "followers_url": "https://api.github.com/users/rajrajhans/followers",
-        "following_url": "https://api.github.com/users/rajrajhans/following{/other_user}",
-        "gists_url": "https://api.github.com/users/rajrajhans/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/rajrajhans/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/rajrajhans/subscriptions",
-        "organizations_url": "https://api.github.com/users/rajrajhans/orgs",
-        "repos_url": "https://api.github.com/users/rajrajhans/repos",
-        "events_url": "https://api.github.com/users/rajrajhans/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/rajrajhans/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 14
-      },
-      {
         "login": "andyhopp",
         "id": 30149415,
         "node_id": "MDQ6VXNlcjMwMTQ5NDE1",
@@ -45320,6 +45298,28 @@
         "user_view_type": "public",
         "site_admin": false,
         "contributions": 14
+      },
+      {
+        "login": "rajrajhans",
+        "id": 32734049,
+        "node_id": "MDQ6VXNlcjMyNzM0MDQ5",
+        "avatar_url": "https://avatars.githubusercontent.com/u/32734049?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rajrajhans",
+        "html_url": "https://github.com/rajrajhans",
+        "followers_url": "https://api.github.com/users/rajrajhans/followers",
+        "following_url": "https://api.github.com/users/rajrajhans/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rajrajhans/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rajrajhans/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rajrajhans/subscriptions",
+        "organizations_url": "https://api.github.com/users/rajrajhans/orgs",
+        "repos_url": "https://api.github.com/users/rajrajhans/repos",
+        "events_url": "https://api.github.com/users/rajrajhans/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rajrajhans/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 13
       },
       {
         "login": "Amplifiyer",
@@ -49948,28 +49948,6 @@
         "contributions": 11
       },
       {
-        "login": "jcjimenez",
-        "id": 1117904,
-        "node_id": "MDQ6VXNlcjExMTc5MDQ=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1117904?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/jcjimenez",
-        "html_url": "https://github.com/jcjimenez",
-        "followers_url": "https://api.github.com/users/jcjimenez/followers",
-        "following_url": "https://api.github.com/users/jcjimenez/following{/other_user}",
-        "gists_url": "https://api.github.com/users/jcjimenez/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/jcjimenez/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/jcjimenez/subscriptions",
-        "organizations_url": "https://api.github.com/users/jcjimenez/orgs",
-        "repos_url": "https://api.github.com/users/jcjimenez/repos",
-        "events_url": "https://api.github.com/users/jcjimenez/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/jcjimenez/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 3
-      },
-      {
         "login": "cadivus",
         "id": 51089187,
         "node_id": "MDQ6VXNlcjUxMDg5MTg3",
@@ -49986,6 +49964,28 @@
         "repos_url": "https://api.github.com/users/cadivus/repos",
         "events_url": "https://api.github.com/users/cadivus/events{/privacy}",
         "received_events_url": "https://api.github.com/users/cadivus/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 4
+      },
+      {
+        "login": "jcjimenez",
+        "id": 1117904,
+        "node_id": "MDQ6VXNlcjExMTc5MDQ=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1117904?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/jcjimenez",
+        "html_url": "https://github.com/jcjimenez",
+        "followers_url": "https://api.github.com/users/jcjimenez/followers",
+        "following_url": "https://api.github.com/users/jcjimenez/following{/other_user}",
+        "gists_url": "https://api.github.com/users/jcjimenez/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/jcjimenez/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/jcjimenez/subscriptions",
+        "organizations_url": "https://api.github.com/users/jcjimenez/orgs",
+        "repos_url": "https://api.github.com/users/jcjimenez/repos",
+        "events_url": "https://api.github.com/users/jcjimenez/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/jcjimenez/received_events",
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
