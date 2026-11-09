@@ -6062,5 +6062,9 @@
   "blihio": {
     "login": "blihio",
     "location": null
+  },
+  "aws-amplify-ops-app[bot]": {
+    "login": "aws-amplify-ops-app[bot]",
+    "location": null
   }
 }
