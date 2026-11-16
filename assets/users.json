@@ -6066,5 +6066,9 @@
   "aws-amplify-ops-app[bot]": {
     "login": "aws-amplify-ops-app[bot]",
     "location": null
+  },
+  "maxence-lefebvre": {
+    "login": "maxence-lefebvre",
+    "location": "Lille, France"
   }
 }
