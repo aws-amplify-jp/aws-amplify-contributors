@@ -14582,6 +14582,28 @@
         "contributions": 11
       },
       {
+        "login": "svidgen",
+        "id": 8375502,
+        "node_id": "MDQ6VXNlcjgzNzU1MDI=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8375502?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/svidgen",
+        "html_url": "https://github.com/svidgen",
+        "followers_url": "https://api.github.com/users/svidgen/followers",
+        "following_url": "https://api.github.com/users/svidgen/following{/other_user}",
+        "gists_url": "https://api.github.com/users/svidgen/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/svidgen/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/svidgen/subscriptions",
+        "organizations_url": "https://api.github.com/users/svidgen/orgs",
+        "repos_url": "https://api.github.com/users/svidgen/repos",
+        "events_url": "https://api.github.com/users/svidgen/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/svidgen/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 10
+      },
+      {
         "login": "kstro21",
         "id": 5972646,
         "node_id": "MDQ6VXNlcjU5NzI2NDY=",
@@ -14624,28 +14646,6 @@
         "user_view_type": "public",
         "site_admin": false,
         "contributions": 10
-      },
-      {
-        "login": "svidgen",
-        "id": 8375502,
-        "node_id": "MDQ6VXNlcjgzNzU1MDI=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/8375502?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/svidgen",
-        "html_url": "https://github.com/svidgen",
-        "followers_url": "https://api.github.com/users/svidgen/followers",
-        "following_url": "https://api.github.com/users/svidgen/following{/other_user}",
-        "gists_url": "https://api.github.com/users/svidgen/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/svidgen/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/svidgen/subscriptions",
-        "organizations_url": "https://api.github.com/users/svidgen/orgs",
-        "repos_url": "https://api.github.com/users/svidgen/repos",
-        "events_url": "https://api.github.com/users/svidgen/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/svidgen/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 9
       },
       {
         "login": "ykethan",
@@ -27555,7 +27555,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 341
+        "contributions": 342
       },
       {
         "login": "royjit",
@@ -45121,7 +45121,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 25
+        "contributions": 26
       },
       {
         "login": "fuelvin1",
