@@ -34502,28 +34502,6 @@
         "contributions": 1
       },
       {
-        "login": "bluprince13",
-        "id": 7240386,
-        "node_id": "MDQ6VXNlcjcyNDAzODY=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/7240386?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/bluprince13",
-        "html_url": "https://github.com/bluprince13",
-        "followers_url": "https://api.github.com/users/bluprince13/followers",
-        "following_url": "https://api.github.com/users/bluprince13/following{/other_user}",
-        "gists_url": "https://api.github.com/users/bluprince13/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/bluprince13/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/bluprince13/subscriptions",
-        "organizations_url": "https://api.github.com/users/bluprince13/orgs",
-        "repos_url": "https://api.github.com/users/bluprince13/repos",
-        "events_url": "https://api.github.com/users/bluprince13/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/bluprince13/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 1
-      },
-      {
         "login": "SuTran",
         "id": 4506521,
         "node_id": "MDQ6VXNlcjQ1MDY1MjE=",
