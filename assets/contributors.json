@@ -5726,28 +5726,6 @@
         "contributions": 74
       },
       {
-        "login": "svidgen",
-        "id": 8375502,
-        "node_id": "MDQ6VXNlcjgzNzU1MDI=",
-        "avatar_url": "https://avatars.githubusercontent.com/u/8375502?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/svidgen",
-        "html_url": "https://github.com/svidgen",
-        "followers_url": "https://api.github.com/users/svidgen/followers",
-        "following_url": "https://api.github.com/users/svidgen/following{/other_user}",
-        "gists_url": "https://api.github.com/users/svidgen/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/svidgen/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/svidgen/subscriptions",
-        "organizations_url": "https://api.github.com/users/svidgen/orgs",
-        "repos_url": "https://api.github.com/users/svidgen/repos",
-        "events_url": "https://api.github.com/users/svidgen/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/svidgen/received_events",
-        "type": "User",
-        "user_view_type": "public",
-        "site_admin": false,
-        "contributions": 71
-      },
-      {
         "login": "osama-rizk",
         "id": 41443120,
         "node_id": "MDQ6VXNlcjQxNDQzMTIw",
@@ -5764,6 +5742,28 @@
         "repos_url": "https://api.github.com/users/osama-rizk/repos",
         "events_url": "https://api.github.com/users/osama-rizk/events{/privacy}",
         "received_events_url": "https://api.github.com/users/osama-rizk/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false,
+        "contributions": 72
+      },
+      {
+        "login": "svidgen",
+        "id": 8375502,
+        "node_id": "MDQ6VXNlcjgzNzU1MDI=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8375502?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/svidgen",
+        "html_url": "https://github.com/svidgen",
+        "followers_url": "https://api.github.com/users/svidgen/followers",
+        "following_url": "https://api.github.com/users/svidgen/following{/other_user}",
+        "gists_url": "https://api.github.com/users/svidgen/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/svidgen/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/svidgen/subscriptions",
+        "organizations_url": "https://api.github.com/users/svidgen/orgs",
+        "repos_url": "https://api.github.com/users/svidgen/repos",
+        "events_url": "https://api.github.com/users/svidgen/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/svidgen/received_events",
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
@@ -27577,7 +27577,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 345
+        "contributions": 346
       },
       {
         "login": "royjit",
@@ -27643,7 +27643,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 157
+        "contributions": 158
       },
       {
         "login": "palpatim",
@@ -28925,7 +28925,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 188
+        "contributions": 190
       },
       {
         "login": "poojamat",
@@ -29035,7 +29035,7 @@
         "type": "Bot",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 107
+        "contributions": 108
       },
       {
         "login": "TrekSoft",
@@ -33949,7 +33949,7 @@
         "type": "User",
         "user_view_type": "public",
         "site_admin": false,
-        "contributions": 154
+        "contributions": 156
       },
       {
         "login": "haverchuck",
